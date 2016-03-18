@@ -10,6 +10,9 @@ hitheme     : tomorrow      #
 widgets     : [mathjax, quiz, bootstrap]  # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
+github:
+  user: guanlinhou
+  repo: Shiny 
 ---
 
 ## Project Overview
@@ -18,7 +21,7 @@ The presentation is made in the context of the course "Developing Data Products"
 
 The application "Millennium Development Goals (MDGs)" is deployed here: https://guanlinhou.shinyapps.io/MDGs/
 
-The dataset used and source code for ui.R and server.R files can be found here: https://github.com/guanlinhou/MDGs
+The dataset used and source code for ui.R and server.R files can be found here: https://github.com/guanlinhou/Shiny
 
 --- .class #id
 
