@@ -1,0 +1,5665 @@
+country	year	indicator1:Fixed telephone lines per 100 inhabitants	indicator2:Mobile cellular subscriptions per 100 inhabitants	indicator3:Internet users per 100 inhabitants
+Afghanistan	1990	0.28	0	0
+Afghanistan	1991	0.26	0	NA
+Afghanistan	1992	0.19	0	NA
+Afghanistan	1993	0.17	0	NA
+Afghanistan	1994	0.16	0	NA
+Afghanistan	1995	0.15	0	NA
+Afghanistan	1996	0.14	0	NA
+Afghanistan	1997	0.14	0	NA
+Afghanistan	1998	0.13	0	NA
+Afghanistan	1999	0.13	0	NA
+Afghanistan	2000	0.13	0	NA
+Afghanistan	2001	0.12	0	0
+Afghanistan	2002	0.13	0.1	0
+Afghanistan	2003	0.14	0.78	0.09
+Afghanistan	2004	NA	2.25	0.11
+Afghanistan	2005	NA	4.35	1.22
+Afghanistan	2006	NA	8.87	2.11
+Afghanistan	2007	NA	16.02	1.9
+Afghanistan	2008	NA	26.47	1.84
+Afghanistan	2009	0.02	34.34	3.55
+Afghanistan	2010	0.05	41.39	4
+Afghanistan	2011	0.04	54.26	5
+Afghanistan	2012	0.04	53.9	5.45
+Afghanistan	2013	NA	NA	NA
+Albania	1990	1.22	0	0
+Albania	1991	1.26	0	NA
+Albania	1992	1.37	0	NA
+Albania	1993	1.33	0	NA
+Albania	1994	1.31	0	NA
+Albania	1995	1.34	0	0.01
+Albania	1996	2.05	0.07	0.03
+Albania	1997	2.81	0.11	0.05
+Albania	1998	3.76	0.18	0.07
+Albania	1999	4.57	0.36	0.08
+Albania	2000	4.97	0.97	0.11
+Albania	2001	6.42	12.76	0.33
+Albania	2002	7.12	27.54	0.39
+Albania	2003	8.21	35.41	0.97
+Albania	2004	8.79	40.31	2.42
+Albania	2005	8.88	48.71	6.04
+Albania	2006	8.11	60.5	9.61
+Albania	2007	9.46	73.27	15.04
+Albania	2008	10.8	58.45	23.86
+Albania	2009	11.37	77.17	41.2
+Albania	2010	10.39	84.02	45
+Albania	2011	10.54	96.39	49
+Albania	2012	9.67	108.45	54.66
+Albania	2013	NA	NA	NA
+Algeria	1990	3.21	0	0
+Algeria	1991	3.41	0.02	NA
+Algeria	1992	3.62	0.02	NA
+Algeria	1993	3.93	0.02	NA
+Algeria	1994	4.04	0	0
+Algeria	1995	4.16	0.02	0
+Algeria	1996	4.44	0.04	0
+Algeria	1997	4.79	0.06	0.01
+Algeria	1998	4.98	0.06	0.02
+Algeria	1999	5.32	0.24	0.2
+Algeria	2000	5.77	0.28	0.49
+Algeria	2001	6.07	0.32	0.65
+Algeria	2002	6.2	1.43	1.59
+Algeria	2003	6.52	4.53	2.2
+Algeria	2004	7.68	15.07	4.63
+Algeria	2005	7.82	41.54	5.84
+Algeria	2006	8.51	62.88	7.38
+Algeria	2007	9.05	81.29	9.45
+Algeria	2008	8.91	78.52	10.18
+Algeria	2009	7.37	93.65	11.23
+Algeria	2010	8.24	92.42	12.5
+Algeria	2011	8.5	98.99	14
+Algeria	2012	8.78	103.31	15.23
+Algeria	2013	NA	NA	NA
+American Samoa	1990	11.69	0	0
+American Samoa	1991	11.36	0	NA
+American Samoa	1992	12.09	1.41	NA
+American Samoa	1993	15.75	1.77	NA
+American Samoa	1994	18.31	2.31	NA
+American Samoa	1995	18.52	2.36	NA
+American Samoa	1996	18.55	2.41	NA
+American Samoa	1997	18.42	2.55	NA
+American Samoa	1998	18.3	2.69	NA
+American Samoa	1999	18	3.18	NA
+American Samoa	2000	17.79	3.46	NA
+American Samoa	2001	21.47	3.68	NA
+American Samoa	2002	23.54	3.41	NA
+American Samoa	2003	17.63	3.46	NA
+American Samoa	2004	16.73	3.64	NA
+American Samoa	2005	16.52	NA	NA
+American Samoa	2006	16.24	NA	NA
+American Samoa	2007	15.97	NA	NA
+American Samoa	2008	15.71	NA	NA
+American Samoa	2009	15.45	NA	NA
+American Samoa	2010	15.2	NA	NA
+American Samoa	2011	NA	NA	NA
+American Samoa	2012	14.15	NA	NA
+American Samoa	2013	NA	NA	NA
+Andorra	1990	40.74	0	0
+Andorra	1991	42.58	0	NA
+Andorra	1992	43.8	1.33	NA
+Andorra	1993	44.11	1.29	NA
+Andorra	1994	44.94	1.24	NA
+Andorra	1995	46.05	4.37	NA
+Andorra	1996	47.47	8.41	1.53
+Andorra	1997	49.27	13.28	3.05
+Andorra	1998	51.28	21.97	6.89
+Andorra	1999	52.52	32.2	7.64
+Andorra	2000	52.94	36.43	10.54
+Andorra	2001	51.97	44.33	NA
+Andorra	2002	50.58	47.49	11.26
+Andorra	2003	48.71	71.87	13.55
+Andorra	2004	46.54	77.52	26.84
+Andorra	2005	45.51	82.89	37.61
+Andorra	2006	45.71	86.39	48.94
+Andorra	2007	45.65	78.02	70.87
+Andorra	2008	45.26	77.75	70.04
+Andorra	2009	45.27	77.14	78.53
+Andorra	2010	44.98	77.18	81
+Andorra	2011	44.57	75.49	81
+Andorra	2012	44.56	74.27	86.43
+Andorra	2013	NA	NA	NA
+Angola	1990	0.68	0	0
+Angola	1991	0.68	0	NA
+Angola	1992	0.44	0	NA
+Angola	1993	0.47	0.01	NA
+Angola	1994	0.45	0.02	NA
+Angola	1995	0.44	0.02	NA
+Angola	1996	0.42	0.03	0
+Angola	1997	0.49	0.06	0.01
+Angola	1998	0.5	0.07	0.02
+Angola	1999	0.5	0.18	0.07
+Angola	2000	0.47	0.19	0.11
+Angola	2001	0.53	0.52	0.14
+Angola	2002	0.54	0.94	0.27
+Angola	2003	0.55	2.27	0.37
+Angola	2004	0.59	4.64	0.46
+Angola	2005	0.59	9.77	1.14
+Angola	2006	0.58	17.96	1.91
+Angola	2007	0.54	28.31	3.2
+Angola	2008	0.63	37.55	4.6
+Angola	2009	1.63	43.7	6
+Angola	2010	1.59	46.69	10
+Angola	2011	1.55	48.38	14.78
+Angola	2012	1.5	48.61	16.94
+Angola	2013	NA	NA	NA
+Anguilla	1990	NA	0	0
+Anguilla	1991	32.85	0	NA
+Anguilla	1992	34.49	0	NA
+Anguilla	1993	36.82	0	NA
+Anguilla	1994	39.6	0	NA
+Anguilla	1995	41.82	1.63	0.81
+Anguilla	1996	44	3.58	NA
+Anguilla	1997	52.93	6.9	NA
+Anguilla	1998	52.7	7.52	NA
+Anguilla	1999	54.42	13.75	NA
+Anguilla	2000	55.68	19.54	22.41
+Anguilla	2001	53.93	15.42	25.88
+Anguilla	2002	48.32	25.34	24.8
+Anguilla	2003	43.37	35.28	24.52
+Anguilla	2004	43.38	55.25	25.04
+Anguilla	2005	40.67	96.22	29
+Anguilla	2006	41.58	122.43	36
+Anguilla	2007	41.83	163.45	41
+Anguilla	2008	42.45	179.71	44
+Anguilla	2009	41.63	164.86	48
+Anguilla	2010	40.9	167.31	49.6
+Anguilla	2011	39.9	166.31	53.64
+Anguilla	2012	37.71	163.41	59.21
+Anguilla	2013	NA	NA	NA
+Antigua and Barbuda	1990	25.69	0	0
+Antigua and Barbuda	1991	21.78	NA	NA
+Antigua and Barbuda	1992	26.36	NA	NA
+Antigua and Barbuda	1993	29.45	NA	NA
+Antigua and Barbuda	1994	36.3	NA	NA
+Antigua and Barbuda	1995	37.72	NA	2.2
+Antigua and Barbuda	1996	39.74	1.85	2.86
+Antigua and Barbuda	1997	42.86	1.94	3.48
+Antigua and Barbuda	1998	45.83	2.02	4.07
+Antigua and Barbuda	1999	48.04	11.19	5.3
+Antigua and Barbuda	2000	49.32	28.33	6.48
+Antigua and Barbuda	2001	47.07	31.58	8.9
+Antigua and Barbuda	2002	47.26	47.46	12.5
+Antigua and Barbuda	2003	46.5	56.41	17.23
+Antigua and Barbuda	2004	45.87	65.19	24.27
+Antigua and Barbuda	2005	43.47	102.48	34.72
+Antigua and Barbuda	2006	44.14	129.69	62.64
+Antigua and Barbuda	2007	44.1	130.77	70.06
+Antigua and Barbuda	2008	43.74	157.22	75.03
+Antigua and Barbuda	2009	42.54	153.67	74.2
+Antigua and Barbuda	2010	40.94	189.35	80
+Antigua and Barbuda	2011	39.6	196.41	82
+Antigua and Barbuda	2012	38.67	198.62	83.79
+Antigua and Barbuda	2013	NA	NA	NA
+Argentina	1990	9.27	0.04	0
+Argentina	1991	9.46	0.08	NA
+Argentina	1992	10.72	0.14	0
+Argentina	1993	11.72	0.33	0.03
+Argentina	1994	14.49	0.7	0.04
+Argentina	1995	16.39	1.16	0.09
+Argentina	1996	17.75	1.89	0.14
+Argentina	1997	19.11	5.63	0.28
+Argentina	1998	19.64	7.39	0.83
+Argentina	1999	19.77	10.53	3.28
+Argentina	2000	21.38	17.57	7.04
+Argentina	2001	21.8	18.07	9.78
+Argentina	2002	20.47	17.44	10.88
+Argentina	2003	22.64	20.64	11.91
+Argentina	2004	22.85	35.24	16.04
+Argentina	2005	24.41	57.28	17.72
+Argentina	2006	24.24	80.75	20.93
+Argentina	2007	24.13	102.63	25.95
+Argentina	2008	24.53	117.11	28.11
+Argentina	2009	24.38	131	34
+Argentina	2010	24.25	132.88	45
+Argentina	2011	24.29	134.92	51
+Argentina	2012	24.31	142.51	55.8
+Argentina	2013	NA	NA	NA
+Armenia	1990	15.8	0	0
+Armenia	1991	16.29	0	NA
+Armenia	1992	16.77	0	NA
+Armenia	1993	17.31	0	NA
+Armenia	1994	17.84	0	0.01
+Armenia	1995	18.08	0	0.05
+Armenia	1996	18.27	0.01	0.09
+Armenia	1997	18.11	0.16	0.11
+Armenia	1998	17.9	0.25	0.13
+Armenia	1999	17.61	0.26	0.97
+Armenia	2000	17.34	0.57	1.3
+Armenia	2001	17.33	0.83	1.63
+Armenia	2002	17.73	2.33	1.96
+Armenia	2003	18.42	3.74	4.58
+Armenia	2004	18.9	6.64	4.9
+Armenia	2005	19.39	10.37	5.25
+Armenia	2006	19.67	41.04	5.63
+Armenia	2007	20.32	61.04	6.02
+Armenia	2008	20.35	46.83	6.21
+Armenia	2009	19.45	71.04	15.3
+Armenia	2010	19.16	125.01	25
+Armenia	2011	18.63	103.57	32
+Armenia	2012	18.79	106.88	39.16
+Armenia	2013	NA	NA	NA
+Aruba	1990	30.11	0	0
+Aruba	1991	29.39	0	NA
+Aruba	1992	29.87	0.03	NA
+Aruba	1993	28.94	NA	NA
+Aruba	1994	28.01	NA	NA
+Aruba	1995	33.99	2.14	NA
+Aruba	1996	40.42	3.61	2.77
+Aruba	1997	39.01	3.99	NA
+Aruba	1998	40.38	6.2	NA
+Aruba	1999	41.33	13.57	4.51
+Aruba	2000	42.21	16.62	15.44
+Aruba	2001	40.2	57.38	17.1
+Aruba	2002	39.25	65.33	18.8
+Aruba	2003	38.6	72.21	20.8
+Aruba	2004	38.37	99.34	23
+Aruba	2005	37.88	102.4	25.4
+Aruba	2006	37.63	106.15	28
+Aruba	2007	37.04	108.98	30.9
+Aruba	2008	36.45	114.48	52
+Aruba	2009	34.42	120.06	58
+Aruba	2010	32.6	122.62	62
+Aruba	2011	NA	NA	69
+Aruba	2012	39.6	124.32	74
+Aruba	2013	NA	NA	NA
+Australia	1990	45.55	1.08	0.59
+Australia	1991	46.45	1.68	1.1
+Australia	1992	47.1	2.84	1.77
+Australia	1993	48.17	3.89	1.97
+Australia	1994	49.38	6.81	2.23
+Australia	1995	49.12	12.37	2.76
+Australia	1996	50.06	21.78	3.28
+Australia	1997	50.47	24.71	16.37
+Australia	1998	50.92	26.25	30.81
+Australia	1999	51.51	33.33	40.78
+Australia	2000	52.44	44.68	46.76
+Australia	2001	51.9	57.43	52.69
+Australia	2002	53.05	64.63	NA
+Australia	2003	52.72	72.31	NA
+Australia	2004	51.58	81.97	NA
+Australia	2005	49.6	90.28	63
+Australia	2006	47.92	95.26	66
+Australia	2007	46.21	100.66	69.45
+Australia	2008	43.55	102.82	71.67
+Australia	2009	48.89	101.36	74.25
+Australia	2010	47.71	101.04	76
+Australia	2011	46.77	108.34	79.5
+Australia	2012	45.69	106.19	82.35
+Australia	2013	NA	NA	NA
+Austria	1990	42.02	0.96	0.13
+Austria	1991	43.32	1.49	0.26
+Austria	1992	44.57	2.22	0.64
+Austria	1993	45.66	2.82	0.77
+Austria	1994	46.77	3.52	1.39
+Austria	1995	47.85	4.83	1.89
+Austria	1996	49.01	7.52	6.91
+Austria	1997	49.79	14.55	9.53
+Austria	1998	50.25	28.75	15.42
+Austria	1999	49.33	53.23	23.04
+Austria	2000	49.93	76.42	33.73
+Austria	2001	49.72	81.37	39.19
+Austria	2002	48.04	83.33	36.56
+Austria	2003	47.66	89.42	42.7
+Austria	2004	46.68	97.64	54.28
+Austria	2005	45.42	105.26	58
+Austria	2006	43.57	112.18	63.6
+Austria	2007	41	119.28	69.37
+Austria	2008	39.38	129.66	72.87
+Austria	2009	38.87	136.61	73.45
+Austria	2010	40.48	145.84	75.17
+Austria	2011	40.27	154.78	79.8
+Austria	2012	39.65	161.21	81
+Austria	2013	NA	NA	NA
+Azerbaijan	1990	8.6	0	0
+Azerbaijan	1991	8.46	0	NA
+Azerbaijan	1992	8.33	0	NA
+Azerbaijan	1993	8.2	0	NA
+Azerbaijan	1994	8.28	0.01	0
+Azerbaijan	1995	8.24	0.08	0
+Azerbaijan	1996	8.22	0.22	0.01
+Azerbaijan	1997	8.32	0.51	0.03
+Azerbaijan	1998	8.53	0.81	0.04
+Azerbaijan	1999	9.08	4.6	0.1
+Azerbaijan	2000	9.88	5.18	0.15
+Azerbaijan	2001	10.56	8.91	0.31
+Azerbaijan	2002	11.18	9.59	5
+Azerbaijan	2003	11.24	12.62	NA
+Azerbaijan	2004	11.95	17.18	NA
+Azerbaijan	2005	12.74	26.11	8.03
+Azerbaijan	2006	13.53	38.19	11.99
+Azerbaijan	2007	14.21	51.23	14.54
+Azerbaijan	2008	14.65	73.21	17.08
+Azerbaijan	2009	15.45	85.56	27.4
+Azerbaijan	2010	16.4	99.05	46
+Azerbaijan	2011	18.09	108.75	50
+Azerbaijan	2012	18.4	107.47	54.2
+Azerbaijan	2013	NA	NA	NA
+Bahamas	1990	27.28	0.75	0
+Bahamas	1991	29.96	0.77	NA
+Bahamas	1992	28.9	0.98	NA
+Bahamas	1993	28.14	0.89	NA
+Bahamas	1994	28.62	NA	NA
+Bahamas	1995	29.92	1.47	0.96
+Bahamas	1996	31.54	1.74	1.75
+Bahamas	1997	34.16	2.16	1.36
+Bahamas	1998	36.43	2.78	2.34
+Bahamas	1999	37.82	5.41	3.76
+Bahamas	2000	38.42	10.59	8
+Bahamas	2001	40.88	20.08	11.8
+Bahamas	2002	41.39	39.82	18
+Bahamas	2003	42.51	39.4	20
+Bahamas	2004	44.46	59.1	22
+Bahamas	2005	41.67	71.32	25
+Bahamas	2006	40.6	78.07	26
+Bahamas	2007	40.4	113.73	27
+Bahamas	2008	39.79	107.31	31.54
+Bahamas	2009	38.11	106.05	33.88
+Bahamas	2010	37.71	124.94	43
+Bahamas	2011	38.31	86.06	65
+Bahamas	2012	39	72.31	71.75
+Bahamas	2013	NA	NA	NA
+Bahrain	1990	19.07	1.04	0
+Bahrain	1991	19.85	1.45	NA
+Bahrain	1992	21.65	1.86	NA
+Bahrain	1993	23.36	2.13	NA
+Bahrain	1994	24.91	3.23	NA
+Bahrain	1995	25.19	4.94	0.35
+Bahrain	1996	25.12	6.97	0.84
+Bahrain	1997	25.68	9.87	1.65
+Bahrain	1998	25.79	15.06	3.22
+Bahrain	1999	26.38	21.29	4.72
+Bahrain	2000	26.79	32.24	6.15
+Bahrain	2001	27.06	46.63	15.04
+Bahrain	2002	27.33	60.58	18.05
+Bahrain	2003	28.7	68.47	21.55
+Bahrain	2004	28.52	96.73	21.46
+Bahrain	2005	26.7	105.84	21.3
+Bahrain	2006	23.93	111.83	28.24
+Bahrain	2007	21.99	120.55	32.91
+Bahrain	2008	20.94	136.91	51.95
+Bahrain	2009	20.35	119.87	53
+Bahrain	2010	18.07	124.18	55
+Bahrain	2011	20.89	127.96	77
+Bahrain	2012	21.33	156.23	88
+Bahrain	2013	NA	NA	NA
+Bangladesh	1990	0.21	0	0
+Bangladesh	1991	0.21	0	NA
+Bangladesh	1992	0.21	0	NA
+Bangladesh	1993	0.22	0	NA
+Bangladesh	1994	0.23	0	NA
+Bangladesh	1995	0.24	0	NA
+Bangladesh	1996	0.26	0	NA
+Bangladesh	1997	0.3	0.02	0
+Bangladesh	1998	0.33	0.06	0
+Bangladesh	1999	0.34	0.12	0.04
+Bangladesh	2000	0.38	0.22	0.07
+Bangladesh	2001	0.43	0.39	0.13
+Bangladesh	2002	0.45	0.8	0.14
+Bangladesh	2003	0.54	1	0.16
+Bangladesh	2004	0.6	2.01	0.2
+Bangladesh	2005	0.76	6.4	0.24
+Bangladesh	2006	0.8	13.44	1
+Bangladesh	2007	0.82	23.88	1.8
+Bangladesh	2008	0.92	30.68	2.5
+Bangladesh	2009	0.84	34.93	3.1
+Bangladesh	2010	0.86	45.68	3.7
+Bangladesh	2011	0.65	56.06	5
+Bangladesh	2012	0.63	63.76	6.3
+Bangladesh	2013	NA	NA	NA
+Barbados	1990	27.8	0	0
+Barbados	1991	29.95	0.19	NA
+Barbados	1992	30.67	0.3	NA
+Barbados	1993	31.51	0.6	NA
+Barbados	1994	32.51	1.13	NA
+Barbados	1995	34.22	1.75	0.01
+Barbados	1996	36.54	2.38	0.39
+Barbados	1997	40.91	3.02	0.78
+Barbados	1998	42.5	4.51	1.97
+Barbados	1999	43.11	7.61	2.38
+Barbados	2000	46.29	10.64	3.97
+Barbados	2001	48.08	19.8	11.94
+Barbados	2002	49.48	36.16	27.84
+Barbados	2003	49.74	51.97	39.69
+Barbados	2004	50.28	74.14	49.8
+Barbados	2005	49.86	76.22	56.07
+Barbados	2006	49.53	87.48	63
+Barbados	2007	49.43	94.84	64.7
+Barbados	2008	55.11	106.06	66.5
+Barbados	2009	49.75	123.58	68.7
+Barbados	2010	50.3	128.07	70.2
+Barbados	2011	51.35	127.01	71.77
+Barbados	2012	52.45	126.4	73.33
+Barbados	2013	NA	NA	NA
+Belarus	1990	15.34	0	0
+Belarus	1991	16.27	0	NA
+Belarus	1992	16.94	0	NA
+Belarus	1993	17.61	0	NA
+Belarus	1994	18.36	0.02	0
+Belarus	1995	19.16	0.06	0
+Belarus	1996	20.77	0.06	0.03
+Belarus	1997	22.66	0.08	0.05
+Belarus	1998	24.51	0.12	0.07
+Belarus	1999	26.1	0.23	0.49
+Belarus	2000	27.36	0.49	1.86
+Belarus	2001	28.6	1.38	4.3
+Belarus	2002	29.78	4.64	8.95
+Belarus	2003	30.97	11.27	NA
+Belarus	2004	32.17	22.68	NA
+Belarus	2005	33.43	41.72	NA
+Belarus	2006	34.45	60.96	16.2
+Belarus	2007	37.74	71.54	19.7
+Belarus	2008	38.41	83.96	23
+Belarus	2009	41.34	100.52	27.43
+Belarus	2010	43.13	107.69	31.8
+Belarus	2011	44.02	111.88	39.6
+Belarus	2012	46.26	112.06	46.91
+Belarus	2013	NA	NA	NA
+Belgium	1990	39.33	0.43	0
+Belgium	1991	41.06	0.52	0.02
+Belgium	1992	42.62	0.61	0.1
+Belgium	1993	43.82	0.68	0.2
+Belgium	1994	45.17	1.27	0.7
+Belgium	1995	46.45	2.33	0.99
+Belgium	1996	45.79	4.74	2.97
+Belgium	1997	47.15	9.64	4.94
+Belgium	1998	47.95	17.34	7.89
+Belgium	1999	49.35	31.4	13.77
+Belgium	2000	49.49	55.32	29.43
+Belgium	2001	50.26	75.38	31.29
+Belgium	2002	48.09	79.01	46.33
+Belgium	2003	47.32	83.53	49.97
+Belgium	2004	46.36	88.17	53.86
+Belgium	2005	46.04	92.23	55.82
+Belgium	2006	45.13	94.01	59.72
+Belgium	2007	45.99	101.89	64.44
+Belgium	2008	44.66	106.98	66
+Belgium	2009	43.49	110.45	70
+Belgium	2010	43.31	113.46	75
+Belgium	2011	43.09	120.49	78
+Belgium	2012	42.93	119.39	82
+Belgium	2013	NA	NA	NA
+Belize	1990	9.1	0	0
+Belize	1991	10.86	0	NA
+Belize	1992	12.31	0	NA
+Belize	1993	13.76	0.19	NA
+Belize	1994	13.16	0.39	NA
+Belize	1995	13.14	0.7	0.05
+Belize	1996	13.07	0.96	0.88
+Belize	1997	13.19	1.09	1.29
+Belize	1998	13.62	1.48	2.09
+Belize	1999	14.77	2.7	4.08
+Belize	2000	14.27	6.71	5.96
+Belize	2001	13.73	15.26	NA
+Belize	2002	11.92	19.69	5.68
+Belize	2003	12.38	22.47	NA
+Belize	2004	12.27	27.29	5.79
+Belize	2005	12.02	34.17	9.21
+Belize	2006	11.96	41.11	10.4
+Belize	2007	11.57	40.36	10.86
+Belize	2008	10.4	53.48	11.31
+Belize	2009	10.21	52.97	11.73
+Belize	2010	9.72	62.32	14
+Belize	2011	9.07	69.96	18.7
+Belize	2012	7.84	50.62	25
+Belize	2013	NA	NA	NA
+Benin	1990	0.31	0	0
+Benin	1991	0.3	0	NA
+Benin	1992	0.31	0	NA
+Benin	1993	0.39	0	NA
+Benin	1994	0.44	0	NA
+Benin	1995	0.5	0.02	NA
+Benin	1996	0.56	0.05	0
+Benin	1997	0.61	0.07	0.02
+Benin	1998	0.62	0.1	0.05
+Benin	1999	0.69	0.11	0.15
+Benin	2000	0.79	0.85	0.23
+Benin	2001	0.88	1.86	0.36
+Benin	2002	0.9	3.15	0.7
+Benin	2003	0.93	3.3	0.95
+Benin	2004	0.98	6.21	1.18
+Benin	2005	1	7.81	1.27
+Benin	2006	0.98	13.41	1.54
+Benin	2007	1.37	25.29	1.79
+Benin	2008	1.38	43.39	1.85
+Benin	2009	1.48	58.52	2.24
+Benin	2010	1.51	79.94	3.13
+Benin	2011	1.68	85.33	3.5
+Benin	2012	1.68	89.91	3.8
+Benin	2013	NA	NA	NA
+Bermuda	1990	62.41	1.86	0
+Bermuda	1991	64.82	2.39	NA
+Bermuda	1992	65.78	3.2	NA
+Bermuda	1993	69.19	5.59	NA
+Bermuda	1994	72.36	8.39	NA
+Bermuda	1995	75.57	10.3	6.84
+Bermuda	1996	78.64	12.93	16.2
+Bermuda	1997	83.65	16.58	24.19
+Bermuda	1998	86.28	20.19	32.1
+Bermuda	1999	87.82	20.46	39.95
+Bermuda	2000	89.24	20.69	42.95
+Bermuda	2001	88.97	21.13	47.51
+Bermuda	2002	88.34	47.33	52.03
+Bermuda	2003	84.83	62.84	56.52
+Bermuda	2004	84.27	76.68	60.99
+Bermuda	2005	81.82	82.21	65.45
+Bermuda	2006	89.63	93.43	69.9
+Bermuda	2007	89.3	106.97	74.35
+Bermuda	2008	89.09	122.18	82.3
+Bermuda	2009	89.04	131.17	83.25
+Bermuda	2010	89	135.82	84.21
+Bermuda	2011	NA	NA	88.34
+Bermuda	2012	105.82	139.55	91.3
+Bermuda	2013	NA	NA	NA
+Bhutan	1990	0.34	0	0
+Bhutan	1991	0.45	0	NA
+Bhutan	1992	0.54	0	NA
+Bhutan	1993	0.71	0	NA
+Bhutan	1994	0.87	0	NA
+Bhutan	1995	1.01	0	NA
+Bhutan	1996	1.17	0	NA
+Bhutan	1997	1.22	0	NA
+Bhutan	1998	1.93	0	NA
+Bhutan	1999	2.16	0	0.14
+Bhutan	2000	2.48	0	0.4
+Bhutan	2001	2.98	0	0.86
+Bhutan	2002	3.24	0	1.68
+Bhutan	2003	3.79	0.36	2.44
+Bhutan	2004	4.71	2.98	3.16
+Bhutan	2005	5.01	5.46	3.85
+Bhutan	2006	4.67	12.17	4.52
+Bhutan	2007	4.34	21.7	5.92
+Bhutan	2008	3.92	36.13	6.55
+Bhutan	2009	3.69	47.49	7.17
+Bhutan	2010	3.62	54.32	13.6
+Bhutan	2011	3.72	65.58	21
+Bhutan	2012	3.6	74.74	25.43
+Bhutan	2013	NA	NA	NA
+Bolivia	1990	2.74	0	0
+Bolivia	1991	2.99	0	NA
+Bolivia	1992	2.98	0.02	NA
+Bolivia	1993	3.25	0.04	NA
+Bolivia	1994	3.32	0.06	NA
+Bolivia	1995	3.3	0.1	0.07
+Bolivia	1996	4.56	0.44	0.2
+Bolivia	1997	4.93	1.52	0.45
+Bolivia	1998	5.68	3	0.63
+Bolivia	1999	6.17	5.16	0.98
+Bolivia	2000	6.15	7.01	1.44
+Bolivia	2001	6.19	9.2	2.12
+Bolivia	2002	6.83	11.84	3.12
+Bolivia	2003	6.92	14.51	3.51
+Bolivia	2004	6.96	20.05	4.44
+Bolivia	2005	7.07	26.47	5.23
+Bolivia	2006	7.16	30.9	6.2
+Bolivia	2007	7.17	34.39	10.5
+Bolivia	2008	8.2	52.38	12.5
+Bolivia	2009	8.23	66.14	16.8
+Bolivia	2010	8.58	72.3	22.4
+Bolivia	2011	8.73	82.82	30
+Bolivia	2012	8.59	92.64	34.19
+Bolivia	2013	NA	NA	NA
+Bosnia and Herzegovina	1990	NA	0	0
+Bosnia and Herzegovina	1991	NA	0	NA
+Bosnia and Herzegovina	1992	15.26	0	NA
+Bosnia and Herzegovina	1993	16.32	0	NA
+Bosnia and Herzegovina	1994	7.22	0	NA
+Bosnia and Herzegovina	1995	7.14	0	NA
+Bosnia and Herzegovina	1996	8.24	0.05	0.02
+Bosnia and Herzegovina	1997	9	0.27	0.06
+Bosnia and Herzegovina	1998	9.57	0.72	0.14
+Bosnia and Herzegovina	1999	10.22	1.46	0.19
+Bosnia and Herzegovina	2000	21.12	2.53	1.08
+Bosnia and Herzegovina	2001	22.6	11.86	1.2
+Bosnia and Herzegovina	2002	23.91	19.83	2.65
+Bosnia and Herzegovina	2003	24.8	28.41	3.97
+Bosnia and Herzegovina	2004	25.16	37.22	15.47
+Bosnia and Herzegovina	2005	25.62	42.17	21.33
+Bosnia and Herzegovina	2006	26.15	49.92	25.12
+Bosnia and Herzegovina	2007	28.17	64.84	27.92
+Bosnia and Herzegovina	2008	27.33	84.23	34.66
+Bosnia and Herzegovina	2009	26.51	86.45	37.74
+Bosnia and Herzegovina	2010	26.56	82.72	52
+Bosnia and Herzegovina	2011	25.48	84.52	60
+Bosnia and Herzegovina	2012	23.46	89.53	65.36
+Bosnia and Herzegovina	2013	NA	NA	NA
+Botswana	1990	1.91	0	0
+Botswana	1991	2.29	0	0
+Botswana	1992	2.49	0	NA
+Botswana	1993	2.89	0	NA
+Botswana	1994	3.26	0	NA
+Botswana	1995	3.76	0	0.06
+Botswana	1996	4.45	0	0.16
+Botswana	1997	5.15	0	0.31
+Botswana	1998	6.02	0.9	0.6
+Botswana	1999	7.16	5.32	1.12
+Botswana	2000	7.73	12.64	2.9
+Botswana	2001	8.3	18.62	3.43
+Botswana	2002	8.19	18.38	3.39
+Botswana	2003	7.18	24.31	3.35
+Botswana	2004	7.11	28.23	3.3
+Botswana	2005	7.28	30.06	3.26
+Botswana	2006	6.95	43.3	4.29
+Botswana	2007	7.1	59.75	5.28
+Botswana	2008	7.28	76.01	6.25
+Botswana	2009	6.93	94.58	6.15
+Botswana	2010	6.85	117.76	6
+Botswana	2011	7.37	142.82	8
+Botswana	2012	7.82	150.09	11.5
+Botswana	2013	NA	NA	NA
+Brazil	1990	6.29	0	0
+Brazil	1991	6.62	0	0
+Brazil	1992	7.01	0.02	0.01
+Brazil	1993	7.2	0.12	0.03
+Brazil	1994	7.7	0.36	0.04
+Brazil	1995	8.19	0.79	0.11
+Brazil	1996	9.19	1.52	0.45
+Brazil	1997	10.21	2.73	0.79
+Brazil	1998	11.8	4.35	1.48
+Brazil	1999	14.53	8.74	2.04
+Brazil	2000	17.73	13.29	2.87
+Brazil	2001	21.16	16.25	4.53
+Brazil	2002	21.65	19.46	9.15
+Brazil	2003	21.58	25.53	13.21
+Brazil	2004	21.53	35.68	19.07
+Brazil	2005	21.43	46.35	21.02
+Brazil	2006	20.64	53.16	28.18
+Brazil	2007	20.76	63.74	30.88
+Brazil	2008	21.53	78.65	33.83
+Brazil	2009	21.47	87.65	39.22
+Brazil	2010	21.62	101.02	40.65
+Brazil	2011	21.88	119.17	45
+Brazil	2012	22.34	125.19	49.85
+Brazil	2013	NA	NA	NA
+British Virgin Islands	1990	39.28	0	0
+British Virgin Islands	1991	43.38	NA	NA
+British Virgin Islands	1992	44.33	NA	NA
+British Virgin Islands	1993	45.3	NA	NA
+British Virgin Islands	1994	48.47	NA	NA
+British Virgin Islands	1995	50.98	NA	NA
+British Virgin Islands	1996	51.05	6.37	NA
+British Virgin Islands	1997	50.86	NA	NA
+British Virgin Islands	1998	50.76	NA	NA
+British Virgin Islands	1999	50.7	NA	NA
+British Virgin Islands	2000	50.73	NA	NA
+British Virgin Islands	2001	50.37	NA	NA
+British Virgin Islands	2002	55.33	37.81	18.89
+British Virgin Islands	2003	73.73	NA	NA
+British Virgin Islands	2004	79.86	NA	NA
+British Virgin Islands	2005	71.69	NA	NA
+British Virgin Islands	2006	69.13	NA	NA
+British Virgin Islands	2007	65.54	91.96	NA
+British Virgin Islands	2008	62.52	101.05	NA
+British Virgin Islands	2009	58.97	204.42	36
+British Virgin Islands	2010	54.88	204.45	37
+British Virgin Islands	2011	53.3	198.47	NA
+British Virgin Islands	2012	51.75	205.45	NA
+British Virgin Islands	2013	NA	NA	NA
+Brunei Darussalam	1990	13.88	0.7	0
+Brunei Darussalam	1991	15.07	1.17	NA
+Brunei Darussalam	1992	18.03	1.54	NA
+Brunei Darussalam	1993	20.13	3.03	NA
+Brunei Darussalam	1994	21.85	5.54	NA
+Brunei Darussalam	1995	23.52	12.39	1.02
+Brunei Darussalam	1996	26.51	14.65	3.3
+Brunei Darussalam	1997	25.2	14.77	4.83
+Brunei Darussalam	1998	24.9	15.74	6.28
+Brunei Darussalam	1999	24.74	20.65	7.67
+Brunei Darussalam	2000	24.62	29.05	9
+Brunei Darussalam	2001	26.45	42.77	12.92
+Brunei Darussalam	2002	23.79	44.98	15.33
+Brunei Darussalam	2003	23.49	50.85	19.6
+Brunei Darussalam	2004	23.35	56.88	29.72
+Brunei Darussalam	2005	23.1	64.14	36.47
+Brunei Darussalam	2006	21.65	81.39	42.19
+Brunei Darussalam	2007	21.07	96.99	44.68
+Brunei Darussalam	2008	21	103.68	46
+Brunei Darussalam	2009	20.56	105.37	49
+Brunei Darussalam	2010	20.03	109.07	53
+Brunei Darussalam	2011	19.67	109.17	56
+Brunei Darussalam	2012	17.18	113.77	60.27
+Brunei Darussalam	2013	NA	NA	NA
+Bulgaria	1990	24.67	0	0
+Bulgaria	1991	25.23	0	NA
+Bulgaria	1992	27.04	0	NA
+Bulgaria	1993	28.19	0.01	0
+Bulgaria	1994	29.44	0.08	0.02
+Bulgaria	1995	30.67	0.25	0.12
+Bulgaria	1996	32	0.32	0.73
+Bulgaria	1997	32.7	0.85	1.22
+Bulgaria	1998	33.92	1.56	1.84
+Bulgaria	1999	35.12	4.34	2.91
+Bulgaria	2000	35.99	9.22	5.37
+Bulgaria	2001	36.32	19.5	7.61
+Bulgaria	2002	36.39	32.91	9.08
+Bulgaria	2003	35.94	44.65	12.04
+Bulgaria	2004	35.01	60.72	18.13
+Bulgaria	2005	32.17	80.69	19.97
+Bulgaria	2006	31.2	107.33	27.09
+Bulgaria	2007	30.11	129.54	33.64
+Bulgaria	2008	28.85	137.38	39.67
+Bulgaria	2009	29.24	138.61	45
+Bulgaria	2010	29.66	136.1	46.23
+Bulgaria	2011	31.64	140.68	51
+Bulgaria	2012	30.45	145.73	55.15
+Bulgaria	2013	NA	NA	NA
+Burkina Faso	1990	0.17	0	0
+Burkina Faso	1991	0.19	0	NA
+Burkina Faso	1992	0.2	0	NA
+Burkina Faso	1993	0.22	0	NA
+Burkina Faso	1994	0.25	0	NA
+Burkina Faso	1995	0.28	0	NA
+Burkina Faso	1996	0.31	0	0
+Burkina Faso	1997	0.32	0.01	0.02
+Burkina Faso	1998	0.35	0.02	0.05
+Burkina Faso	1999	0.4	0.04	0.06
+Burkina Faso	2000	0.43	0.21	0.08
+Burkina Faso	2001	0.46	0.6	0.16
+Burkina Faso	2002	0.48	0.85	0.2
+Burkina Faso	2003	0.5	1.78	0.37
+Burkina Faso	2004	0.62	2.87	0.4
+Burkina Faso	2005	0.64	4.46	0.47
+Burkina Faso	2006	0.65	6.95	0.63
+Burkina Faso	2007	0.78	12.34	0.75
+Burkina Faso	2008	0.95	19.49	0.92
+Burkina Faso	2009	0.95	23.92	1.13
+Burkina Faso	2010	0.87	34.66	2.4
+Burkina Faso	2011	0.83	45.27	3
+Burkina Faso	2012	0.81	57.07	3.73
+Burkina Faso	2013	NA	NA	NA
+Burundi	1990	0.14	0	0
+Burundi	1991	0.18	0	0
+Burundi	1992	0.22	0	0
+Burundi	1993	0.26	0.01	0
+Burundi	1994	0.26	0.01	0
+Burundi	1995	0.28	0.01	0
+Burundi	1996	0.25	0.01	0
+Burundi	1997	0.26	0.01	0.01
+Burundi	1998	0.29	0.01	0.02
+Burundi	1999	0.3	0.01	0.04
+Burundi	2000	0.31	0.26	0.08
+Burundi	2001	0.32	0.51	0.11
+Burundi	2002	0.33	0.78	0.12
+Burundi	2003	0.35	0.94	0.2
+Burundi	2004	0.39	1.43	0.35
+Burundi	2005	0.43	2.11	0.54
+Burundi	2006	0.37	2.68	0.66
+Burundi	2007	0.37	3.5	0.7
+Burundi	2008	0.38	6.05	0.81
+Burundi	2009	0.38	11.27	0.9
+Burundi	2010	0.42	20.02	1
+Burundi	2011	0.35	22.33	1.11
+Burundi	2012	0.2	25.68	1.22
+Burundi	2013	NA	NA	NA
+Cambodia	1990	0.03	0	0
+Cambodia	1991	0.04	0	NA
+Cambodia	1992	0.04	0	NA
+Cambodia	1993	0.04	0.05	NA
+Cambodia	1994	0.06	0.09	NA
+Cambodia	1995	0.08	0.13	NA
+Cambodia	1996	0.14	0.2	NA
+Cambodia	1997	0.17	0.29	0.01
+Cambodia	1998	0.2	0.51	0.02
+Cambodia	1999	0.23	0.73	0.03
+Cambodia	2000	0.25	1.05	0.05
+Cambodia	2001	0.26	1.77	0.08
+Cambodia	2002	0.28	2.96	0.23
+Cambodia	2003	0.24	3.83	0.26
+Cambodia	2004	0.24	6.53	0.3
+Cambodia	2005	0.25	7.95	0.32
+Cambodia	2006	0.19	12.74	0.47
+Cambodia	2007	0.27	18.9	0.49
+Cambodia	2008	0.31	30.65	0.51
+Cambodia	2009	0.39	44.84	0.53
+Cambodia	2010	2.54	57.65	1.26
+Cambodia	2011	3.7	96.17	3.1
+Cambodia	2012	4.04	131.96	4.94
+Cambodia	2013	NA	NA	NA
+Cameroon	1990	0.33	0	0
+Cameroon	1991	0.33	0	NA
+Cameroon	1992	0.42	0	NA
+Cameroon	1993	0.43	0	NA
+Cameroon	1994	0.43	0.01	NA
+Cameroon	1995	0.47	0.02	NA
+Cameroon	1996	0.49	0.02	NA
+Cameroon	1997	0.51	0.03	0.01
+Cameroon	1998	0.63	0.03	0.01
+Cameroon	1999	0.62	0.04	0.13
+Cameroon	2000	0.61	0.66	0.25
+Cameroon	2001	0.66	2.6	0.28
+Cameroon	2002	0.68	4.28	0.36
+Cameroon	2003	0.58	6.42	0.59
+Cameroon	2004	0.58	8.92	0.98
+Cameroon	2005	0.57	12.83	1.4
+Cameroon	2006	0.73	17.47	2.03
+Cameroon	2007	1.03	24.72	2.93
+Cameroon	2008	1.36	32.84	3.4
+Cameroon	2009	2.27	41.74	3.84
+Cameroon	2010	2.75	44.07	4.3
+Cameroon	2011	3.34	52.35	5
+Cameroon	2012	3.6	64.04	5.7
+Cameroon	2013	NA	NA	NA
+Canada	1990	55.22	2.11	0.36
+Canada	1991	56.38	2.77	0.57
+Canada	1992	57.23	3.62	0.92
+Canada	1993	58.24	4.64	1.18
+Canada	1994	59.47	6.43	2.38
+Canada	1995	59.95	8.84	4.16
+Canada	1996	60.76	11.82	6.76
+Canada	1997	62.51	14.05	15.07
+Canada	1998	64.07	17.75	24.9
+Canada	1999	67.08	22.75	36.19
+Canada	2000	67.95	28.46	51.3
+Canada	2001	68.22	34.39	60.2
+Canada	2002	65.92	37.95	61.59
+Canada	2003	65.21	42.05	64.2
+Canada	2004	64.37	47.02	65.96
+Canada	2005	56.21	52.71	71.66
+Canada	2006	55.89	57.46	72.4
+Canada	2007	55.44	61.49	73.2
+Canada	2008	54.76	66.29	76.7
+Canada	2009	55.55	70.71	80.3
+Canada	2010	54.07	75.92	80.3
+Canada	2011	52.99	79.73	83
+Canada	2012	51.94	75.74	86.77
+Canada	2013	NA	NA	NA
+Cape Verde	1990	2.37	0	0
+Cape Verde	1991	2.56	0	NA
+Cape Verde	1992	3.19	0	NA
+Cape Verde	1993	4.07	0	NA
+Cape Verde	1994	4.79	0	NA
+Cape Verde	1995	5.45	0	NA
+Cape Verde	1996	6.24	0	NA
+Cape Verde	1997	8.05	0	0.24
+Cape Verde	1998	9.49	0.24	0.47
+Cape Verde	1999	10.92	1.88	1.16
+Cape Verde	2000	12.5	4.51	1.82
+Cape Verde	2001	14.41	7.08	2.69
+Cape Verde	2002	15.5	9.49	3.52
+Cape Verde	2003	15.59	11.6	4.32
+Cape Verde	2004	15.36	14.09	5.32
+Cape Verde	2005	15.14	17.28	6.07
+Cape Verde	2006	14.97	22.76	6.81
+Cape Verde	2007	14.86	31.51	8.28
+Cape Verde	2008	14.74	56.97	14
+Cape Verde	2009	14.62	59.11	21
+Cape Verde	2010	14.51	74.97	30
+Cape Verde	2011	14.88	79.19	32
+Cape Verde	2012	13.9	84.16	34.74
+Cape Verde	2013	NA	NA	NA
+Cayman Islands	1990	47.34	0	0
+Cayman Islands	1991	43.11	2.04	NA
+Cayman Islands	1992	44.42	3.44	NA
+Cayman Islands	1993	46.59	4.19	0
+Cayman Islands	1994	56.02	5.77	0
+Cayman Islands	1995	59.19	7.73	3.95
+Cayman Islands	1996	NA	NA	NA
+Cayman Islands	1997	53.81	11.62	NA
+Cayman Islands	1998	75.4	14.09	NA
+Cayman Islands	1999	82.31	21.97	NA
+Cayman Islands	2000	87.08	26.62	NA
+Cayman Islands	2001	89.41	40	NA
+Cayman Islands	2002	84.23	42.11	NA
+Cayman Islands	2003	79.47	44	NA
+Cayman Islands	2004	75.59	67.23	NA
+Cayman Islands	2005	72.7	154.87	38.03
+Cayman Islands	2006	70.75	172.32	44.5
+Cayman Islands	2007	64.1	185.62	52
+Cayman Islands	2008	64.68	177.8	61
+Cayman Islands	2009	64.83	194.93	64.5
+Cayman Islands	2010	66.43	177.65	66
+Cayman Islands	2011	65.63	167.67	69.47
+Cayman Islands	2012	65.34	168.27	74.13
+Cayman Islands	2013	NA	NA	NA
+Central African Republic	1990	0.17	0	0
+Central African Republic	1991	0.18	0	NA
+Central African Republic	1992	0.2	0	NA
+Central African Republic	1993	0.21	0	NA
+Central African Republic	1994	0.23	0	NA
+Central African Republic	1995	0.25	0	NA
+Central African Republic	1996	0.28	0.03	0.01
+Central African Republic	1997	0.28	0.04	0.01
+Central African Republic	1998	0.27	0.05	0.03
+Central African Republic	1999	0.27	0.11	0.04
+Central African Republic	2000	0.26	0.13	0.05
+Central African Republic	2001	0.24	0.29	0.08
+Central African Republic	2002	0.24	0.33	0.13
+Central African Republic	2003	0.24	1.03	0.15
+Central African Republic	2004	0.25	1.52	0.22
+Central African Republic	2005	0.25	2.49	0.27
+Central African Republic	2006	NA	2.69	0.31
+Central African Republic	2007	NA	4.81	0.38
+Central African Republic	2008	NA	5.9	1
+Central African Republic	2009	0.08	20	1.8
+Central African Republic	2010	0.11	22.25	2
+Central African Republic	2011	0.12	22.12	2.2
+Central African Republic	2012	0.12	23.39	3
+Central African Republic	2013	NA	NA	NA
+Chad	1990	0.07	0	0
+Chad	1991	0.07	0	NA
+Chad	1992	0.07	0	NA
+Chad	1993	0.07	0	NA
+Chad	1994	0.07	0	NA
+Chad	1995	0.08	0	NA
+Chad	1996	0.08	0	NA
+Chad	1997	0.1	0	0
+Chad	1998	0.11	0	0
+Chad	1999	0.12	0	0.01
+Chad	2000	0.12	0.07	0.04
+Chad	2001	0.13	0.26	0.05
+Chad	2002	0.13	0.39	0.17
+Chad	2003	0.14	0.71	0.32
+Chad	2004	0.14	1.3	0.36
+Chad	2005	0.13	2.15	0.4
+Chad	2006	0.2	4.62	0.58
+Chad	2007	0.31	8.85	0.85
+Chad	2008	0.42	15.02	1.19
+Chad	2009	0.53	20.86	1.5
+Chad	2010	0.46	25.61	1.7
+Chad	2011	0.27	31.8	1.9
+Chad	2012	0.25	35.49	2.1
+Chad	2013	NA	NA	NA
+Channel Islands	1990	NA	NA	NA
+Channel Islands	1991	NA	NA	NA
+Channel Islands	1992	NA	NA	NA
+Channel Islands	1993	NA	NA	NA
+Channel Islands	1994	NA	NA	NA
+Channel Islands	1995	NA	NA	NA
+Channel Islands	1996	NA	NA	NA
+Channel Islands	1997	NA	NA	NA
+Channel Islands	1998	NA	NA	NA
+Channel Islands	1999	NA	NA	NA
+Channel Islands	2000	NA	NA	NA
+Channel Islands	2001	NA	NA	NA
+Channel Islands	2002	NA	NA	NA
+Channel Islands	2003	NA	NA	NA
+Channel Islands	2004	NA	NA	NA
+Channel Islands	2005	NA	NA	NA
+Channel Islands	2006	NA	NA	NA
+Channel Islands	2007	NA	NA	NA
+Channel Islands	2008	NA	NA	NA
+Channel Islands	2009	NA	NA	NA
+Channel Islands	2010	NA	NA	NA
+Channel Islands	2011	NA	NA	NA
+Channel Islands	2012	NA	NA	NA
+Channel Islands	2013	NA	NA	NA
+Chile	1990	6.55	0.11	0
+Chile	1991	7.86	0.27	NA
+Chile	1992	9.38	0.47	0.04
+Chile	1993	10.91	0.61	0.07
+Chile	1994	11.2	0.82	0.14
+Chile	1995	12.62	1.37	0.35
+Chile	1996	14.7	2.18	0.68
+Chile	1997	18.15	2.76	1.06
+Chile	1998	20.26	6.41	1.66
+Chile	1999	20.41	14.84	4.1
+Chile	2000	21.42	22.06	16.6
+Chile	2001	22.22	32.69	19.1
+Chile	2002	21.97	39.56	22.1
+Chile	2003	20.38	45.54	25.47
+Chile	2004	20.57	57.41	28.18
+Chile	2005	21.08	64.84	31.18
+Chile	2006	20.55	75.6	34.5
+Chile	2007	20.8	83.9	35.9
+Chile	2008	21.02	88.1	37.3
+Chile	2009	21.02	97.02	41.56
+Chile	2010	20.2	116	45
+Chile	2011	19.49	129.71	52.25
+Chile	2012	18.8	138.5	61.42
+Chile	2013	NA	NA	NA
+China	1990	0.6	0	0
+China	1991	0.73	0	NA
+China	1992	0.98	0.02	NA
+China	1993	1.46	0.05	0
+China	1994	2.27	0.13	0
+China	1995	3.35	0.3	0
+China	1996	4.48	0.56	0.01
+China	1997	5.68	1.07	0.03
+China	1998	7	1.91	0.17
+China	1999	8.63	3.44	0.71
+China	2000	11.41	6.72	1.78
+China	2001	14.11	11.33	2.64
+China	2002	16.66	16.02	4.6
+China	2003	20.31	20.87	6.2
+China	2004	23.97	25.74	7.3
+China	2005	26.8	30.09	8.52
+China	2006	27.98	35.07	10.52
+China	2007	27.67	41.42	16
+China	2008	25.62	48.28	22.6
+China	2009	23.5	55.97	28.9
+China	2010	21.95	64.04	34.3
+China	2011	21.16	73.19	38.3
+China	2012	20.6	81.26	42.3
+China	2013	NA	NA	NA
+China, Hong Kong Special Administrative Region	1990	42.72	2.31	0
+China, Hong Kong Special Administrative Region	1991	45.11	3.24	0.12
+China, Hong Kong Special Administrative Region	1992	47.68	3.95	0.85
+China, Hong Kong Special Administrative Region	1993	50.09	4.87	1.33
+China, Hong Kong Special Administrative Region	1994	52.07	8.02	2.78
+China, Hong Kong Special Administrative Region	1995	53.35	12.99	3.22
+China, Hong Kong Special Administrative Region	1996	55.06	21.73	4.75
+China, Hong Kong Special Administrative Region	1997	56.85	34.76	10.52
+China, Hong Kong Special Administrative Region	1998	56.81	48.36	14.55
+China, Hong Kong Special Administrative Region	1999	57.81	63.88	21.23
+China, Hong Kong Special Administrative Region	2000	57.87	80.31	27.83
+China, Hong Kong Special Administrative Region	2001	57.07	84.59	38.67
+China, Hong Kong Special Administrative Region	2002	56.05	93.55	43.08
+China, Hong Kong Special Administrative Region	2003	55.79	107.72	52.2
+China, Hong Kong Special Administrative Region	2004	55.28	120.66	56.4
+China, Hong Kong Special Administrative Region	2005	55.7	125.47	56.9
+China, Hong Kong Special Administrative Region	2006	56.14	138.21	60.8
+China, Hong Kong Special Administrative Region	2007	61.24	156.44	64.8
+China, Hong Kong Special Administrative Region	2008	60.39	167.19	66.7
+China, Hong Kong Special Administrative Region	2009	61.21	180.27	69.4
+China, Hong Kong Special Administrative Region	2010	61.84	195.57	72
+China, Hong Kong Special Administrative Region	2011	60.97	214.72	72.2
+China, Hong Kong Special Administrative Region	2012	60.61	227.93	72.8
+China, Hong Kong Special Administrative Region	2013	NA	NA	NA
+China, Macao Special Administrative Region	1990	25.9	0.62	0
+China, Macao Special Administrative Region	1991	28.87	1.31	NA
+China, Macao Special Administrative Region	1992	31.96	2.78	NA
+China, Macao Special Administrative Region	1993	34.91	3.93	NA
+China, Macao Special Administrative Region	1994	37.08	5.47	0.04
+China, Macao Special Administrative Region	1995	38.47	9.01	0.28
+China, Macao Special Administrative Region	1996	39.89	11.06	0.73
+China, Macao Special Administrative Region	1997	41.26	12.86	2.36
+China, Macao Special Administrative Region	1998	41.66	19.67	7
+China, Macao Special Administrative Region	1999	42.06	27.83	9.21
+China, Macao Special Administrative Region	2000	40.95	32.66	13.61
+China, Macao Special Administrative Region	2001	40.08	44.17	22.52
+China, Macao Special Administrative Region	2002	39.18	61.44	25.17
+China, Macao Special Administrative Region	2003	38.01	79.23	25.74
+China, Macao Special Administrative Region	2004	37	91.99	31.48
+China, Macao Special Administrative Region	2005	36.23	110.67	34.86
+China, Macao Special Administrative Region	2006	35.82	129.01	46.4
+China, Macao Special Administrative Region	2007	35.2	157.07	47.33
+China, Macao Special Administrative Region	2008	33.93	179.88	49.24
+China, Macao Special Administrative Region	2009	32.09	195.29	54
+China, Macao Special Administrative Region	2010	30.97	206.43	55.2
+China, Macao Special Administrative Region	2011	29.93	243.5	60.2
+China, Macao Special Administrative Region	2012	28.64	284.34	64.27
+China, Macao Special Administrative Region	2013	NA	NA	NA
+Colombia	1990	7.27	0	0
+Colombia	1991	7.78	0	NA
+Colombia	1992	8.18	0	NA
+Colombia	1993	8.93	0	NA
+Colombia	1994	9.81	0.24	0.11
+Colombia	1995	10.62	0.75	0.19
+Colombia	1996	12.52	1.41	0.33
+Colombia	1997	14.28	3.35	0.55
+Colombia	1998	16.56	4.68	1.13
+Colombia	1999	17.05	5.03	1.7
+Colombia	2000	18.09	5.68	2.21
+Colombia	2001	18.24	8.08	2.85
+Colombia	2002	18.91	11.19	4.6
+Colombia	2003	18.81	14.82	7.39
+Colombia	2004	17.9	24.54	9.12
+Colombia	2005	17.84	50.77	11.01
+Colombia	2006	17.99	68.11	15.34
+Colombia	2007	17.87	76.53	21.8
+Colombia	2008	17.62	91.91	25.6
+Colombia	2009	16.37	92.35	30
+Colombia	2010	15.52	96.07	36.5
+Colombia	2011	15.19	98.45	40.4
+Colombia	2012	13.23	103.19	48.98
+Colombia	2013	NA	NA	NA
+Comoros	1990	0.75	0	0
+Comoros	1991	0.81	0	NA
+Comoros	1992	0.84	0	NA
+Comoros	1993	0.85	0	NA
+Comoros	1994	0.89	0	NA
+Comoros	1995	0.89	0	NA
+Comoros	1996	0.98	0	NA
+Comoros	1997	1.06	0	0
+Comoros	1998	1.17	0	0.04
+Comoros	1999	1.19	0	0.15
+Comoros	2000	1.2	0	0.27
+Comoros	2001	1.54	0	0.44
+Comoros	2002	1.73	0	0.55
+Comoros	2003	2.17	0.33	0.85
+Comoros	2004	2.41	1.34	1.33
+Comoros	2005	2.63	2.41	2
+Comoros	2006	2.89	5.58	2.2
+Comoros	2007	3.84	9.15	2.5
+Comoros	2008	4.13	13.16	3
+Comoros	2009	4.3	17.13	3.5
+Comoros	2010	2.86	22.49	5.1
+Comoros	2011	3.13	28.71	5.5
+Comoros	2012	3.1	32.33	5.98
+Comoros	2013	NA	NA	NA
+Congo	1990	0.66	0	0
+Congo	1991	0.69	0	NA
+Congo	1992	0.71	0	NA
+Congo	1993	0.74	0	NA
+Congo	1994	0.77	0	NA
+Congo	1995	0.78	0	NA
+Congo	1996	0.78	0.04	0
+Congo	1997	0.76	NA	0
+Congo	1998	0.74	0.11	0
+Congo	1999	0.72	0.16	0.02
+Congo	2000	0.7	2.23	0.03
+Congo	2001	0.68	4.67	0.03
+Congo	2002	0.67	6.74	0.16
+Congo	2003	0.21	9.81	0.46
+Congo	2004	0.4	11.13	1.08
+Congo	2005	0.45	15.8	1.46
+Congo	2006	0.38	25.29	2.01
+Congo	2007	0.36	34.52	2.76
+Congo	2008	0.24	47.1	4.29
+Congo	2009	0.29	74.8	4.5
+Congo	2010	0.33	91.98	5
+Congo	2011	0.34	93.84	5.6
+Congo	2012	0.35	101.18	6.11
+Congo	2013	NA	NA	NA
+Cook Islands	1990	16.98	0	0
+Cook Islands	1991	17.79	0	NA
+Cook Islands	1992	20.44	0	NA
+Cook Islands	1993	23.53	0	NA
+Cook Islands	1994	26.35	0	NA
+Cook Islands	1995	28.03	0	1.19
+Cook Islands	1996	27.96	1	5.44
+Cook Islands	1997	28.37	1.08	6.62
+Cook Islands	1998	29.34	1.59	NA
+Cook Islands	1999	30.49	2.84	13.05
+Cook Islands	2000	31.86	3.1	15.66
+Cook Islands	2001	32.81	5.23	18.08
+Cook Islands	2002	33.7	8.19	20.02
+Cook Islands	2003	35.13	18.1	22.87
+Cook Islands	2004	34.6	19.13	23.99
+Cook Islands	2005	34.23	20.64	26.2
+Cook Islands	2006	33.74	27.48	25.86
+Cook Islands	2007	34.27	33.32	25.6
+Cook Islands	2008	33.44	33.34	25.41
+Cook Islands	2009	34.09	34.49	30.29
+Cook Islands	2010	35.63	38.46	35.71
+Cook Islands	2011	36.47	46.74	44
+Cook Islands	2012	37.88	54.07	52.21
+Cook Islands	2013	NA	NA	NA
+Costa Rica	1990	9.17	0	0
+Costa Rica	1991	9.69	0	NA
+Costa Rica	1992	10.13	0.09	0
+Costa Rica	1993	11.02	0.14	0.08
+Costa Rica	1994	12.7	0.21	0.28
+Costa Rica	1995	13.81	0.54	0.42
+Costa Rica	1996	14.78	1.31	0.84
+Costa Rica	1997	18.77	1.76	1.64
+Costa Rica	1998	19.85	2.91	2.67
+Costa Rica	1999	20.95	3.61	3.9
+Costa Rica	2000	22.93	5.4	5.8
+Costa Rica	2001	23.61	8.17	9.56
+Costa Rica	2002	25.42	12.31	19.89
+Costa Rica	2003	27.86	18.71	20.33
+Costa Rica	2004	31.71	21.79	20.79
+Costa Rica	2005	32.22	25.56	22.07
+Costa Rica	2006	30.34	32.95	25.1
+Costa Rica	2007	32.27	33.87	28.4
+Costa Rica	2008	31.79	41.72	32.29
+Costa Rica	2009	32.67	42.48	34.33
+Costa Rica	2010	27.24	65.14	36.5
+Costa Rica	2011	26.1	92.2	42.12
+Costa Rica	2012	21.23	128.32	47.5
+Costa Rica	2013	NA	NA	NA
+Cote d'Ivoire	1990	0.58	0	0
+Cote d'Ivoire	1991	0.63	0	NA
+Cote d'Ivoire	1992	0.63	0	NA
+Cote d'Ivoire	1993	0.65	0	NA
+Cote d'Ivoire	1994	0.72	0	NA
+Cote d'Ivoire	1995	0.79	0	0
+Cote d'Ivoire	1996	0.86	0.09	0.01
+Cote d'Ivoire	1997	0.92	0.23	0.02
+Cote d'Ivoire	1998	1.07	0.57	0.06
+Cote d'Ivoire	1999	1.35	1.58	0.12
+Cote d'Ivoire	2000	1.59	2.85	0.23
+Cote d'Ivoire	2001	1.74	4.31	0.4
+Cote d'Ivoire	2002	1.89	5.98	0.5
+Cote d'Ivoire	2003	1.36	7.34	0.76
+Cote d'Ivoire	2004	1.45	9.44	0.85
+Cote d'Ivoire	2005	1.43	13.04	1.04
+Cote d'Ivoire	2006	1.48	22.18	1.52
+Cote d'Ivoire	2007	1.33	40.05	1.8
+Cote d'Ivoire	2008	1.88	55.03	1.9
+Cote d'Ivoire	2009	1.46	68.14	2
+Cote d'Ivoire	2010	1.44	79.03	2.1
+Cote d'Ivoire	2011	1.33	86.06	2.2
+Cote d'Ivoire	2012	1.3	96.27	2.38
+Cote d'Ivoire	2013	NA	NA	NA
+Croatia	1990	18.22	0.01	0
+Croatia	1991	19.6	0.04	NA
+Croatia	1992	20.81	0.14	NA
+Croatia	1993	22.2	0.25	0.1
+Croatia	1994	25.87	0.47	0.27
+Croatia	1995	27.57	0.72	0.51
+Croatia	1996	29.83	1.39	0.86
+Croatia	1997	32.17	2.6	1.73
+Croatia	1998	34	3.98	3.27
+Croatia	1999	35.98	6.5	4.41
+Croatia	2000	38.2	22.93	6.64
+Croatia	2001	39.74	39.16	11.56
+Croatia	2002	40.86	51.78	17.76
+Croatia	2003	41.99	56.93	22.75
+Croatia	2004	42.42	63.73	30.91
+Croatia	2005	42.38	82.16	33.14
+Croatia	2006	41.3	99.13	37.98
+Croatia	2007	41.72	113.75	41.44
+Croatia	2008	42.51	103.09	44.24
+Croatia	2009	42.15	105.99	50.58
+Croatia	2010	42.37	111.92	56.55
+Croatia	2011	40.06	116.37	59.64
+Croatia	2012	37.38	113.31	63
+Croatia	2013	NA	NA	NA
+Cuba	1990	3.18	0	0
+Cuba	1991	3.18	0	NA
+Cuba	1992	3.14	0	NA
+Cuba	1993	3.23	0	NA
+Cuba	1994	3.22	0.01	NA
+Cuba	1995	3.24	0.02	0
+Cuba	1996	3.25	0.02	0.03
+Cuba	1997	3.37	0.03	0.07
+Cuba	1998	3.51	0.04	0.23
+Cuba	1999	3.92	0.05	0.31
+Cuba	2000	4.4	0.06	0.54
+Cuba	2001	5.16	0.08	1.08
+Cuba	2002	5.96	0.16	3.77
+Cuba	2003	6.46	0.32	5.24
+Cuba	2004	6.84	0.67	8.41
+Cuba	2005	7.61	1.2	9.74
+Cuba	2006	8.54	1.36	11.16
+Cuba	2007	9.36	1.76	11.69
+Cuba	2008	9.66	2.94	12.94
+Cuba	2009	9.94	5.52	14.33
+Cuba	2010	10.34	8.91	15.9
+Cuba	2011	10.6	11.69	23.23
+Cuba	2012	10.81	14.95	25.64
+Cuba	2013	NA	NA	NA
+Cyprus	1990	32.08	0.41	0
+Cyprus	1991	34.33	0.66	NA
+Cyprus	1992	36.32	1.22	0.05
+Cyprus	1993	37.98	1.87	0.06
+Cyprus	1994	39.46	2.74	0.11
+Cyprus	1995	40.6	5.2	0.41
+Cyprus	1996	41.95	8.11	0.67
+Cyprus	1997	43.34	10.32	4.38
+Cyprus	1998	44.57	12.82	8.89
+Cyprus	1999	45.82	16.39	11.34
+Cyprus	2000	46.65	23.14	15.26
+Cyprus	2001	45.24	32.69	18.82
+Cyprus	2002	43.62	42.65	28.32
+Cyprus	2003	42.49	55.28	30.09
+Cyprus	2004	41.19	64.8	33.83
+Cyprus	2005	40.68	75.78	32.81
+Cyprus	2006	38.95	82.78	35.83
+Cyprus	2007	38.5	92.97	40.77
+Cyprus	2008	38.38	94.4	42.31
+Cyprus	2009	38.01	89.64	49.81
+Cyprus	2010	37.44	93.7	52.99
+Cyprus	2011	36.27	97.71	57.68
+Cyprus	2012	33.05	98.39	61
+Cyprus	2013	NA	NA	NA
+Czech Republic	1990	15.76	0	0
+Czech Republic	1991	16.57	0.01	NA
+Czech Republic	1992	17.63	0.05	NA
+Czech Republic	1993	19.11	0.14	0.58
+Czech Republic	1994	21.1	0.29	1.26
+Czech Republic	1995	23.69	0.47	1.45
+Czech Republic	1996	27.33	1.94	1.94
+Czech Republic	1997	31.85	5.11	2.92
+Czech Republic	1998	36.4	9.39	3.9
+Czech Republic	1999	37.1	18.95	6.83
+Czech Republic	2000	37.8	42.43	9.78
+Czech Republic	2001	37.76	67.94	14.7
+Czech Republic	2002	36	84.33	23.93
+Czech Republic	2003	35.55	95.19	34.3
+Czech Republic	2004	33.6	105.69	35.5
+Czech Republic	2005	31.48	115.22	35.27
+Czech Republic	2006	28.15	120.93	47.93
+Czech Republic	2007	23.3	128.26	51.93
+Czech Republic	2008	23.88	132.79	62.97
+Czech Republic	2009	24.2	125.12	64.43
+Czech Republic	2010	22.92	123.63	68.82
+Czech Republic	2011	21.73	126.11	72.97
+Czech Republic	2012	19.88	122.79	75
+Czech Republic	2013	NA	NA	NA
+Czechoslovakia [former]	1990	NA	NA	NA
+Czechoslovakia [former]	1991	NA	NA	NA
+Czechoslovakia [former]	1992	NA	NA	NA
+Czechoslovakia [former]	1993	NA	NA	NA
+Czechoslovakia [former]	1994	NA	NA	NA
+Czechoslovakia [former]	1995	NA	NA	NA
+Czechoslovakia [former]	1996	NA	NA	NA
+Czechoslovakia [former]	1997	NA	NA	NA
+Czechoslovakia [former]	1998	NA	NA	NA
+Czechoslovakia [former]	1999	NA	NA	NA
+Czechoslovakia [former]	2000	NA	NA	NA
+Czechoslovakia [former]	2001	NA	NA	NA
+Czechoslovakia [former]	2002	NA	NA	NA
+Czechoslovakia [former]	2003	NA	NA	NA
+Czechoslovakia [former]	2004	NA	NA	NA
+Czechoslovakia [former]	2005	NA	NA	NA
+Czechoslovakia [former]	2006	NA	NA	NA
+Czechoslovakia [former]	2007	NA	NA	NA
+Czechoslovakia [former]	2008	NA	NA	NA
+Czechoslovakia [former]	2009	NA	NA	NA
+Czechoslovakia [former]	2010	NA	NA	NA
+Czechoslovakia [former]	2011	NA	NA	NA
+Czechoslovakia [former]	2012	NA	NA	NA
+Czechoslovakia [former]	2013	NA	NA	NA
+Democratic Republic of the Congo	1990	0.09	0	0
+Democratic Republic of the Congo	1991	0.09	0	NA
+Democratic Republic of the Congo	1992	0.09	NA	NA
+Democratic Republic of the Congo	1993	0.09	NA	NA
+Democratic Republic of the Congo	1994	0.08	NA	NA
+Democratic Republic of the Congo	1995	0.08	0.02	NA
+Democratic Republic of the Congo	1996	0.08	0.02	0
+Democratic Republic of the Congo	1997	0.02	0.02	0
+Democratic Republic of the Congo	1998	0.02	0.02	0
+Democratic Republic of the Congo	1999	0.02	0.02	0
+Democratic Republic of the Congo	2000	0.02	0.03	0.01
+Democratic Republic of the Congo	2001	0.02	0.29	0.01
+Democratic Republic of the Congo	2002	0.02	1.07	0.09
+Democratic Republic of the Congo	2003	0.02	2.3	0.13
+Democratic Republic of the Congo	2004	0.02	3.57	0.2
+Democratic Republic of the Congo	2005	0.02	4.78	0.24
+Democratic Republic of the Congo	2006	0.02	7.47	0.3
+Democratic Republic of the Congo	2007	0.01	10.85	0.37
+Democratic Republic of the Congo	2008	0.06	15.91	0.44
+Democratic Republic of the Congo	2009	0.07	14.73	0.56
+Democratic Republic of the Congo	2010	0.06	17.92	0.72
+Democratic Republic of the Congo	2011	0.08	23.09	1.2
+Democratic Republic of the Congo	2012	0.08	28.01	1.68
+Democratic Republic of the Congo	2013	NA	NA	NA
+Democratic Yemen [former]	1990	NA	NA	NA
+Democratic Yemen [former]	1991	NA	NA	NA
+Democratic Yemen [former]	1992	NA	NA	NA
+Democratic Yemen [former]	1993	NA	NA	NA
+Democratic Yemen [former]	1994	NA	NA	NA
+Democratic Yemen [former]	1995	NA	NA	NA
+Democratic Yemen [former]	1996	NA	NA	NA
+Democratic Yemen [former]	1997	NA	NA	NA
+Democratic Yemen [former]	1998	NA	NA	NA
+Democratic Yemen [former]	1999	NA	NA	NA
+Democratic Yemen [former]	2000	NA	NA	NA
+Democratic Yemen [former]	2001	NA	NA	NA
+Democratic Yemen [former]	2002	NA	NA	NA
+Democratic Yemen [former]	2003	NA	NA	NA
+Democratic Yemen [former]	2004	NA	NA	NA
+Democratic Yemen [former]	2005	NA	NA	NA
+Democratic Yemen [former]	2006	NA	NA	NA
+Democratic Yemen [former]	2007	NA	NA	NA
+Democratic Yemen [former]	2008	NA	NA	NA
+Democratic Yemen [former]	2009	NA	NA	NA
+Democratic Yemen [former]	2010	NA	NA	NA
+Democratic Yemen [former]	2011	NA	NA	NA
+Democratic Yemen [former]	2012	NA	NA	NA
+Democratic Yemen [former]	2013	NA	NA	NA
+Denmark	1990	56.63	2.88	0.1
+Denmark	1991	57.24	3.41	0.19
+Denmark	1992	58.1	4.08	0.39
+Denmark	1993	58.94	6.89	0.58
+Denmark	1994	59.92	9.66	1.34
+Denmark	1995	61.02	15.71	3.83
+Denmark	1996	61.86	25.05	5.71
+Denmark	1997	63.3	27.36	11.38
+Denmark	1998	65.96	36.44	22.67
+Denmark	1999	68.38	49.4	30.59
+Denmark	2000	71.82	62.99	39.17
+Denmark	2001	72.16	73.94	42.96
+Denmark	2002	68.91	83.38	64.25
+Denmark	2003	67.12	88.53	76.26
+Denmark	2004	64.65	95.68	80.93
+Denmark	2005	61.78	100.55	82.74
+Denmark	2006	56.93	107.08	86.65
+Denmark	2007	51.66	115.34	85.03
+Denmark	2008	54.12	119.28	85.02
+Denmark	2009	50.21	123.69	86.84
+Denmark	2010	47.09	115.69	88.72
+Denmark	2011	45.13	116.75	90
+Denmark	2012	43.47	117.96	93
+Denmark	2013	NA	NA	NA
+Djibouti	1990	1.02	0	0
+Djibouti	1991	1.07	0	NA
+Djibouti	1992	1.14	0	NA
+Djibouti	1993	1.22	0	NA
+Djibouti	1994	1.23	0	NA
+Djibouti	1995	1.21	0	0.02
+Djibouti	1996	1.26	0.02	0.03
+Djibouti	1997	1.24	0.03	0.08
+Djibouti	1998	1.15	0.03	0.09
+Djibouti	1999	1.24	0.04	0.11
+Djibouti	2000	1.33	0.03	0.19
+Djibouti	2001	1.32	0.4	0.34
+Djibouti	2002	1.32	1.96	0.49
+Djibouti	2003	1.3	2.95	0.63
+Djibouti	2004	1.4	4.34	0.78
+Djibouti	2005	1.31	5.45	0.95
+Djibouti	2006	1.37	5.44	1.27
+Djibouti	2007	1.68	8.28	1.62
+Djibouti	2008	1.74	13.19	2.26
+Djibouti	2009	1.93	14.77	4
+Djibouti	2010	2.08	18.64	6.5
+Djibouti	2011	2.04	21.32	7
+Djibouti	2012	1.95	22.65	8.27
+Djibouti	2013	NA	NA	NA
+Dominica	1990	16.4	0	0
+Dominica	1991	17.51	0	NA
+Dominica	1992	19.31	0	NA
+Dominica	1993	22.34	0	NA
+Dominica	1994	23.41	0	NA
+Dominica	1995	24.94	0	0.55
+Dominica	1996	26.32	0.65	1.17
+Dominica	1997	27.1	0.78	NA
+Dominica	1998	28.5	0.92	2.93
+Dominica	1999	30.47	1.14	2.93
+Dominica	2000	32.58	1.72	8.81
+Dominica	2001	33.48	11.1	13.25
+Dominica	2002	34.21	17.57	18.42
+Dominica	2003	32.47	34.37	23.62
+Dominica	2004	30.34	60.56	30.32
+Dominica	2005	27.57	75.44	38.54
+Dominica	2006	25.47	104.08	39.4
+Dominica	2007	25.5	130.05	40.27
+Dominica	2008	25.68	133.51	41.16
+Dominica	2009	24.29	145.02	42.02
+Dominica	2010	22.85	155.8	47.45
+Dominica	2011	22.15	160.95	51.31
+Dominica	2012	21.55	161.53	55.18
+Dominica	2013	NA	NA	NA
+Dominican Republic	1990	4.74	0.04	0
+Dominican Republic	1991	5.59	0.08	NA
+Dominican Republic	1992	6.41	0.1	NA
+Dominican Republic	1993	6.95	0.14	NA
+Dominican Republic	1994	7.14	0.27	NA
+Dominican Republic	1995	7.36	0.71	0.02
+Dominican Republic	1996	7.68	1.02	0.07
+Dominican Republic	1997	8.6	1.73	0.14
+Dominican Republic	1998	9.28	2.52	0.23
+Dominican Republic	1999	9.77	5.02	1.1
+Dominican Republic	2000	10.41	8.21	3.7
+Dominican Republic	2001	10.95	14.55	4.43
+Dominican Republic	2002	10.26	19.19	6.82
+Dominican Republic	2003	10.1	23.26	7.9
+Dominican Republic	2004	9.88	27.76	8.87
+Dominican Republic	2005	9.67	39.11	11.48
+Dominican Republic	2006	9.54	49.01	14.84
+Dominican Republic	2007	9.51	57.84	17.66
+Dominican Republic	2008	10.2	74.6	20.82
+Dominican Republic	2009	9.85	88.09	27.72
+Dominican Republic	2010	10.2	89.58	31.4
+Dominican Republic	2011	10.45	87.22	38.58
+Dominican Republic	2012	10.46	88.75	45
+Dominican Republic	2013	NA	NA	NA
+Ecuador	1990	4.78	0	0
+Ecuador	1991	4.68	0	NA
+Ecuador	1992	4.95	0	0.01
+Ecuador	1993	5.46	0	0.02
+Ecuador	1994	5.89	0.17	0.03
+Ecuador	1995	6.13	0.48	0.04
+Ecuador	1996	6.91	0.52	0.09
+Ecuador	1997	7.65	1.07	0.11
+Ecuador	1998	8.28	2.03	0.13
+Ecuador	1999	9.3	3.15	0.82
+Ecuador	2000	9.92	3.91	1.46
+Ecuador	2001	10.64	6.84	2.67
+Ecuador	2002	11.05	12.23	4.26
+Ecuador	2003	11.79	18.46	4.46
+Ecuador	2004	12.04	26.83	4.83
+Ecuador	2005	12.51	46.52	5.99
+Ecuador	2006	13.02	62.21	7.2
+Ecuador	2007	13.16	71.77	10.8
+Ecuador	2008	13.56	83.12	18.8
+Ecuador	2009	14.12	92.85	24.6
+Ecuador	2010	14.42	102.18	29.03
+Ecuador	2011	15.07	104.55	31.4
+Ecuador	2012	15.53	110.71	35.13
+Ecuador	2013	NA	NA	NA
+Egypt	1990	2.82	0.01	0
+Egypt	1991	3.13	0.01	NA
+Egypt	1992	3.44	0.01	NA
+Egypt	1993	3.72	0.01	0
+Egypt	1994	4.02	0.01	0.01
+Egypt	1995	4.38	0.01	0.03
+Egypt	1996	4.79	0.01	0.06
+Egypt	1997	5.38	0.1	0.09
+Egypt	1998	6.08	0.14	0.15
+Egypt	1999	7.05	0.72	0.29
+Egypt	2000	8.11	2.01	0.64
+Egypt	2001	9.72	4.06	0.84
+Egypt	2002	11.11	6.41	2.72
+Egypt	2003	12.22	8.11	4.04
+Egypt	2004	12.99	10.49	11.92
+Egypt	2005	14.01	18.37	12.75
+Egypt	2006	14.3	23.82	13.66
+Egypt	2007	14.59	39.11	16.03
+Egypt	2008	15.13	52.71	18.01
+Egypt	2009	12.94	69.44	25.69
+Egypt	2010	11.86	87.11	31.42
+Egypt	2011	10.56	101.08	39.83
+Egypt	2012	10.19	115.29	44.07
+Egypt	2013	NA	NA	NA
+El Salvador	1990	2.34	0	0
+El Salvador	1991	2.4	0	NA
+El Salvador	1992	3	0	NA
+El Salvador	1993	3.11	0.03	NA
+El Salvador	1994	4.16	0.09	NA
+El Salvador	1995	4.97	0.24	NA
+El Salvador	1996	5.62	0.4	0.09
+El Salvador	1997	6.17	0.69	0.26
+El Salvador	1998	6.58	2.33	0.43
+El Salvador	1999	8.38	8.65	0.85
+El Salvador	2000	10.53	12.52	1.18
+El Salvador	2001	10.89	14.38	1.5
+El Salvador	2002	11.15	14.84	1.9
+El Salvador	2003	12.53	19.14	2.5
+El Salvador	2004	14.73	30.4	3.2
+El Salvador	2005	16.06	39.86	4.2
+El Salvador	2006	17.07	63.41	5.5
+El Salvador	2007	17.7	100.6	6.11
+El Salvador	2008	17.57	113.4	10.08
+El Salvador	2009	17.84	122.82	12.11
+El Salvador	2010	16.16	124.34	15.9
+El Salvador	2011	16.54	133.54	18.9
+El Salvador	2012	16.91	138.07	25.5
+El Salvador	2013	NA	NA	NA
+Equatorial Guinea	1990	0.35	0	0
+Equatorial Guinea	1991	0.34	0	NA
+Equatorial Guinea	1992	0.33	0	NA
+Equatorial Guinea	1993	0.31	0	NA
+Equatorial Guinea	1994	0.59	0	NA
+Equatorial Guinea	1995	0.57	0	NA
+Equatorial Guinea	1996	0.8	0.01	NA
+Equatorial Guinea	1997	0.8	0.06	0.04
+Equatorial Guinea	1998	1.14	0.06	0.09
+Equatorial Guinea	1999	1.15	0.12	0.1
+Equatorial Guinea	2000	1.17	0.96	0.13
+Equatorial Guinea	2001	1.28	2.79	0.17
+Equatorial Guinea	2002	1.59	5.77	0.32
+Equatorial Guinea	2003	1.68	7.26	0.52
+Equatorial Guinea	2004	1.78	10.5	0.84
+Equatorial Guinea	2005	1.65	15.94	1.15
+Equatorial Guinea	2006	1.6	19.18	1.28
+Equatorial Guinea	2007	1.55	23.29	1.56
+Equatorial Guinea	2008	1.51	27.18	1.82
+Equatorial Guinea	2009	1.47	29.36	2.13
+Equatorial Guinea	2010	1.93	57.01	6
+Equatorial Guinea	2011	2.02	66.49	11.5
+Equatorial Guinea	2012	2.01	67.67	13.94
+Equatorial Guinea	2013	NA	NA	NA
+Eritrea	1990	NA	0	0
+Eritrea	1991	NA	0	NA
+Eritrea	1992	0.41	0	NA
+Eritrea	1993	0.42	0	0
+Eritrea	1994	0.48	0	0
+Eritrea	1995	0.55	0	0
+Eritrea	1996	0.58	0	0
+Eritrea	1997	0.66	0	0.01
+Eritrea	1998	0.71	0	0.01
+Eritrea	1999	0.77	0	0.03
+Eritrea	2000	0.83	0	0.14
+Eritrea	2001	0.82	0	0.16
+Eritrea	2002	0.9	0	0.23
+Eritrea	2003	0.92	0	NA
+Eritrea	2004	0.91	0.46	NA
+Eritrea	2005	0.84	0.9	NA
+Eritrea	2006	0.81	1.33	NA
+Eritrea	2007	0.78	1.76	NA
+Eritrea	2008	0.82	2.2	NA
+Eritrea	2009	0.95	2.77	NA
+Eritrea	2010	1.03	3.53	NA
+Eritrea	2011	1.08	4.47	0.7
+Eritrea	2012	1.08	5.47	0.8
+Eritrea	2013	NA	NA	NA
+Estonia	1990	20.41	0	0
+Estonia	1991	21.39	0.04	NA
+Estonia	1992	22.22	0.16	0.07
+Estonia	1993	23.36	0.48	0.3
+Estonia	1994	25.76	0.94	1.16
+Estonia	1995	28.57	2.11	2.78
+Estonia	1996	30.91	4.9	3.53
+Estonia	1997	33.39	10.28	5.71
+Estonia	1998	35.86	17.76	10.8
+Estonia	1999	37.36	28.04	14.5
+Estonia	2000	38.14	40.63	28.58
+Estonia	2001	37.15	47.78	31.53
+Estonia	2002	35.01	64.94	41.52
+Estonia	2003	34.1	77.68	45.32
+Estonia	2004	32.93	93.12	53.2
+Estonia	2005	32.84	107.39	61.45
+Estonia	2006	33.62	123.41	63.51
+Estonia	2007	36.9	125.24	66.19
+Estonia	2008	37.11	121.03	70.58
+Estonia	2009	36.73	117.06	72.5
+Estonia	2010	35.96	123.24	74.1
+Estonia	2011	35.2	138.98	76.5
+Estonia	2012	33.45	154.55	79
+Estonia	2013	NA	NA	NA
+Ethiopia	1990	0.26	0	0
+Ethiopia	1991	0.27	0	NA
+Ethiopia	1992	0.25	0	NA
+Ethiopia	1993	0.25	0	NA
+Ethiopia	1994	0.25	0	NA
+Ethiopia	1995	0.25	0	0
+Ethiopia	1996	0.25	0	0
+Ethiopia	1997	0.26	0	0
+Ethiopia	1998	0.26	0	0.01
+Ethiopia	1999	0.3	0.01	0.01
+Ethiopia	2000	0.35	0.03	0.02
+Ethiopia	2001	0.42	0.04	0.04
+Ethiopia	2002	0.51	0.07	0.07
+Ethiopia	2003	0.57	0.07	0.11
+Ethiopia	2004	0.67	0.21	0.16
+Ethiopia	2005	0.82	0.55	0.22
+Ethiopia	2006	0.95	1.14	0.31
+Ethiopia	2007	1.13	1.55	0.37
+Ethiopia	2008	1.13	2.46	0.45
+Ethiopia	2009	1.13	4.99	0.54
+Ethiopia	2010	1.1	8.26	0.75
+Ethiopia	2011	0.98	16.67	1.1
+Ethiopia	2012	0.92	23.72	1.48
+Ethiopia	2013	NA	NA	NA
+European Union (EU)	1990	NA	NA	NA
+European Union (EU)	1991	NA	NA	NA
+European Union (EU)	1992	NA	NA	NA
+European Union (EU)	1993	NA	NA	NA
+European Union (EU)	1994	NA	NA	NA
+European Union (EU)	1995	NA	NA	NA
+European Union (EU)	1996	NA	NA	NA
+European Union (EU)	1997	NA	NA	NA
+European Union (EU)	1998	NA	NA	NA
+European Union (EU)	1999	NA	NA	NA
+European Union (EU)	2000	NA	NA	NA
+European Union (EU)	2001	NA	NA	NA
+European Union (EU)	2002	NA	NA	NA
+European Union (EU)	2003	NA	NA	NA
+European Union (EU)	2004	NA	NA	NA
+European Union (EU)	2005	NA	NA	NA
+European Union (EU)	2006	NA	NA	NA
+European Union (EU)	2007	NA	NA	NA
+European Union (EU)	2008	NA	NA	NA
+European Union (EU)	2009	NA	NA	NA
+European Union (EU)	2010	NA	NA	NA
+European Union (EU)	2011	NA	NA	NA
+European Union (EU)	2012	NA	NA	NA
+European Union (EU)	2013	NA	NA	NA
+Faeroe Islands	1990	47.99	0	0
+Faeroe Islands	1991	50.46	3.04	NA
+Faeroe Islands	1992	51.55	3.73	NA
+Faeroe Islands	1993	51.73	3.57	NA
+Faeroe Islands	1994	51.42	4.45	NA
+Faeroe Islands	1995	51.16	5.88	0
+Faeroe Islands	1996	52.64	7.52	2.32
+Faeroe Islands	1997	53.85	10.75	4.6
+Faeroe Islands	1998	54.18	14.69	11.34
+Faeroe Islands	1999	55.14	23.88	22.3
+Faeroe Islands	2000	54.55	37.1	32.92
+Faeroe Islands	2001	49.95	52.82	43.25
+Faeroe Islands	2002	51.99	74	53.3
+Faeroe Islands	2003	51.17	80.1	58.91
+Faeroe Islands	2004	50	86.19	66.53
+Faeroe Islands	2005	49.37	87.1	67.9
+Faeroe Islands	2006	47.54	103.07	69.36
+Faeroe Islands	2007	46.24	107.41	75.98
+Faeroe Islands	2008	44.9	112.89	75.57
+Faeroe Islands	2009	43.03	117.21	75.18
+Faeroe Islands	2010	41.42	122.05	75.2
+Faeroe Islands	2011	NA	122.79	80.73
+Faeroe Islands	2012	48.9	124.3	85.34
+Faeroe Islands	2013	NA	NA	NA
+Falkland Islands (Malvinas)	1990	NA	0	0
+Falkland Islands (Malvinas)	1991	66.88	0	NA
+Falkland Islands (Malvinas)	1992	64.32	0	NA
+Falkland Islands (Malvinas)	1993	61.63	0	0
+Falkland Islands (Malvinas)	1994	63.73	0	0
+Falkland Islands (Malvinas)	1995	62.73	0	0
+Falkland Islands (Malvinas)	1996	64.66	0	NA
+Falkland Islands (Malvinas)	1997	70.4	0	3.76
+Falkland Islands (Malvinas)	1998	74.72	0	NA
+Falkland Islands (Malvinas)	1999	76.9	0	56.4
+Falkland Islands (Malvinas)	2000	79.28	0	58.62
+Falkland Islands (Malvinas)	2001	80.6	0	64.6
+Falkland Islands (Malvinas)	2002	81.82	0	64.15
+Falkland Islands (Malvinas)	2003	88.14	0	64.02
+Falkland Islands (Malvinas)	2004	87.3	0	67.32
+Falkland Islands (Malvinas)	2005	86.31	25.9	84.01
+Falkland Islands (Malvinas)	2006	80.89	76.71	87.1
+Falkland Islands (Malvinas)	2007	78.89	100	90.06
+Falkland Islands (Malvinas)	2008	66.69	99.93	92.96
+Falkland Islands (Malvinas)	2009	65.7	108.32	95.84
+Falkland Islands (Malvinas)	2010	65.93	107.86	95.84
+Falkland Islands (Malvinas)	2011	66.37	108.56	96.38
+Falkland Islands (Malvinas)	2012	65.25	113.87	96.92
+Falkland Islands (Malvinas)	2013	NA	NA	NA
+Fiji	1990	5.82	0	0
+Fiji	1991	6.2	0	NA
+Fiji	1992	6.66	0	NA
+Fiji	1993	7.15	0	0.01
+Fiji	1994	7.77	0.14	0.01
+Fiji	1995	8.35	0.28	0.01
+Fiji	1996	8.92	0.47	0.06
+Fiji	1997	9.05	0.66	0.22
+Fiji	1998	9.61	1	0.63
+Fiji	1999	10.1	2.9	0.94
+Fiji	2000	10.64	6.78	1.5
+Fiji	2001	11.32	9.93	1.86
+Fiji	2002	11.95	11.01	6.15
+Fiji	2003	12.48	13.44	6.73
+Fiji	2004	12.82	17.36	7.41
+Fiji	2005	13.68	24.92	8.45
+Fiji	2006	13.89	34.38	9.6
+Fiji	2007	14.59	63.46	10.9
+Fiji	2008	15.3	71.12	13
+Fiji	2009	16.05	75.09	17
+Fiji	2010	15.09	81.09	20
+Fiji	2011	14.95	83.72	28
+Fiji	2012	10.1	98.06	33.74
+Fiji	2013	NA	NA	NA
+Finland	1990	53.54	5.17	0.4
+Finland	1991	54.25	6.37	1.4
+Finland	1992	54.46	7.67	1.89
+Finland	1993	54.59	9.66	2.57
+Finland	1994	55.07	13.28	4.92
+Finland	1995	55.01	20.34	13.9
+Finland	1996	55.45	29.31	16.78
+Finland	1997	55.67	42.08	19.46
+Finland	1998	55.16	55.25	25.45
+Finland	1999	55.22	63.41	32.3
+Finland	2000	55.07	72.07	37.25
+Finland	2001	54.12	80.53	43.11
+Finland	2002	52.44	86.91	62.43
+Finland	2003	49.28	91.11	69.22
+Finland	2004	45.31	95.44	72.39
+Finland	2005	40.42	100.49	74.48
+Finland	2006	36.27	107.67	79.66
+Finland	2007	32.89	114.92	80.78
+Finland	2008	31.04	128.47	83.67
+Finland	2009	26.77	144.15	82.49
+Finland	2010	23.3	156.4	86.89
+Finland	2011	20.06	166.02	89.37
+Finland	2012	16.47	172.51	91
+Finland	2013	NA	NA	NA
+France	1990	49.53	0.5	0.05
+France	1991	51.09	0.66	0.14
+France	1992	52.63	0.76	0.28
+France	1993	53.82	1	0.59
+France	1994	55.01	1.53	0.9
+France	1995	56.01	2.25	1.64
+France	1996	56.67	4.24	2.58
+France	1997	57.83	9.98	4.26
+France	1998	58.29	19.16	6.32
+France	1999	57.68	36.48	9.13
+France	2000	57.56	49.2	14.31
+France	2001	57.39	62.29	26.33
+France	2002	57.09	64.55	30.18
+France	2003	56.35	69.29	36.14
+France	2004	55.62	73.51	39.15
+France	2005	55.26	78.84	42.87
+France	2006	55.6	84.17	46.87
+France	2007	56.36	89.66	66.09
+France	2008	56.52	93.36	70.68
+France	2009	65.55	92.75	71.58
+France	2010	64.7	92.03	80.1
+France	2011	63.43	94.76	79.58
+France	2012	61.92	98.14	83
+France	2013	NA	NA	NA
+French Guiana	1990	NA	NA	NA
+French Guiana	1991	NA	NA	NA
+French Guiana	1992	NA	NA	NA
+French Guiana	1993	NA	NA	NA
+French Guiana	1994	NA	NA	NA
+French Guiana	1995	NA	NA	NA
+French Guiana	1996	NA	NA	NA
+French Guiana	1997	NA	NA	NA
+French Guiana	1998	NA	NA	NA
+French Guiana	1999	NA	NA	NA
+French Guiana	2000	NA	NA	NA
+French Guiana	2001	NA	NA	NA
+French Guiana	2002	NA	NA	NA
+French Guiana	2003	NA	NA	NA
+French Guiana	2004	NA	NA	NA
+French Guiana	2005	NA	NA	NA
+French Guiana	2006	NA	NA	NA
+French Guiana	2007	NA	NA	NA
+French Guiana	2008	NA	NA	NA
+French Guiana	2009	NA	NA	NA
+French Guiana	2010	NA	NA	NA
+French Guiana	2011	NA	NA	NA
+French Guiana	2012	NA	NA	NA
+French Guiana	2013	NA	NA	NA
+French Polynesia	1990	19.54	0	0
+French Polynesia	1991	20.67	0	NA
+French Polynesia	1992	21.4	0	NA
+French Polynesia	1993	21.66	0	NA
+French Polynesia	1994	22.25	0	NA
+French Polynesia	1995	22.55	0.53	NA
+French Polynesia	1996	23.27	1.23	0.09
+French Polynesia	1997	23.28	2.42	0.21
+French Polynesia	1998	23.17	4.83	1.32
+French Polynesia	1999	22.38	9.39	3.45
+French Polynesia	2000	22.59	16.79	6.36
+French Polynesia	2001	22.1	27.87	6.25
+French Polynesia	2002	21.7	21.33	8.2
+French Polynesia	2003	21.55	24.2	14.12
+French Polynesia	2004	21.17	38.15	17.88
+French Polynesia	2005	20.95	47.08	21.54
+French Polynesia	2006	20.78	58.89	25.11
+French Polynesia	2007	20.7	66.9	28.59
+French Polynesia	2008	20.62	70.74	33.87
+French Polynesia	2009	20.29	77.8	44.6
+French Polynesia	2010	20.29	79.73	49
+French Polynesia	2011	20.09	81.39	49
+French Polynesia	2012	19.87	81.67	52.88
+French Polynesia	2013	NA	NA	NA
+Gabon	1990	2.23	0	0
+Gabon	1991	2.74	0	NA
+Gabon	1992	2.79	0.03	NA
+Gabon	1993	2.91	0.12	NA
+Gabon	1994	2.97	0.24	NA
+Gabon	1995	2.94	0.37	NA
+Gabon	1996	3.13	0.61	0
+Gabon	1997	3.24	0.83	0.05
+Gabon	1998	3.29	0.82	0.17
+Gabon	1999	3.15	0.74	0.25
+Gabon	2000	3.16	9.71	1.22
+Gabon	2001	2.95	11.87	1.35
+Gabon	2002	2.49	21.64	1.94
+Gabon	2003	2.92	22.77	2.66
+Gabon	2004	2.88	36.41	2.98
+Gabon	2005	2.85	53.74	4.89
+Gabon	2006	2.61	64.27	5.49
+Gabon	2007	1.86	82.11	5.77
+Gabon	2008	2.29	89.64	6.21
+Gabon	2009	2.47	98.14	6.7
+Gabon	2010	2.02	106.94	7.23
+Gabon	2011	1.47	154.49	8
+Gabon	2012	1.09	187.36	8.62
+Gabon	2013	NA	NA	NA
+Gambia	1990	0.64	0	0
+Gambia	1991	1	0	NA
+Gambia	1992	1.35	0.02	NA
+Gambia	1993	1.53	0.04	NA
+Gambia	1994	1.67	0.07	NA
+Gambia	1995	1.71	0.13	0.01
+Gambia	1996	1.84	0.27	0.04
+Gambia	1997	2.08	0.4	0.05
+Gambia	1998	2.09	0.41	0.21
+Gambia	1999	2.32	0.42	0.72
+Gambia	2000	2.57	0.43	0.92
+Gambia	2001	2.62	4.12	1.34
+Gambia	2002	2.79	7.27	1.8
+Gambia	2003	2.96	10.53	2.44
+Gambia	2004	2.94	11.98	3.31
+Gambia	2005	2.93	16.46	3.8
+Gambia	2006	2.99	26.13	5.24
+Gambia	2007	3.06	50.29	6.21
+Gambia	2008	2.99	71.28	6.88
+Gambia	2009	2.88	78.07	7.63
+Gambia	2010	2.82	85.53	9.2
+Gambia	2011	2.84	78.89	10.87
+Gambia	2012	3.52	83.64	12.45
+Gambia	2013	NA	NA	NA
+Georgia	1990	9.89	0	0
+Georgia	1991	10.28	0	NA
+Georgia	1992	10.71	0	NA
+Georgia	1993	10.87	0	NA
+Georgia	1994	10.19	0	NA
+Georgia	1995	10.93	0	0.01
+Georgia	1996	11.37	0.05	0.04
+Georgia	1997	12.52	0.61	0.06
+Georgia	1998	12.93	1.23	0.1
+Georgia	1999	13.97	2.77	0.42
+Georgia	2000	10.72	4.1	0.48
+Georgia	2001	12.15	6.43	0.99
+Georgia	2002	13.84	10.89	1.59
+Georgia	2003	14.6	15.56	2.56
+Georgia	2004	15.12	18.6	3.89
+Georgia	2005	12.74	26.23	6.08
+Georgia	2006	12.45	38.35	7.53
+Georgia	2007	12.59	58.87	8.26
+Georgia	2008	14.07	62.7	10.01
+Georgia	2009	14.18	64.87	20.07
+Georgia	2010	25.41	91.45	26.9
+Georgia	2011	30.96	102.34	36.56
+Georgia	2012	29.65	109.16	45.5
+Georgia	2013	NA	NA	NA
+Germany	1990	40.31	0.34	0.13
+Germany	1991	42.13	0.67	0.25
+Germany	1992	44.12	1.21	0.44
+Germany	1993	45.72	2.19	0.46
+Germany	1994	47.61	3.06	0.92
+Germany	1995	51.26	4.55	1.84
+Germany	1996	53.65	6.71	3.05
+Germany	1997	54.9	10.05	6.71
+Germany	1998	56.5	16.89	9.88
+Germany	1999	58.55	28.47	20.85
+Germany	2000	60.98	58.53	30.22
+Germany	2001	63.52	68.13	31.65
+Germany	2002	65.11	71.73	48.82
+Germany	2003	65.75	78.56	55.9
+Germany	2004	66.07	86.43	64.73
+Germany	2005	66.38	96.04	68.71
+Germany	2006	65.91	103.78	72.16
+Germany	2007	64.35	116.62	75.16
+Germany	2008	60.99	127.95	78
+Germany	2009	65.17	127.42	79
+Germany	2010	64.28	127.04	82
+Germany	2011	63.05	132.3	83
+Germany	2012	61.84	131.3	84
+Germany	2013	NA	NA	NA
+Ghana	1990	0.3	0	0
+Ghana	1991	0.31	0	NA
+Ghana	1992	0.31	0	NA
+Ghana	1993	0.3	0.01	NA
+Ghana	1994	0.3	0.02	NA
+Ghana	1995	0.37	0.04	0
+Ghana	1996	0.45	0.07	0.01
+Ghana	1997	0.59	0.12	0.03
+Ghana	1998	0.73	0.23	0.03
+Ghana	1999	0.86	0.37	0.1
+Ghana	2000	1.11	0.68	0.15
+Ghana	2001	1.25	1.24	0.2
+Ghana	2002	1.37	1.92	0.83
+Ghana	2003	1.41	3.86	1.19
+Ghana	2004	1.48	8.03	1.72
+Ghana	2005	1.49	13.28	1.83
+Ghana	2006	1.61	23.49	2.72
+Ghana	2007	1.66	33.48	3.85
+Ghana	2008	0.62	49.73	4.27
+Ghana	2009	1.12	63.42	5.44
+Ghana	2010	1.14	71.49	7.8
+Ghana	2011	1.14	84.78	14.11
+Ghana	2012	1.12	100.28	17.11
+Ghana	2013	NA	NA	NA
+Gibraltar	1990	NA	NA	NA
+Gibraltar	1991	NA	NA	NA
+Gibraltar	1992	NA	NA	NA
+Gibraltar	1993	NA	NA	NA
+Gibraltar	1994	NA	NA	NA
+Gibraltar	1995	NA	NA	NA
+Gibraltar	1996	NA	NA	NA
+Gibraltar	1997	NA	NA	NA
+Gibraltar	1998	NA	NA	NA
+Gibraltar	1999	NA	NA	NA
+Gibraltar	2000	NA	NA	NA
+Gibraltar	2001	NA	NA	NA
+Gibraltar	2002	NA	NA	NA
+Gibraltar	2003	NA	NA	NA
+Gibraltar	2004	NA	NA	NA
+Gibraltar	2005	NA	NA	NA
+Gibraltar	2006	NA	NA	NA
+Gibraltar	2007	NA	NA	NA
+Gibraltar	2008	NA	NA	NA
+Gibraltar	2009	NA	NA	NA
+Gibraltar	2010	NA	NA	NA
+Gibraltar	2011	NA	NA	NA
+Gibraltar	2012	NA	NA	NA
+Gibraltar	2013	NA	NA	NA
+Greece	1990	38.86	0	0
+Greece	1991	40.89	0	0.05
+Greece	1992	43.44	0	0.05
+Greece	1993	45.34	0.46	0.19
+Greece	1994	47.06	1.45	0.38
+Greece	1995	48.38	2.56	0.75
+Greece	1996	49.55	4.95	1.4
+Greece	1997	50.17	8.66	1.85
+Greece	1998	50.86	18.81	3.22
+Greece	1999	51.3	35.69	6.88
+Greece	2000	51.51	54	9.14
+Greece	2001	50.83	72.19	10.94
+Greece	2002	56.84	84.11	14.67
+Greece	2003	56.7	80.43	17.8
+Greece	2004	56.99	83.65	21.42
+Greece	2005	56.44	91.75	24
+Greece	2006	55	97.87	32.25
+Greece	2007	48.59	109.23	35.88
+Greece	2008	46.53	122.21	38.2
+Greece	2009	52.98	117.38	42.4
+Greece	2010	51.92	108.22	44.4
+Greece	2011	50.44	106.48	53
+Greece	2012	47.83	116.94	56
+Greece	2013	NA	NA	NA
+Greenland	1990	29.89	0	0
+Greenland	1991	30.11	0	NA
+Greenland	1992	30.25	0.31	NA
+Greenland	1993	31.52	0.79	NA
+Greenland	1994	33.21	1.73	0.06
+Greenland	1995	35.24	3.69	0.05
+Greenland	1996	37.94	7.41	1.8
+Greenland	1997	41.91	11.63	7.95
+Greenland	1998	44.69	15.93	14.65
+Greenland	1999	45.73	24.14	21.6
+Greenland	2000	46.59	26.9	31.75
+Greenland	2001	42.94	28.16	35.46
+Greenland	2002	44.74	35.19	44.15
+Greenland	2003	44.42	52.33	54.53
+Greenland	2004	44.05	68.43	56.1
+Greenland	2005	56.22	81.27	57.7
+Greenland	2006	62.82	94.1	59.36
+Greenland	2007	40.41	115.85	61.07
+Greenland	2008	39.81	97.38	62.82
+Greenland	2009	38.46	93.31	62.83
+Greenland	2010	38.09	100.09	63
+Greenland	2011	34.72	102.52	64
+Greenland	2012	33	103.76	64.9
+Greenland	2013	NA	NA	NA
+Grenada	1990	15.8	0.16	0
+Grenada	1991	16.81	0.15	0
+Grenada	1992	19.06	0.19	0
+Grenada	1993	20.47	0.29	0
+Grenada	1994	21.15	0.35	0
+Grenada	1995	23.16	0.4	0
+Grenada	1996	23.93	0.57	0.3
+Grenada	1997	26.23	0.97	0.99
+Grenada	1998	27.15	1.39	1.48
+Grenada	1999	29.04	1.99	2.47
+Grenada	2000	30.88	4.24	4.06
+Grenada	2001	32.19	6.3	5.13
+Grenada	2002	32.9	7.41	14.76
+Grenada	2003	31.94	41.38	18.65
+Grenada	2004	31.92	42.28	19.57
+Grenada	2005	26.7	45.61	20.49
+Grenada	2006	26.89	44.83	21.4
+Grenada	2007	27.6	49.71	22.29
+Grenada	2008	27.55	57.87	23.18
+Grenada	2009	27.22	109.92	24.05
+Grenada	2010	27.15	116.71	33.46
+Grenada	2011	27.08	119.17	38.13
+Grenada	2012	27.06	121.55	42.09
+Grenada	2013	NA	NA	NA
+Guadeloupe	1990	NA	NA	NA
+Guadeloupe	1991	NA	NA	NA
+Guadeloupe	1992	NA	NA	NA
+Guadeloupe	1993	NA	NA	NA
+Guadeloupe	1994	NA	NA	NA
+Guadeloupe	1995	NA	NA	NA
+Guadeloupe	1996	NA	NA	NA
+Guadeloupe	1997	NA	NA	NA
+Guadeloupe	1998	NA	NA	NA
+Guadeloupe	1999	NA	NA	NA
+Guadeloupe	2000	NA	NA	NA
+Guadeloupe	2001	NA	NA	NA
+Guadeloupe	2002	NA	NA	NA
+Guadeloupe	2003	NA	NA	NA
+Guadeloupe	2004	NA	NA	NA
+Guadeloupe	2005	NA	NA	NA
+Guadeloupe	2006	NA	NA	NA
+Guadeloupe	2007	NA	NA	NA
+Guadeloupe	2008	NA	NA	NA
+Guadeloupe	2009	NA	NA	NA
+Guadeloupe	2010	NA	NA	NA
+Guadeloupe	2011	NA	NA	NA
+Guadeloupe	2012	NA	NA	NA
+Guadeloupe	2013	NA	NA	NA
+Guam	1990	29.15	0	0
+Guam	1991	31.65	0.64	NA
+Guam	1992	33.3	0.94	NA
+Guam	1993	46.6	1.35	NA
+Guam	1994	44.31	2.86	0.35
+Guam	1995	47.54	3.41	0.66
+Guam	1996	47.41	3.93	1.36
+Guam	1997	47.65	3.8	2.34
+Guam	1998	49.68	8.5	4.5
+Guam	1999	50.73	13.07	8.5
+Guam	2000	47.93	17.53	16.11
+Guam	2001	50.76	20.69	25.38
+Guam	2002	43.67	43.98	31.19
+Guam	2003	40.17	48.92	33.72
+Guam	2004	39.48	59.07	36.16
+Guam	2005	38.86	NA	38.56
+Guam	2006	38.3	NA	43.85
+Guam	2007	37.79	NA	46.15
+Guam	2008	37.31	NA	48.42
+Guam	2009	36.86	NA	50.64
+Guam	2010	36.41	NA	54.04
+Guam	2011	NA	NA	57.7
+Guam	2012	36.35	NA	61.53
+Guam	2013	NA	NA	NA
+Guatemala	1990	2.13	0	0
+Guatemala	1991	2.21	0.01	NA
+Guatemala	1992	2.29	0.02	NA
+Guatemala	1993	2.42	0.03	NA
+Guatemala	1994	2.5	0.11	NA
+Guatemala	1995	2.86	0.3	0
+Guatemala	1996	3.3	0.42	0.02
+Guatemala	1997	4.1	0.61	0.1
+Guatemala	1998	4.82	1.04	0.47
+Guatemala	1999	5.56	3.08	0.59
+Guatemala	2000	6.02	7.63	0.71
+Guatemala	2001	6.57	9.96	1.74
+Guatemala	2002	7.17	13.36	3.39
+Guatemala	2003	7.8	16.82	4.55
+Guatemala	2004	9.13	25.54	5.1
+Guatemala	2005	9.81	35.46	5.7
+Guatemala	2006	10.39	55.07	6.5
+Guatemala	2007	10.58	89.06	7.3
+Guatemala	2008	10.58	109.19	8.3
+Guatemala	2009	10.07	123.33	9.3
+Guatemala	2010	10.41	125.57	10.5
+Guatemala	2011	11.02	132	12.3
+Guatemala	2012	11.52	137.32	16
+Guatemala	2013	NA	NA	NA
+Guinea	1990	0.2	0	0
+Guinea	1991	0.19	0	NA
+Guinea	1992	0.17	0	NA
+Guinea	1993	0.17	0	NA
+Guinea	1994	0.13	0.01	0
+Guinea	1995	0.14	0.01	0
+Guinea	1996	0.21	0.01	0
+Guinea	1997	0.25	0.04	0
+Guinea	1998	0.19	0.27	0.01
+Guinea	1999	0.26	0.31	0.06
+Guinea	2000	0.29	0.5	0.1
+Guinea	2001	0.3	0.66	0.18
+Guinea	2002	0.3	1.05	0.4
+Guinea	2003	0.3	1.28	0.45
+Guinea	2004	0.29	1.74	0.51
+Guinea	2005	0.28	2.09	0.54
+Guinea	2006	0.25	NA	0.64
+Guinea	2007	0.23	21.34	0.78
+Guinea	2008	0.28	28.77	0.92
+Guinea	2009	0.23	35.74	0.94
+Guinea	2010	0.18	40.07	1
+Guinea	2011	0.18	44.02	1.3
+Guinea	2012	0.17	45.62	1.49
+Guinea	2013	NA	NA	NA
+Guinea-Bissau	1990	0.59	0	0
+Guinea-Bissau	1991	0.6	0	NA
+Guinea-Bissau	1992	0.61	0	NA
+Guinea-Bissau	1993	0.62	0	NA
+Guinea-Bissau	1994	0.63	0	NA
+Guinea-Bissau	1995	0.65	0	NA
+Guinea-Bissau	1996	0.69	0	NA
+Guinea-Bissau	1997	0.65	0	0.02
+Guinea-Bissau	1998	0.68	0	0.02
+Guinea-Bissau	1999	0.5	0	0.12
+Guinea-Bissau	2000	0.9	0	0.23
+Guinea-Bissau	2001	0.78	0	0.3
+Guinea-Bissau	2002	0.87	0	1.02
+Guinea-Bissau	2003	0.8	0.1	1.35
+Guinea-Bissau	2004	0.72	2.94	1.81
+Guinea-Bissau	2005	0.7	7.23	1.9
+Guinea-Bissau	2006	0.49	11.27	2.06
+Guinea-Bissau	2007	0.32	20.8	2.21
+Guinea-Bissau	2008	0.32	34.4	2.35
+Guinea-Bissau	2009	0.33	37.76	2.3
+Guinea-Bissau	2010	0.33	47.19	2.45
+Guinea-Bissau	2011	0.32	56.18	2.67
+Guinea-Bissau	2012	0.32	69.45	2.89
+Guinea-Bissau	2013	NA	NA	NA
+Guyana	1990	2.21	0	0
+Guyana	1991	2.21	0	NA
+Guyana	1992	3.92	0.12	NA
+Guyana	1993	5.7	0.14	NA
+Guyana	1994	6.06	0.17	NA
+Guyana	1995	6.13	0.17	NA
+Guyana	1996	6.88	0.16	0.07
+Guyana	1997	7.55	0.19	0.13
+Guyana	1998	8.2	0.2	0.26
+Guyana	1999	8.75	0.38	3.97
+Guyana	2000	9.33	5.43	6.61
+Guyana	2001	10.87	10.24	13.21
+Guyana	2002	10.9	10.76	NA
+Guyana	2003	12.46	18.62	NA
+Guyana	2004	13.81	23.08	NA
+Guyana	2005	14.76	37.71	NA
+Guyana	2006	15.77	53.45	NA
+Guyana	2007	17.12	71.83	NA
+Guyana	2008	18.47	59.58	18.2
+Guyana	2009	19.53	64.88	23.9
+Guyana	2010	19.86	74.27	29.9
+Guyana	2011	20.14	69.94	32
+Guyana	2012	20.35	72.21	34.31
+Guyana	2013	NA	NA	NA
+Haiti	1990	0.63	0	0
+Haiti	1991	0.62	0	NA
+Haiti	1992	0.61	0	NA
+Haiti	1993	0.59	0	NA
+Haiti	1994	0.65	0	NA
+Haiti	1995	0.76	0	NA
+Haiti	1996	0.75	0	0.01
+Haiti	1997	0.73	0	NA
+Haiti	1998	0.78	0.12	0.02
+Haiti	1999	0.82	0.29	0.07
+Haiti	2000	0.84	0.64	0.23
+Haiti	2001	0.91	1.04	0.34
+Haiti	2002	1.45	1.57	0.89
+Haiti	2003	1.54	3.53	1.65
+Haiti	2004	1.52	4.34	5.4
+Haiti	2005	1.55	5.35	6.38
+Haiti	2006	1.58	12.66	6.8
+Haiti	2007	1.13	26.02	7.2
+Haiti	2008	1.11	32.87	7.6
+Haiti	2009	1.08	36.98	8.1
+Haiti	2010	0.5	40.03	8.37
+Haiti	2011	0.49	41.49	9.5
+Haiti	2012	0.49	59.43	10.87
+Haiti	2013	NA	NA	NA
+Honduras	1990	1.8	0	0
+Honduras	1991	1.88	0	NA
+Honduras	1992	2.03	0	NA
+Honduras	1993	2.21	0	NA
+Honduras	1994	2.41	0	NA
+Honduras	1995	2.88	0	0.04
+Honduras	1996	3.33	0.04	0.04
+Honduras	1997	4	0.25	0.17
+Honduras	1998	4.18	0.59	0.3
+Honduras	1999	4.58	1.29	0.57
+Honduras	2000	4.8	2.5	1.2
+Honduras	2001	4.88	3.74	1.42
+Honduras	2002	4.98	5.04	2.6
+Honduras	2003	5.06	5.74	4.8
+Honduras	2004	5.74	10.49	5.6
+Honduras	2005	7.18	18.63	6.5
+Honduras	2006	10.19	31.93	7.8
+Honduras	2007	11.47	58.46	9.4
+Honduras	2008	11.31	85.05	9.6
+Honduras	2009	9.62	112.63	9.8
+Honduras	2010	8.81	125.06	11.09
+Honduras	2011	7.92	103.97	15.9
+Honduras	2012	7.72	93.15	18.12
+Honduras	2013	NA	NA	NA
+Hungary	1990	9.6	0.03	0
+Hungary	1991	10.89	0.08	0
+Hungary	1992	12.47	0.22	0.05
+Hungary	1993	14.47	0.44	0.19
+Hungary	1994	17.15	1.38	0.48
+Hungary	1995	20.88	2.56	0.68
+Hungary	1996	25.71	4.59	0.97
+Hungary	1997	30.08	6.86	1.94
+Hungary	1998	33.35	10.43	3.89
+Hungary	1999	36.39	15.9	5.86
+Hungary	2000	37.2	30.13	7
+Hungary	2001	36.74	48.77	14.53
+Hungary	2002	36.12	67.78	16.67
+Hungary	2003	35.55	78.39	21.63
+Hungary	2004	35.25	86.32	27.74
+Hungary	2005	33.86	92.4	38.97
+Hungary	2006	33.39	99.02	47.06
+Hungary	2007	32.37	109.83	53.3
+Hungary	2008	30.87	121.97	61
+Hungary	2009	30.68	117.9	62
+Hungary	2010	29.82	120.32	65
+Hungary	2011	29.43	117.3	70
+Hungary	2012	29.76	116.38	72
+Hungary	2013	NA	NA	NA
+Iceland	1990	51.21	3.93	0
+Iceland	1991	52.67	5.01	0.51
+Iceland	1992	53.88	5.87	1.54
+Iceland	1993	54.73	6.63	2.67
+Iceland	1994	55.99	8.25	6.79
+Iceland	1995	55.58	11.55	11.22
+Iceland	1996	58.05	17.33	14.81
+Iceland	1997	60.62	23.96	27.48
+Iceland	1998	63.01	37.84	36.26
+Iceland	1999	66.44	62	41.29
+Iceland	2000	69.82	76.42	44.47
+Iceland	2001	69.2	87.37	49.39
+Iceland	2002	65.55	90.81	79.12
+Iceland	2003	66.46	96.53	83.14
+Iceland	2004	65.01	99	83.88
+Iceland	2005	65.33	95.41	87
+Iceland	2006	62.65	100.3	89.51
+Iceland	2007	61.06	106.67	90.6
+Iceland	2008	64.22	108.45	91
+Iceland	2009	60.27	107.66	93
+Iceland	2010	60.48	106.54	93.39
+Iceland	2011	58.92	106.08	95.02
+Iceland	2012	57.57	105.39	96
+Iceland	2013	NA	NA	NA
+India	1990	0.58	0	0
+India	1991	0.65	0	NA
+India	1992	0.75	0	0
+India	1993	0.86	0	0
+India	1994	1.04	0	0
+India	1995	1.24	0.01	0.03
+India	1996	1.48	0.03	0.05
+India	1997	1.78	0.09	0.07
+India	1998	2.12	0.12	0.14
+India	1999	2.56	0.18	0.27
+India	2000	3.08	0.34	0.53
+India	2001	3.6	0.61	0.66
+India	2002	3.8	1.19	1.54
+India	2003	3.8	3.05	1.69
+India	2004	4.11	4.65	1.98
+India	2005	4.4	7.91	2.39
+India	2006	3.52	14.35	2.81
+India	2007	3.34	19.9	3.95
+India	2008	3.18	29.13	4.38
+India	2009	3.07	43.48	5.12
+India	2010	2.87	61.42	7.5
+India	2011	2.63	72	10.07
+India	2012	2.47	68.72	12.58
+India	2013	NA	NA	NA
+Indonesia	1990	0.58	0.01	0
+Indonesia	1991	0.69	0.01	NA
+Indonesia	1992	0.87	0.02	NA
+Indonesia	1993	0.96	0.03	NA
+Indonesia	1994	1.25	0.04	0
+Indonesia	1995	1.65	0.11	0.03
+Indonesia	1996	2.07	0.28	0.06
+Indonesia	1997	2.43	0.45	0.19
+Indonesia	1998	2.68	0.51	0.26
+Indonesia	1999	2.89	1.05	0.44
+Indonesia	2000	3.12	1.72	0.93
+Indonesia	2001	3.34	3.02	2.02
+Indonesia	2002	3.54	5.34	2.13
+Indonesia	2003	3.63	8.34	2.39
+Indonesia	2004	4.62	13.51	2.6
+Indonesia	2005	5.94	20.64	3.6
+Indonesia	2006	6.45	27.75	4.76
+Indonesia	2007	8.4	40.17	5.79
+Indonesia	2008	12.93	59.83	7.92
+Indonesia	2009	14.66	68.94	6.92
+Indonesia	2010	17.06	88.08	10.92
+Indonesia	2011	15.84	102.49	12.28
+Indonesia	2012	15.52	115.2	15.36
+Indonesia	2013	NA	NA	NA
+Iran (Islamic Republic of)	1990	4.01	0	0
+Iran (Islamic Republic of)	1991	4.38	0	NA
+Iran (Islamic Republic of)	1992	5.25	0	NA
+Iran (Islamic Republic of)	1993	6.21	0	NA
+Iran (Islamic Republic of)	1994	7.35	0.02	0
+Iran (Islamic Republic of)	1995	8.52	0.03	0
+Iran (Islamic Republic of)	1996	9.58	0.1	0.02
+Iran (Islamic Republic of)	1997	10.5	0.39	0.05
+Iran (Islamic Republic of)	1998	11.65	0.62	0.1
+Iran (Islamic Republic of)	1999	13.02	0.76	0.38
+Iran (Islamic Republic of)	2000	14.52	1.47	0.93
+Iran (Islamic Republic of)	2001	16.43	3.15	1.48
+Iran (Islamic Republic of)	2002	19.17	3.39	4.63
+Iran (Islamic Republic of)	2003	22.54	5.07	6.93
+Iran (Islamic Republic of)	2004	23.72	7.37	7.49
+Iran (Islamic Republic of)	2005	29.17	12.2	8.1
+Iran (Islamic Republic of)	2006	32.06	21.8	8.76
+Iran (Islamic Republic of)	2007	33.37	41.67	9.47
+Iran (Islamic Republic of)	2008	34.31	59.48	10.24
+Iran (Islamic Republic of)	2009	35.28	71.86	11.07
+Iran (Islamic Republic of)	2010	34.9	73.07	14.7
+Iran (Islamic Republic of)	2011	37.12	74.93	21
+Iran (Islamic Republic of)	2012	38.03	76.92	26
+Iran (Islamic Republic of)	2013	NA	NA	NA
+Iraq	1990	4.1	0	0
+Iraq	1991	3.75	0	NA
+Iraq	1992	3.88	0	NA
+Iraq	1993	3.58	0	NA
+Iraq	1994	3.31	0	NA
+Iraq	1995	3.15	0	NA
+Iraq	1996	3.05	0	NA
+Iraq	1997	3	0	NA
+Iraq	1998	2.9	0	NA
+Iraq	1999	2.92	0	NA
+Iraq	2000	2.83	0	NA
+Iraq	2001	2.75	0	0.1
+Iraq	2002	4.47	0.08	0.5
+Iraq	2003	4.57	0.31	0.6
+Iraq	2004	3.89	2.16	0.9
+Iraq	2005	4.08	5.6	0.9
+Iraq	2006	4.43	33.21	0.95
+Iraq	2007	4.71	48.41	0.93
+Iraq	2008	3.63	58.78	1
+Iraq	2009	5.37	65.47	1.06
+Iraq	2010	5.43	73.46	2.5
+Iraq	2011	5.49	78.12	5
+Iraq	2012	5.55	79.39	7.1
+Iraq	2013	NA	NA	NA
+Ireland	1990	27.84	0.71	0
+Ireland	1991	29.62	0.9	0.06
+Ireland	1992	31.36	1.24	0.17
+Ireland	1993	32.81	1.71	0.28
+Ireland	1994	34.57	2.45	0.56
+Ireland	1995	36.28	4.38	1.11
+Ireland	1996	38.2	7.93	2.2
+Ireland	1997	42.45	14.85	4.09
+Ireland	1998	44.06	25.52	8.1
+Ireland	1999	46.31	44.71	10.93
+Ireland	2000	48.16	64.7	17.85
+Ireland	2001	48.11	76.83	23.14
+Ireland	2002	50.18	76.22	25.85
+Ireland	2003	48.75	87.27	34.31
+Ireland	2004	49.32	94.48	36.99
+Ireland	2005	49.35	102.69	41.61
+Ireland	2006	51.5	110.97	54.82
+Ireland	2007	52.63	115.83	60.55
+Ireland	2008	51.06	115.97	65.34
+Ireland	2009	48.32	106.63	67.38
+Ireland	2010	46.49	105.18	69.85
+Ireland	2011	45.22	108.41	76.82
+Ireland	2012	43.84	107.13	79
+Ireland	2013	NA	NA	NA
+Israel	1990	36.14	0.34	0.11
+Israel	1991	36.69	0.5	0.21
+Israel	1992	37.52	0.75	0.31
+Israel	1993	39.27	1.29	0.4
+Israel	1994	41.4	2.58	0.58
+Israel	1995	43.93	8.35	0.93
+Israel	1996	46.28	19.09	2.17
+Israel	1997	47.51	29.7	4.4
+Israel	1998	48.69	37.24	10.31
+Israel	1999	48.84	48.88	13.44
+Israel	2000	49.44	73.15	20.87
+Israel	2001	49.47	89.71	17.38
+Israel	2002	48.16	100.94	17.76
+Israel	2003	45.86	104.19	19.59
+Israel	2004	44.75	111.6	22.77
+Israel	2005	44.46	117.45	25.19
+Israel	2006	44.48	124.41	27.88
+Israel	2007	44.43	128.64	48.13
+Israel	2008	45.46	126.64	59.39
+Israel	2009	45.67	124.25	63.12
+Israel	2010	45.94	122.82	67.5
+Israel	2011	46.28	121.66	68.9
+Israel	2012	46.71	119.89	73.37
+Israel	2013	NA	NA	NA
+Italy	1990	39.33	0.47	0.02
+Italy	1991	40.58	1	0.04
+Italy	1992	41.67	1.38	0.07
+Italy	1993	42.44	2.12	0.12
+Italy	1994	43.08	3.93	0.19
+Italy	1995	43.61	6.89	0.52
+Italy	1996	44.36	11.28	1.02
+Italy	1997	45.17	20.63	2.28
+Italy	1998	45.71	36.04	4.56
+Italy	1999	46.6	53.27	14.38
+Italy	2000	47.65	74.13	23.11
+Italy	2001	47.82	89.59	27.22
+Italy	2002	47.2	94.26	28.04
+Italy	2003	45.96	98.11	29.04
+Italy	2004	44.55	107.7	33.24
+Italy	2005	42.69	121.87	35
+Italy	2006	45.51	136.11	37.99
+Italy	2007	37.68	150.94	40.79
+Italy	2008	36.8	150.84	44.53
+Italy	2009	37.58	149.44	48.83
+Italy	2010	37.1	154.69	53.68
+Italy	2011	36.36	157.99	56.8
+Italy	2012	35.52	159.48	58
+Italy	2013	NA	NA	NA
+Jamaica	1990	4.45	0	0
+Jamaica	1991	5.53	0.1	NA
+Jamaica	1992	6.97	0.32	NA
+Jamaica	1993	8.62	0.63	NA
+Jamaica	1994	10.27	1.07	0.04
+Jamaica	1995	11.79	1.83	0.11
+Jamaica	1996	14.38	2.2	0.59
+Jamaica	1997	16.57	2.63	0.8
+Jamaica	1998	18.27	3.1	1.98
+Jamaica	1999	19.05	5.64	2.36
+Jamaica	2000	19.12	14.21	3.12
+Jamaica	2001	19.63	22.96	3.86
+Jamaica	2002	16.56	47.41	6.1
+Jamaica	2003	17.33	59.57	7.8
+Jamaica	2004	15.87	68.95	10
+Jamaica	2005	11.9	73.89	12.8
+Jamaica	2006	12.71	84.36	16.4
+Jamaica	2007	13.65	99.09	21.1
+Jamaica	2008	11.64	100.11	23.6
+Jamaica	2009	11.08	108.25	24.3
+Jamaica	2010	9.6	116.09	27.67
+Jamaica	2011	9.89	108.12	37.49
+Jamaica	2012	9.58	96.54	46.5
+Jamaica	2013	NA	NA	NA
+Japan	1990	44.6	0.71	0.02
+Japan	1991	45.85	1.12	0.04
+Japan	1992	46.8	1.39	0.1
+Japan	1993	47.58	1.72	0.4
+Japan	1994	48.91	3.49	0.8
+Japan	1995	50.04	9.41	1.59
+Japan	1996	51.31	21.56	4.37
+Japan	1997	52.55	30.58	9.16
+Japan	1998	49.8	37.75	13.41
+Japan	1999	49.43	45.28	21.39
+Japan	2000	49.28	53.12	29.99
+Japan	2001	48.71	59.43	38.53
+Japan	2002	48.21	64.35	46.59
+Japan	2003	47.72	68.67	48.44
+Japan	2004	47.2	72.43	62.39
+Japan	2005	45.93	76.34	66.92
+Japan	2006	44.3	78.94	68.69
+Japan	2007	40.5	84.84	74.3
+Japan	2008	38.27	87.24	75.4
+Japan	2009	52.78	91.9	78
+Japan	2010	51.86	97.43	78.21
+Japan	2011	51.12	104.95	79.05
+Japan	2012	50.84	109.43	79.05
+Japan	2013	NA	NA	NA
+Jordan	1990	7.2	0.04	0
+Jordan	1991	7.37	0.04	NA
+Jordan	1992	7.31	0.04	NA
+Jordan	1993	7.22	0.04	NA
+Jordan	1994	7.51	0.03	NA
+Jordan	1995	7.23	0.27	0.02
+Jordan	1996	7.66	0.53	0.04
+Jordan	1997	8.78	0.98	0.6
+Jordan	1998	10.91	1.76	1.31
+Jordan	1999	11.9	2.49	2.53
+Jordan	2000	12.84	8.06	2.62
+Jordan	2001	13.44	17.63	4.71
+Jordan	2002	13.49	24.4	6.03
+Jordan	2003	12.21	26	8.47
+Jordan	2004	12.24	31.17	11.66
+Jordan	2005	11.76	58.74	12.93
+Jordan	2006	11.17	79.04	13.87
+Jordan	2007	9.86	84.19	20
+Jordan	2008	8.87	90.85	23
+Jordan	2009	8.32	99.81	26
+Jordan	2010	7.85	106.99	27.2
+Jordan	2011	7.35	118.2	34.9
+Jordan	2012	6.73	139.13	41
+Jordan	2013	NA	NA	NA
+Kazakhstan	1990	8.07	0	0
+Kazakhstan	1991	8.63	0	NA
+Kazakhstan	1992	9.07	0	NA
+Kazakhstan	1993	12.13	0	NA
+Kazakhstan	1994	12.33	0	0
+Kazakhstan	1995	12.33	0.03	0.01
+Kazakhstan	1996	12.2	0.06	0.03
+Kazakhstan	1997	11.66	0.07	0.06
+Kazakhstan	1998	11.63	0.19	0.13
+Kazakhstan	1999	11.67	0.33	0.46
+Kazakhstan	2000	12.26	1.32	0.67
+Kazakhstan	2001	13.02	3.91	1.01
+Kazakhstan	2002	13.97	6.89	1.67
+Kazakhstan	2003	14.9	8.9	2
+Kazakhstan	2004	16.94	16.26	2.65
+Kazakhstan	2005	17.85	35.58	2.96
+Kazakhstan	2006	19.12	50.78	3.27
+Kazakhstan	2007	20.92	79.62	4.02
+Kazakhstan	2008	22.09	95.24	11
+Kazakhstan	2009	24.34	107.71	18.2
+Kazakhstan	2010	25.32	121.07	31.6
+Kazakhstan	2011	26.32	155.74	50.6
+Kazakhstan	2012	26.5	175.39	53.32
+Kazakhstan	2013	NA	NA	NA
+Kenya	1990	0.75	0	0
+Kenya	1991	0.83	0	NA
+Kenya	1992	0.83	0	NA
+Kenya	1993	0.83	0	NA
+Kenya	1994	0.86	0.01	NA
+Kenya	1995	0.94	0.01	0
+Kenya	1996	0.95	0.01	0.01
+Kenya	1997	0.94	0.02	0.03
+Kenya	1998	0.97	0.04	0.05
+Kenya	1999	0.95	0.08	0.11
+Kenya	2000	0.93	0.41	0.32
+Kenya	2001	0.96	1.87	0.62
+Kenya	2002	0.98	3.61	1.21
+Kenya	2003	0.97	4.71	2.94
+Kenya	2004	0.86	7.34	3.02
+Kenya	2005	0.81	12.95	3.1
+Kenya	2006	0.8	20.09	7.53
+Kenya	2007	1.24	30.28	7.95
+Kenya	2008	1.68	42.4	8.67
+Kenya	2009	1.68	49.07	10.04
+Kenya	2010	0.94	61.63	14
+Kenya	2011	0.68	67.49	28
+Kenya	2012	0.59	71.89	32.1
+Kenya	2013	NA	NA	NA
+Kiribati	1990	1.67	0	0
+Kiribati	1991	1.74	0	NA
+Kiribati	1992	1.85	0	NA
+Kiribati	1993	2.33	0	NA
+Kiribati	1994	2.52	0	NA
+Kiribati	1995	2.62	0	NA
+Kiribati	1996	2.69	0	NA
+Kiribati	1997	3.12	0	NA
+Kiribati	1998	3.46	0.03	0.62
+Kiribati	1999	3.73	0.24	1.21
+Kiribati	2000	3.99	0.36	1.79
+Kiribati	2001	4.24	0.46	2.34
+Kiribati	2002	5.13	0.57	2.5
+Kiribati	2003	4.96	0.59	3
+Kiribati	2004	4.76	0.68	3.5
+Kiribati	2005	4.57	0.71	4
+Kiribati	2006	4.28	0.75	4.5
+Kiribati	2007	4.21	0.79	6
+Kiribati	2008	4.14	1.04	7
+Kiribati	2009	8.46	10.11	8.97
+Kiribati	2010	8.44	10.64	9.07
+Kiribati	2011	8.37	13.64	10
+Kiribati	2012	8.77	15.59	10.75
+Kiribati	2013	NA	NA	NA
+Korea, Democratic People's Republic of	1990	2.48	0	0
+Korea, Democratic People's Republic of	1991	2.44	0	NA
+Korea, Democratic People's Republic of	1992	2.4	0	NA
+Korea, Democratic People's Republic of	1993	2.36	0	NA
+Korea, Democratic People's Republic of	1994	2.33	0	NA
+Korea, Democratic People's Republic of	1995	2.3	0	NA
+Korea, Democratic People's Republic of	1996	2.27	0	NA
+Korea, Democratic People's Republic of	1997	2.24	0	0
+Korea, Democratic People's Republic of	1998	2.22	0	0
+Korea, Democratic People's Republic of	1999	2.2	0	0
+Korea, Democratic People's Republic of	2000	2.18	0	0
+Korea, Democratic People's Republic of	2001	3.73	0	0
+Korea, Democratic People's Republic of	2002	3.94	0	0
+Korea, Democratic People's Republic of	2003	4.18	0	0
+Korea, Democratic People's Republic of	2004	4.24	0	0
+Korea, Democratic People's Republic of	2005	4.21	0	0
+Korea, Democratic People's Republic of	2006	4.19	0	0
+Korea, Democratic People's Republic of	2007	4.91	0	0
+Korea, Democratic People's Republic of	2008	4.89	0	0
+Korea, Democratic People's Republic of	2009	4.87	0.29	0
+Korea, Democratic People's Republic of	2010	4.85	1.77	NA
+Korea, Democratic People's Republic of	2011	4.83	4.09	NA
+Korea, Democratic People's Republic of	2012	4.81	6.92	NA
+Korea, Democratic People's Republic of	2013	NA	NA	NA
+Korea, Republic of	1990	30.89	0.19	0.02
+Korea, Republic of	1991	33.6	0.38	0.05
+Korea, Republic of	1992	35.66	0.62	0.1
+Korea, Republic of	1993	37.87	1.07	0.25
+Korea, Republic of	1994	39.78	2.16	0.31
+Korea, Republic of	1995	41.65	3.67	0.82
+Korea, Republic of	1996	43.61	7.08	1.62
+Korea, Republic of	1997	45.15	15.21	3.6
+Korea, Republic of	1998	44.16	30.81	6.78
+Korea, Republic of	1999	56	51.24	23.55
+Korea, Republic of	2000	56.24	58.31	44.7
+Korea, Republic of	2001	55.78	62.85	56.6
+Korea, Republic of	2002	55.44	69.67	59.4
+Korea, Republic of	2003	53.89	72.05	65.5
+Korea, Republic of	2004	50.33	78.12	72.7
+Korea, Republic of	2005	50.81	81.5	73.5
+Korea, Republic of	2006	47.46	85.04	78.1
+Korea, Republic of	2007	48.44	93.41	78.8
+Korea, Republic of	2008	51.03	95.54	81
+Korea, Republic of	2009	56.07	99.96	81.6
+Korea, Republic of	2010	59.24	105.36	83.7
+Korea, Republic of	2011	60.9	108.5	83.8
+Korea, Republic of	2012	61.95	110.36	84.1
+Korea, Republic of	2013	NA	NA	NA
+Kuwait	1990	15.87	0.99	0
+Kuwait	1991	15.85	2.12	NA
+Kuwait	1992	17.96	2.65	NA
+Kuwait	1993	19.93	3.58	0.09
+Kuwait	1994	22.09	5.05	0.15
+Kuwait	1995	23.48	7.22	0.2
+Kuwait	1996	24.07	9.28	0.86
+Kuwait	1997	24.52	12.51	2.17
+Kuwait	1998	24.23	14.17	3.05
+Kuwait	1999	24.53	16.15	4.76
+Kuwait	2000	24.07	24.53	6.73
+Kuwait	2001	23.51	43.69	8.55
+Kuwait	2002	23.28	59.28	10.25
+Kuwait	2003	22.89	66.77	22.4
+Kuwait	2004	22.7	81.05	22.93
+Kuwait	2005	22.3	61.05	25.93
+Kuwait	2006	21.99	50.16	28.79
+Kuwait	2007	21.99	58.27	34.8
+Kuwait	2008	20.4	58.86	42
+Kuwait	2009	19.97	98.95	50.8
+Kuwait	2010	18.98	145.4	61.4
+Kuwait	2011	18.26	175.09	74.2
+Kuwait	2012	17.64	191.11	79.18
+Kuwait	2013	NA	NA	NA
+Kyrgyzstan	1990	7.15	0	0
+Kyrgyzstan	1991	7.47	0	NA
+Kyrgyzstan	1992	7.57	0	NA
+Kyrgyzstan	1993	8.15	0	NA
+Kyrgyzstan	1994	7.46	0	NA
+Kyrgyzstan	1995	7.77	0	NA
+Kyrgyzstan	1996	7.34	0	NA
+Kyrgyzstan	1997	7.4	0	NA
+Kyrgyzstan	1998	7.64	0.03	0.07
+Kyrgyzstan	1999	7.57	0.05	0.2
+Kyrgyzstan	2000	7.59	0.18	1.04
+Kyrgyzstan	2001	7.78	0.54	3
+Kyrgyzstan	2002	7.89	1.06	3
+Kyrgyzstan	2003	7.91	2.76	3.91
+Kyrgyzstan	2004	8.3	5.25	5.09
+Kyrgyzstan	2005	8.73	10.74	10.53
+Kyrgyzstan	2006	9.03	24.82	12.31
+Kyrgyzstan	2007	9.38	42.19	14.03
+Kyrgyzstan	2008	9.5	65.22	15.7
+Kyrgyzstan	2009	9.45	85.13	17
+Kyrgyzstan	2010	9.17	98.9	18.4
+Kyrgyzstan	2011	9.31	116.4	20
+Kyrgyzstan	2012	8.97	124.78	21.72
+Kyrgyzstan	2013	NA	NA	NA
+Lao People's Democratic Republic	1990	0.16	0	0
+Lao People's Democratic Republic	1991	0.17	0	NA
+Lao People's Democratic Republic	1992	0.19	0.01	NA
+Lao People's Democratic Republic	1993	0.19	0.01	NA
+Lao People's Democratic Republic	1994	0.39	0.01	NA
+Lao People's Democratic Republic	1995	0.35	0.03	NA
+Lao People's Democratic Republic	1996	0.4	0.08	NA
+Lao People's Democratic Republic	1997	0.49	0.1	NA
+Lao People's Democratic Republic	1998	0.56	0.13	0.01
+Lao People's Democratic Republic	1999	0.67	0.23	0.04
+Lao People's Democratic Republic	2000	0.77	0.24	0.11
+Lao People's Democratic Republic	2001	0.97	0.55	0.18
+Lao People's Democratic Republic	2002	1.13	1	0.27
+Lao People's Democratic Republic	2003	1.25	2.01	0.33
+Lao People's Democratic Republic	2004	1.32	3.6	0.36
+Lao People's Democratic Republic	2005	1.58	11.43	0.85
+Lao People's Democratic Republic	2006	1.58	17.28	1.17
+Lao People's Democratic Republic	2007	1.6	24.93	1.64
+Lao People's Democratic Republic	2008	2.12	33.58	3.55
+Lao People's Democratic Republic	2009	1.64	52.92	6
+Lao People's Democratic Republic	2010	1.66	64.56	7
+Lao People's Democratic Republic	2011	1.71	87.16	9
+Lao People's Democratic Republic	2012	1.76	101.85	10.75
+Lao People's Democratic Republic	2013	NA	NA	NA
+Latvia	1990	23.27	0	0
+Latvia	1991	24.31	0	NA
+Latvia	1992	24.97	0.04	NA
+Latvia	1993	27	0.15	NA
+Latvia	1994	26.38	0.33	NA
+Latvia	1995	28.27	0.6	NA
+Latvia	1996	30.02	1.16	0.81
+Latvia	1997	30.35	3.16	2.05
+Latvia	1998	30.68	6.92	3.32
+Latvia	1999	30.45	11.42	4.39
+Latvia	2000	30.81	16.83	6.32
+Latvia	2001	30.49	27.75	7.22
+Latvia	2002	29.83	39.02	21.94
+Latvia	2003	28.01	52.25	26.98
+Latvia	2004	28.05	66.26	38.58
+Latvia	2005	31.71	81.18	46
+Latvia	2006	28.67	95.23	53.63
+Latvia	2007	28.23	97.17	59.17
+Latvia	2008	26.1	101.21	63.41
+Latvia	2009	24.84	101.87	66.84
+Latvia	2010	23.63	102.4	68.42
+Latvia	2011	23.02	102.94	71.68
+Latvia	2012	22.42	103.38	74
+Latvia	2013	NA	NA	NA
+Lebanon	1990	13.37	0	0
+Lebanon	1991	13.37	0	NA
+Lebanon	1992	13.26	0	NA
+Lebanon	1993	13.11	0	NA
+Lebanon	1994	13	0	NA
+Lebanon	1995	12.96	3.47	0.07
+Lebanon	1996	13.01	5.59	0.14
+Lebanon	1997	15.61	10.39	1.24
+Lebanon	1998	15.53	13.87	2.72
+Lebanon	1999	15.47	16.99	5.38
+Lebanon	2000	15.39	19.85	7.95
+Lebanon	2001	16.46	20.16	6.78
+Lebanon	2002	17.55	20.04	7
+Lebanon	2003	17.79	20.21	8
+Lebanon	2004	15.76	22.12	9
+Lebanon	2005	15.66	24.52	10.14
+Lebanon	2006	16.63	27	15
+Lebanon	2007	16.87	30.47	18.74
+Lebanon	2008	18	34.25	22.53
+Lebanon	2009	19.15	56.95	30.14
+Lebanon	2010	20.11	67.75	43.68
+Lebanon	2011	20.32	79.52	52
+Lebanon	2012	20.46	93.2	61.25
+Lebanon	2013	NA	NA	NA
+Lesotho	1990	0.75	0	0
+Lesotho	1991	0.74	0	NA
+Lesotho	1992	0.67	0	NA
+Lesotho	1993	0.85	0	NA
+Lesotho	1994	0.89	0	NA
+Lesotho	1995	0.99	0	NA
+Lesotho	1996	0.87	0.07	0
+Lesotho	1997	1.09	0.19	0.01
+Lesotho	1998	1.1	0.52	0.01
+Lesotho	1999	1.12	0.62	0.05
+Lesotho	2000	1.13	1.1	0.21
+Lesotho	2001	1.08	2.87	0.26
+Lesotho	2002	1.42	6.86	1.08
+Lesotho	2003	1.73	6.21	1.53
+Lesotho	2004	1.82	9.59	2.18
+Lesotho	2005	2.32	12.09	2.58
+Lesotho	2006	2.55	17.16	2.98
+Lesotho	2007	2.26	22.91	3.45
+Lesotho	2008	1.94	27.88	3.58
+Lesotho	2009	1.86	30.76	3.72
+Lesotho	2010	1.78	45.48	3.86
+Lesotho	2011	1.76	56.17	4.22
+Lesotho	2012	1.94	59.17	4.59
+Lesotho	2013	NA	NA	NA
+Liberia	1990	0.44	0	0
+Liberia	1991	0.16	0	NA
+Liberia	1992	0.22	0	NA
+Liberia	1993	0.22	0	NA
+Liberia	1994	0.22	0	NA
+Liberia	1995	0.21	0	NA
+Liberia	1996	0.2	0	NA
+Liberia	1997	0.27	0	0
+Liberia	1998	0.26	0	0
+Liberia	1999	0.24	0	0.01
+Liberia	2000	0.24	0.05	0.02
+Liberia	2001	0.23	0.07	0.03
+Liberia	2002	0.23	0.17	0.03
+Liberia	2003	NA	1.56	0.03
+Liberia	2004	NA	3.05	0.03
+Liberia	2005	NA	5.03	NA
+Liberia	2006	NA	8.45	NA
+Liberia	2007	0.06	16.19	0.55
+Liberia	2008	0.05	23.36	0.53
+Liberia	2009	0.06	28.29	0.51
+Liberia	2010	0.15	39.34	2.3
+Liberia	2011	0.08	49.17	3
+Liberia	2012	0	56.39	3.79
+Liberia	2013	NA	NA	NA
+Libyan Arab Jamahiriya	1990	5.08	0	0
+Libyan Arab Jamahiriya	1991	5.27	0	NA
+Libyan Arab Jamahiriya	1992	5.23	0	NA
+Libyan Arab Jamahiriya	1993	5.22	0	NA
+Libyan Arab Jamahiriya	1994	5.63	0	NA
+Libyan Arab Jamahiriya	1995	6.66	0	NA
+Libyan Arab Jamahiriya	1996	7.81	0	NA
+Libyan Arab Jamahiriya	1997	8.08	0.2	NA
+Libyan Arab Jamahiriya	1998	9.92	0.4	NA
+Libyan Arab Jamahiriya	1999	10.71	0.58	0.13
+Libyan Arab Jamahiriya	2000	11.57	0.76	0.19
+Libyan Arab Jamahiriya	2001	12.38	0.94	0.37
+Libyan Arab Jamahiriya	2002	13.25	1.29	2.24
+Libyan Arab Jamahiriya	2003	13.54	2.29	2.81
+Libyan Arab Jamahiriya	2004	14.14	8.85	3.53
+Libyan Arab Jamahiriya	2005	14.77	34.66	3.92
+Libyan Arab Jamahiriya	2006	15.42	66.64	4.3
+Libyan Arab Jamahiriya	2007	16.09	74.71	4.72
+Libyan Arab Jamahiriya	2008	14.97	119.99	9
+Libyan Arab Jamahiriya	2009	16.98	152.24	10.8
+Libyan Arab Jamahiriya	2010	19.33	171.52	14
+Libyan Arab Jamahiriya	2011	15.57	155.7	14
+Libyan Arab Jamahiriya	2012	12.58	148.19	19.86
+Libyan Arab Jamahiriya	2013	NA	NA	NA
+Liechtenstein	1990	57.06	0	0
+Liechtenstein	1991	59.58	NA	NA
+Liechtenstein	1992	62.01	NA	NA
+Liechtenstein	1993	62.73	NA	NA
+Liechtenstein	1994	60.74	NA	NA
+Liechtenstein	1995	63.45	NA	NA
+Liechtenstein	1996	63.57	NA	NA
+Liechtenstein	1997	62.35	NA	NA
+Liechtenstein	1998	61.58	23.37	NA
+Liechtenstein	1999	60.87	27.72	NA
+Liechtenstein	2000	61.1	30.44	36.52
+Liechtenstein	2001	60.47	33.09	45.12
+Liechtenstein	2002	59.25	33.91	59.47
+Liechtenstein	2003	58.52	73.52	58.81
+Liechtenstein	2004	58.14	74.2	64.01
+Liechtenstein	2005	57.67	79.27	63.37
+Liechtenstein	2006	56.45	82.17	64.21
+Liechtenstein	2007	55.52	90.78	65.08
+Liechtenstein	2008	55.18	95.72	70
+Liechtenstein	2009	54.79	97.84	75
+Liechtenstein	2010	54.4	98.52	80
+Liechtenstein	2011	53.99	101.83	85
+Liechtenstein	2012	54.67	103.87	89.41
+Liechtenstein	2013	NA	NA	NA
+Lithuania	1990	21.13	0	0
+Lithuania	1991	22.01	0	NA
+Lithuania	1992	22.56	0.01	NA
+Lithuania	1993	23.37	0.03	NA
+Lithuania	1994	24.58	0.12	NA
+Lithuania	1995	25.93	0.41	NA
+Lithuania	1996	27.54	1.41	0.28
+Lithuania	1997	29.48	4.62	0.98
+Lithuania	1998	31.35	7.54	1.97
+Lithuania	1999	32.71	9.42	2.92
+Lithuania	2000	33.93	14.97	6.43
+Lithuania	2001	33.1	29.26	7.18
+Lithuania	2002	27.03	47.53	17.69
+Lithuania	2003	23.91	60.98	25.91
+Lithuania	2004	23.89	88.9	31.23
+Lithuania	2005	23.45	127.45	36.22
+Lithuania	2006	23.32	138.86	43.9
+Lithuania	2007	23.66	145.37	49.9
+Lithuania	2008	23.36	149.49	55.22
+Lithuania	2009	22.37	148.5	59.76
+Lithuania	2010	22.08	147.16	62.12
+Lithuania	2011	21.86	151.3	65.05
+Lithuania	2012	20.27	151.78	68
+Lithuania	2013	NA	NA	NA
+Luxembourg	1990	48.19	0.22	0
+Luxembourg	1991	49.71	0.3	NA
+Luxembourg	1992	52.77	0.29	0.15
+Luxembourg	1993	54.22	1.28	0.3
+Luxembourg	1994	55.46	3.21	0.5
+Luxembourg	1995	56.31	6.59	1.59
+Luxembourg	1996	60.02	10.89	5.55
+Luxembourg	1997	60.99	16.03	7.14
+Luxembourg	1998	59.97	30.69	11.75
+Luxembourg	1999	58.42	48.58	17.39
+Luxembourg	2000	57.15	69.64	22.89
+Luxembourg	2001	58.4	93.07	36.16
+Luxembourg	2002	56.11	106.8	39.84
+Luxembourg	2003	54.89	120.76	54.55
+Luxembourg	2004	54.34	104.24	65.88
+Luxembourg	2005	53.48	111.55	70
+Luxembourg	2006	53.35	153.14	72.51
+Luxembourg	2007	52.17	143.89	78.92
+Luxembourg	2008	53.54	145.24	82.23
+Luxembourg	2009	52.97	144.68	87.31
+Luxembourg	2010	53.68	143.27	90.62
+Luxembourg	2011	54.1	148.27	90.89
+Luxembourg	2012	50.96	145.47	92
+Luxembourg	2013	NA	NA	NA
+Madagascar	1990	0.28	0	0
+Madagascar	1991	0.31	0	NA
+Madagascar	1992	0.31	0	NA
+Madagascar	1993	0.28	0	NA
+Madagascar	1994	0.26	0	NA
+Madagascar	1995	0.28	0.01	NA
+Madagascar	1996	0.29	0.02	0
+Madagascar	1997	0.31	0.03	0.01
+Madagascar	1998	0.33	0.09	0.06
+Madagascar	1999	0.34	0.24	0.17
+Madagascar	2000	0.36	0.41	0.2
+Madagascar	2001	0.37	0.93	0.22
+Madagascar	2002	0.36	1	0.34
+Madagascar	2003	0.35	1.68	0.42
+Madagascar	2004	0.34	1.92	0.53
+Madagascar	2005	0.52	2.85	0.57
+Madagascar	2006	0.7	5.68	0.61
+Madagascar	2007	0.71	11.68	0.65
+Madagascar	2008	0.84	24.74	1.65
+Madagascar	2009	0.93	31.23	1.63
+Madagascar	2010	0.69	37.23	1.7
+Madagascar	2011	0.65	40.73	1.9
+Madagascar	2012	0.66	39.05	2.05
+Madagascar	2013	NA	NA	NA
+Malawi	1990	0.28	0	0
+Malawi	1991	0.3	0	NA
+Malawi	1992	0.32	0	NA
+Malawi	1993	0.34	0	NA
+Malawi	1994	0.34	0	NA
+Malawi	1995	0.35	0	NA
+Malawi	1996	0.35	0.04	NA
+Malawi	1997	0.36	0.07	0
+Malawi	1998	0.35	0.1	0.02
+Malawi	1999	0.38	0.21	0.09
+Malawi	2000	0.41	0.44	0.13
+Malawi	2001	0.47	0.48	0.16
+Malawi	2002	0.62	0.73	0.22
+Malawi	2003	0.7	1.11	0.28
+Malawi	2004	0.75	1.78	0.35
+Malawi	2005	0.8	3.28	0.38
+Malawi	2006	0.99	4.7	0.43
+Malawi	2007	1.29	7.73	0.97
+Malawi	2008	0.79	10.77	0.7
+Malawi	2009	0.77	17.21	1.07
+Malawi	2010	1.02	20.92	2.26
+Malawi	2011	1.13	25.69	3.33
+Malawi	2012	1.43	27.83	4.35
+Malawi	2013	NA	NA	NA
+Malaysia	1990	8.71	0.48	0
+Malaysia	1991	9.71	0.69	NA
+Malaysia	1992	10.89	1.04	0
+Malaysia	1993	12.24	1.73	0.03
+Malaysia	1994	14.17	2.83	0.1
+Malaysia	1995	16.08	4.85	0.15
+Malaysia	1996	17.75	7.16	0.85
+Malaysia	1997	19.39	9.18	2.31
+Malaysia	1998	19.64	9.86	6.75
+Malaysia	1999	19.38	13.08	12.31
+Malaysia	2000	19.77	21.87	21.38
+Malaysia	2001	19.65	30.82	26.7
+Malaysia	2002	19.05	36.93	32.34
+Malaysia	2003	18.24	44.39	34.97
+Malaysia	2004	17.37	57.1	42.25
+Malaysia	2005	16.73	74.88	48.63
+Malaysia	2006	16.33	73.21	51.64
+Malaysia	2007	16.08	86.31	55.7
+Malaysia	2008	16.41	100.77	55.8
+Malaysia	2009	16.19	107.85	55.9
+Malaysia	2010	16.23	119.22	56.3
+Malaysia	2011	15.67	127.04	61
+Malaysia	2012	15.65	140.94	65.8
+Malaysia	2013	NA	NA	NA
+Maldives	1990	2.84	0	0
+Maldives	1991	3.38	0	0
+Maldives	1992	3.68	0	0
+Maldives	1993	4.2	0	0
+Maldives	1994	4.88	0	0
+Maldives	1995	5.58	0	0
+Maldives	1996	6.01	0.01	0.23
+Maldives	1997	6.94	0.5	0.31
+Maldives	1998	7.57	0.61	0.57
+Maldives	1999	8.26	1.09	1.12
+Maldives	2000	8.94	2.8	2.2
+Maldives	2001	9.81	6.8	3.62
+Maldives	2002	10.15	14.84	5.35
+Maldives	2003	10.48	23.19	5.98
+Maldives	2004	10.83	38.92	6.59
+Maldives	2005	10.94	68.97	6.87
+Maldives	2006	10.75	90.53	11.04
+Maldives	2007	10.89	103.29	16.3
+Maldives	2008	15.25	141.61	23.2
+Maldives	2009	9.78	146.84	24.8
+Maldives	2010	8.98	156.5	26.53
+Maldives	2011	7.52	165.72	34
+Maldives	2012	7.14	172.84	38.93
+Maldives	2013	NA	NA	NA
+Mali	1990	0.13	0	0
+Mali	1991	0.14	0	NA
+Mali	1992	0.14	0	NA
+Mali	1993	0.15	0	NA
+Mali	1994	0.16	0	NA
+Mali	1995	0.17	0	NA
+Mali	1996	0.21	0.01	0
+Mali	1997	0.23	0.03	0.01
+Mali	1998	0.25	0.04	0.02
+Mali	1999	0.31	0.06	0.06
+Mali	2000	0.35	0.09	0.14
+Mali	2001	0.44	0.21	0.19
+Mali	2002	0.47	0.38	0.23
+Mali	2003	0.49	2	0.31
+Mali	2004	0.52	3.19	0.43
+Mali	2005	0.58	5.78	0.51
+Mali	2006	0.61	11.13	0.73
+Mali	2007	0.57	18.05	0.81
+Mali	2008	0.56	23.78	1.57
+Mali	2009	0.57	29.92	1.8
+Mali	2010	0.75	48.41	1.9
+Mali	2011	0.66	68.32	2
+Mali	2012	0.69	89.55	2.17
+Mali	2013	NA	NA	NA
+Malta	1990	34.9	0	0
+Malta	1991	37.36	0.61	NA
+Malta	1992	40.06	0.93	NA
+Malta	1993	41.5	1.4	NA
+Malta	1994	42.49	1.96	NA
+Malta	1995	44.16	2.79	0.22
+Malta	1996	46.4	3.21	1.05
+Malta	1997	47.76	4.52	3.92
+Malta	1998	48.69	5.73	6.5
+Malta	1999	50.02	9.5	7.76
+Malta	2000	51.38	28.8	13.11
+Malta	2001	51.97	59.89	17.88
+Malta	2002	51.53	68.83	28.92
+Malta	2003	51.45	71.64	31.64
+Malta	2004	50.72	75.17	34.62
+Malta	2005	49.38	79.16	41.24
+Malta	2006	50.69	84.36	40.41
+Malta	2007	55.85	89.32	46.9
+Malta	2008	58.25	93.16	50.08
+Malta	2009	59.46	101.65	58.86
+Malta	2010	59.45	109.38	63
+Malta	2011	55.57	124.86	69.22
+Malta	2012	54.8	128.68	70
+Malta	2013	NA	NA	NA
+Marshall Islands	1990	1.06	0	0
+Marshall Islands	1991	1.44	0	0
+Marshall Islands	1992	1.72	0	0
+Marshall Islands	1993	4.6	0	0
+Marshall Islands	1994	5.89	0.55	0
+Marshall Islands	1995	6.24	0.52	0
+Marshall Islands	1996	6.57	0.71	0.04
+Marshall Islands	1997	6.6	0.9	NA
+Marshall Islands	1998	7.21	0.66	NA
+Marshall Islands	1999	7.45	0.85	0.97
+Marshall Islands	2000	7.67	0.86	1.53
+Marshall Islands	2001	8.03	0.94	1.71
+Marshall Islands	2002	8.41	1.06	2.34
+Marshall Islands	2003	8.58	1.15	2.57
+Marshall Islands	2004	10.6	1.24	3.6
+Marshall Islands	2005	NA	1.27	3.88
+Marshall Islands	2006	NA	NA	3.8
+Marshall Islands	2007	NA	NA	3.95
+Marshall Islands	2008	NA	NA	4.6
+Marshall Islands	2009	NA	NA	5.6
+Marshall Islands	2010	NA	NA	7
+Marshall Islands	2011	NA	NA	8.06
+Marshall Islands	2012	NA	NA	10
+Marshall Islands	2013	NA	NA	NA
+Martinique	1990	NA	NA	NA
+Martinique	1991	NA	NA	NA
+Martinique	1992	NA	NA	NA
+Martinique	1993	NA	NA	NA
+Martinique	1994	NA	NA	NA
+Martinique	1995	NA	NA	NA
+Martinique	1996	NA	NA	NA
+Martinique	1997	NA	NA	NA
+Martinique	1998	NA	NA	NA
+Martinique	1999	NA	NA	NA
+Martinique	2000	NA	NA	NA
+Martinique	2001	NA	NA	NA
+Martinique	2002	NA	NA	NA
+Martinique	2003	NA	NA	NA
+Martinique	2004	NA	NA	NA
+Martinique	2005	NA	NA	NA
+Martinique	2006	NA	NA	NA
+Martinique	2007	NA	NA	NA
+Martinique	2008	NA	NA	NA
+Martinique	2009	NA	NA	NA
+Martinique	2010	NA	NA	NA
+Martinique	2011	NA	NA	NA
+Martinique	2012	NA	NA	NA
+Martinique	2013	NA	NA	NA
+Mauritania	1990	0.29	0	0
+Mauritania	1991	0.31	0	NA
+Mauritania	1992	0.32	0	NA
+Mauritania	1993	0.35	0	NA
+Mauritania	1994	0.38	0	NA
+Mauritania	1995	0.4	0	NA
+Mauritania	1996	0.43	0	NA
+Mauritania	1997	0.54	0	0
+Mauritania	1998	0.6	0	0.04
+Mauritania	1999	0.64	0	0.12
+Mauritania	2000	0.72	0.58	0.19
+Mauritania	2001	0.91	4.06	0.26
+Mauritania	2002	1.13	8.83	0.36
+Mauritania	2003	1.32	12.18	0.42
+Mauritania	2004	1.32	17.62	0.48
+Mauritania	2005	1.35	24.47	0.67
+Mauritania	2006	1.11	33.87	0.98
+Mauritania	2007	1.25	44.01	1.43
+Mauritania	2008	2.32	63.48	1.87
+Mauritania	2009	2.2	64.61	2.28
+Mauritania	2010	2.07	80.24	4
+Mauritania	2011	2.04	93.6	4.5
+Mauritania	2012	1.8	111.06	5.37
+Mauritania	2013	NA	NA	NA
+Mauritius	1990	5.24	0.21	0
+Mauritius	1991	5.97	0.23	NA
+Mauritius	1992	7.29	0.27	NA
+Mauritius	1993	9.67	0.37	NA
+Mauritius	1994	11.54	0.51	NA
+Mauritius	1995	13.03	1.03	NA
+Mauritius	1996	15.98	1.81	0.18
+Mauritius	1997	19.16	3.66	0.48
+Mauritius	1998	20.91	5.15	2.57
+Mauritius	1999	21.71	8.62	4.65
+Mauritius	2000	23.48	15.05	7.28
+Mauritius	2001	25.39	22.55	8.78
+Mauritius	2002	26.03	28.46	10.25
+Mauritius	2003	28.23	37.48	12.19
+Mauritius	2004	28.4	43.97	13.69
+Mauritius	2005	28.45	52.26	15.17
+Mauritius	2006	28.21	60.98	16.7
+Mauritius	2007	28.28	72.8	20.22
+Mauritius	2008	28.32	80.48	21.81
+Mauritius	2009	29.05	84.14	22.51
+Mauritius	2010	29.84	91.67	28.33
+Mauritius	2011	28.67	99.04	34.95
+Mauritius	2012	26.57	113.09	41.39
+Mauritius	2013	NA	NA	NA
+Mayotte	1990	3.03	0	0
+Mayotte	1991	3.32	0	NA
+Mayotte	1992	3.65	0	NA
+Mayotte	1993	3.66	0	NA
+Mayotte	1994	3.9	0	NA
+Mayotte	1995	4.31	0	NA
+Mayotte	1996	5.19	0	NA
+Mayotte	1997	7	0	NA
+Mayotte	1998	8.82	0	NA
+Mayotte	1999	6.73	0	NA
+Mayotte	2000	6.72	0	1.21
+Mayotte	2001	6.5	0	NA
+Mayotte	2002	6.29	12.77	NA
+Mayotte	2003	6.09	20.23	NA
+Mayotte	2004	5.91	28.41	NA
+Mayotte	2005	5.72	NA	NA
+Mayotte	2006	5.55	NA	NA
+Mayotte	2007	5.38	NA	NA
+Mayotte	2008	5.21	NA	NA
+Mayotte	2009	5.05	NA	NA
+Mayotte	2010	4.9	NA	NA
+Mayotte	2011	NA	NA	NA
+Mayotte	2012	4.6	NA	NA
+Mayotte	2013	NA	NA	NA
+Mexico	1990	6.35	0.08	0
+Mexico	1991	7.01	0.19	0.01
+Mexico	1992	7.72	0.36	0.02
+Mexico	1993	8.55	0.43	0.03
+Mexico	1994	9.36	0.63	0.04
+Mexico	1995	9.54	0.75	0.1
+Mexico	1996	9.4	1.09	0.2
+Mexico	1997	9.7	1.82	0.63
+Mexico	1998	10.23	3.45	1.27
+Mexico	1999	11.09	7.85	1.86
+Mexico	2000	12.34	14.08	5.08
+Mexico	2001	13.59	21.47	7.04
+Mexico	2002	14.59	25.26	11.9
+Mexico	2003	15.72	28.97	12.9
+Mexico	2004	17.18	36.56	14.1
+Mexico	2005	18.32	44.26	17.21
+Mexico	2006	18.42	51.37	19.52
+Mexico	2007	18.31	60.94	20.81
+Mexico	2008	18.52	68.07	21.71
+Mexico	2009	17.41	74.26	26.34
+Mexico	2010	17.56	80.57	31.05
+Mexico	2011	17.19	82.39	34.96
+Mexico	2012	17.41	86.77	38.42
+Mexico	2013	NA	NA	NA
+Micronesia, Federated States of	1990	2.53	0	0
+Micronesia, Federated States of	1991	2.71	0	NA
+Micronesia, Federated States of	1992	2.96	0	NA
+Micronesia, Federated States of	1993	5.92	0	NA
+Micronesia, Federated States of	1994	6.82	0	NA
+Micronesia, Federated States of	1995	7.35	0	NA
+Micronesia, Federated States of	1996	7.63	0	0.28
+Micronesia, Federated States of	1997	7.79	0	0.57
+Micronesia, Federated States of	1998	8.46	0	1.86
+Micronesia, Federated States of	1999	9.2	0	2.8
+Micronesia, Federated States of	2000	9.01	0	3.73
+Micronesia, Federated States of	2001	9.39	0	4.66
+Micronesia, Federated States of	2002	9.38	0.09	5.57
+Micronesia, Federated States of	2003	10.29	5.42	9.23
+Micronesia, Federated States of	2004	11.02	11.73	11.02
+Micronesia, Federated States of	2005	11.38	12.88	11.88
+Micronesia, Federated States of	2006	8.12	16.96	12.75
+Micronesia, Federated States of	2007	7.9	24.92	13.62
+Micronesia, Federated States of	2008	7.88	24.92	14.49
+Micronesia, Federated States of	2009	7.86	24.85	15.35
+Micronesia, Federated States of	2010	7.61	24.78	20
+Micronesia, Federated States of	2011	7.53	24.74	22.8
+Micronesia, Federated States of	2012	7.49	24.62	25.97
+Micronesia, Federated States of	2013	NA	NA	NA
+Monaco	1990	78.97	0	0
+Monaco	1991	83.05	0	NA
+Monaco	1992	91.76	0	NA
+Monaco	1993	92.73	3.58	NA
+Monaco	1994	93.47	7.86	NA
+Monaco	1995	93.98	9.1	NA
+Monaco	1996	94.61	16.13	NA
+Monaco	1997	91.83	21.19	NA
+Monaco	1998	87.68	33.31	NA
+Monaco	1999	85.5	37.54	NA
+Monaco	2000	85.32	39.65	42.18
+Monaco	2001	84.04	40.53	46.65
+Monaco	2002	95.39	42.09	48.05
+Monaco	2003	94.84	42.69	49.49
+Monaco	2004	95.93	44.64	52.49
+Monaco	2005	96.39	48.75	55.46
+Monaco	2006	97.39	51.91	61.48
+Monaco	2007	98.31	57.8	64.38
+Monaco	2008	99.05	62.26	67.25
+Monaco	2009	122.05	65.01	70.1
+Monaco	2010	121.19	66.13	75
+Monaco	2011	125.6	89.73	80.3
+Monaco	2012	125.54	93.65	87
+Monaco	2013	NA	NA	NA
+Mongolia	1990	3.03	0	0
+Mongolia	1991	3.08	0	NA
+Mongolia	1992	3.07	0	NA
+Mongolia	1993	2.92	0	NA
+Mongolia	1994	3.02	0	NA
+Mongolia	1995	3.37	0	0.01
+Mongolia	1996	3.6	0.04	0.02
+Mongolia	1997	3.72	0.09	0.11
+Mongolia	1998	4.37	0.38	0.15
+Mongolia	1999	4.33	1.45	0.51
+Mongolia	2000	4.87	6.41	1.26
+Mongolia	2001	5.11	8.01	1.65
+Mongolia	2002	5.21	8.78	2.04
+Mongolia	2003	5.56	12.84	NA
+Mongolia	2004	5.81	17.05	NA
+Mongolia	2005	6.13	21.87	NA
+Mongolia	2006	7.55	29.99	NA
+Mongolia	2007	6.99	45.52	NA
+Mongolia	2008	7.52	66.1	9.8
+Mongolia	2009	6.97	82.94	10
+Mongolia	2010	6.95	90.28	10.2
+Mongolia	2011	6.67	104.65	12.5
+Mongolia	2012	6.16	117.62	16.4
+Mongolia	2013	NA	NA	NA
+Montenegro	1990	NA	NA	NA
+Montenegro	1991	NA	NA	NA
+Montenegro	1992	NA	NA	NA
+Montenegro	1993	NA	NA	NA
+Montenegro	1994	NA	NA	NA
+Montenegro	1995	NA	NA	NA
+Montenegro	1996	NA	NA	NA
+Montenegro	1997	NA	NA	NA
+Montenegro	1998	NA	NA	NA
+Montenegro	1999	NA	NA	NA
+Montenegro	2000	NA	NA	NA
+Montenegro	2001	NA	NA	NA
+Montenegro	2002	NA	NA	NA
+Montenegro	2003	NA	NA	NA
+Montenegro	2004	NA	77.17	25.35
+Montenegro	2005	27.27	86.67	27.1
+Montenegro	2006	26.83	102.65	28.9
+Montenegro	2007	28.07	111.95	30.8
+Montenegro	2008	27.66	184.05	32.9
+Montenegro	2009	27.24	205.28	35.1
+Montenegro	2010	26.84	185.28	37.5
+Montenegro	2011	26.29	181.57	40
+Montenegro	2012	25.76	177.94	56.84
+Montenegro	2013	NA	NA	NA
+Montserrat	1990	34.53	0	0
+Montserrat	1991	37.22	NA	NA
+Montserrat	1992	39.94	0.54	NA
+Montserrat	1993	41.69	0.54	NA
+Montserrat	1994	45.24	0.66	NA
+Montserrat	1995	46.35	0.82	NA
+Montserrat	1996	49.68	2.68	NA
+Montserrat	1997	46.57	3.99	NA
+Montserrat	1998	50.38	3.66	NA
+Montserrat	1999	52.15	5.27	NA
+Montserrat	2000	57.01	9.92	NA
+Montserrat	2001	NA	26.04	NA
+Montserrat	2002	NA	32.19	NA
+Montserrat	2003	NA	36.28	NA
+Montserrat	2004	NA	40.96	NA
+Montserrat	2005	NA	NA	NA
+Montserrat	2006	51.02	75	25.91
+Montserrat	2007	49.07	60.87	20.43
+Montserrat	2008	47.65	51.06	20.32
+Montserrat	2009	45.8	51.74	20.26
+Montserrat	2010	43.82	70.78	35
+Montserrat	2011	43.41	70.12	26.9
+Montserrat	2012	49.62	66.16	30.66
+Montserrat	2013	NA	NA	NA
+Morocco	1990	1.63	0	0
+Morocco	1991	1.97	0.01	NA
+Morocco	1992	2.55	0.01	NA
+Morocco	1993	3.17	0.03	NA
+Morocco	1994	3.8	0.05	NA
+Morocco	1995	4.19	0.11	0
+Morocco	1996	4.42	0.16	0.01
+Morocco	1997	4.69	0.27	0.02
+Morocco	1998	4.96	0.42	0.14
+Morocco	1999	5.17	1.3	0.18
+Morocco	2000	4.95	8.13	0.69
+Morocco	2001	4.09	16.38	1.37
+Morocco	2002	3.83	21.05	2.37
+Morocco	2003	4.1	24.72	3.35
+Morocco	2004	4.35	31.04	11.61
+Morocco	2005	4.41	40.78	15.08
+Morocco	2006	4.12	52.13	19.77
+Morocco	2007	7.72	64.59	21.5
+Morocco	2008	9.55	72.84	33.1
+Morocco	2009	11.12	80.01	41.3
+Morocco	2010	11.73	100.1	52
+Morocco	2011	11.05	113.26	53
+Morocco	2012	10.06	119.69	55
+Morocco	2013	NA	NA	NA
+Mozambique	1990	0.35	0	0
+Mozambique	1991	0.38	0	NA
+Mozambique	1992	0.39	0	NA
+Mozambique	1993	0.37	0	NA
+Mozambique	1994	0.37	0	NA
+Mozambique	1995	0.38	0	NA
+Mozambique	1996	0.37	0	0
+Mozambique	1997	0.39	0.01	0.01
+Mozambique	1998	0.44	0.04	0.02
+Mozambique	1999	0.44	0.07	0.06
+Mozambique	2000	0.47	0.28	0.11
+Mozambique	2001	0.47	0.82	0.16
+Mozambique	2002	0.46	1.33	0.26
+Mozambique	2003	0.39	2.21	0.42
+Mozambique	2004	0.37	3.5	0.68
+Mozambique	2005	0.32	7.24	0.85
+Mozambique	2006	0.33	10.99	0.84
+Mozambique	2007	0.36	14.12	0.91
+Mozambique	2008	0.35	19.72	1.56
+Mozambique	2009	0.36	26.12	2.68
+Mozambique	2010	0.38	30.88	4.17
+Mozambique	2011	0.37	32.83	4.3
+Mozambique	2012	0.36	33.13	4.85
+Mozambique	2013	NA	NA	NA
+Myanmar	1990	0.18	0	0
+Myanmar	1991	0.22	0	NA
+Myanmar	1992	0.25	0	NA
+Myanmar	1993	0.29	0	NA
+Myanmar	1994	0.33	0	NA
+Myanmar	1995	0.37	0.01	NA
+Myanmar	1996	0.42	0.02	NA
+Myanmar	1997	0.49	0.02	NA
+Myanmar	1998	0.52	0.02	NA
+Myanmar	1999	0.56	0.03	0
+Myanmar	2000	0.6	0.03	NA
+Myanmar	2001	0.65	0.05	0
+Myanmar	2002	0.75	0.11	0
+Myanmar	2003	0.79	0.15	0.02
+Myanmar	2004	0.92	0.2	0.02
+Myanmar	2005	1.09	0.28	0.07
+Myanmar	2006	1.23	0.46	0.18
+Myanmar	2007	0.99	0.53	0.22
+Myanmar	2008	1.07	0.78	0.22
+Myanmar	2009	0.93	1.05	0.22
+Myanmar	2010	1.03	1.24	0.25
+Myanmar	2011	1.08	2.57	0.98
+Myanmar	2012	1.14	11.16	1.07
+Myanmar	2013	NA	NA	NA
+Namibia	1990	3.75	0	0
+Namibia	1991	3.89	0	NA
+Namibia	1992	4.03	0	NA
+Namibia	1993	4.28	0	NA
+Namibia	1994	4.35	0	NA
+Namibia	1995	4.75	0.21	0.01
+Namibia	1996	5.03	0.39	0.01
+Namibia	1997	5.7	0.71	0.06
+Namibia	1998	5.87	1.08	0.29
+Namibia	1999	5.85	1.62	0.34
+Namibia	2000	5.81	4.33	1.64
+Namibia	2001	6.06	5.51	2.42
+Namibia	2002	6.15	7.6	2.63
+Namibia	2003	6.34	11.14	3.36
+Namibia	2004	6.26	14	3.8
+Namibia	2005	6.68	21.58	4.01
+Namibia	2006	6.43	28.74	4.4
+Namibia	2007	6.4	37.07	4.84
+Namibia	2008	6.61	47.81	5.33
+Namibia	2009	6.63	72.77	6.5
+Namibia	2010	6.88	85.5	11.6
+Namibia	2011	6.84	96.39	12
+Namibia	2012	7.24	103	12.94
+Namibia	2013	NA	NA	NA
+Nauru	1990	13.1	0	0
+Nauru	1991	12.83	0	NA
+Nauru	1992	12.57	0	NA
+Nauru	1993	14.4	1.54	NA
+Nauru	1994	15.21	4.56	NA
+Nauru	1995	15.55	5.02	NA
+Nauru	1996	15.95	5.98	NA
+Nauru	1997	16.4	7.46	NA
+Nauru	1998	16.91	8.45	NA
+Nauru	1999	17.42	9.95	NA
+Nauru	2000	17.93	11.95	NA
+Nauru	2001	18.42	14.93	2.99
+Nauru	2002	17.9	NA	NA
+Nauru	2003	17.87	NA	NA
+Nauru	2004	17.83	NA	NA
+Nauru	2005	17.8	NA	NA
+Nauru	2006	17.76	NA	NA
+Nauru	2007	17.73	NA	NA
+Nauru	2008	17.68	NA	NA
+Nauru	2009	18.61	NA	NA
+Nauru	2010	0	60.46	NA
+Nauru	2011	0	65	54
+Nauru	2012	0	65.57	NA
+Nauru	2013	NA	NA	NA
+Nepal	1990	0.3	0	0
+Nepal	1991	0.33	0	0
+Nepal	1992	0.34	0	0
+Nepal	1993	0.35	0	0
+Nepal	1994	0.36	0	0
+Nepal	1995	0.39	0	0
+Nepal	1996	0.51	0	0
+Nepal	1997	0.62	0	0.02
+Nepal	1998	0.9	0	0.06
+Nepal	1999	1.06	0.02	0.15
+Nepal	2000	1.09	0.04	0.2
+Nepal	2001	1.19	0.07	0.24
+Nepal	2002	1.28	0.09	0.31
+Nepal	2003	1.42	0.31	0.38
+Nepal	2004	1.56	0.44	0.45
+Nepal	2005	1.78	0.83	0.83
+Nepal	2006	2.2	4.16	1.14
+Nepal	2007	2.47	11.52	1.41
+Nepal	2008	2.79	14.53	1.73
+Nepal	2009	2.76	19.02	1.97
+Nepal	2010	2.81	30.69	7.93
+Nepal	2011	2.77	43.81	9
+Nepal	2012	2.72	52.82	11.15
+Nepal	2013	NA	NA	NA
+Netherlands	1990	46.6	0.53	0.33
+Netherlands	1991	47.85	0.77	0.53
+Netherlands	1992	48.96	1.1	1.32
+Netherlands	1993	50.18	1.42	1.97
+Netherlands	1994	51.3	2.1	3.26
+Netherlands	1995	52.68	3.49	6.47
+Netherlands	1996	54.33	6.55	9.65
+Netherlands	1997	56.77	11	14.07
+Netherlands	1998	59.51	21.36	22.24
+Netherlands	1999	60.94	42.76	39.18
+Netherlands	2000	62.34	67.8	43.98
+Netherlands	2001	51.14	76.47	49.37
+Netherlands	2002	50.02	75.41	61.29
+Netherlands	2003	48.62	81.8	64.35
+Netherlands	2004	48.45	91.22	68.52
+Netherlands	2005	46.61	97.11	81
+Netherlands	2006	45.49	105.61	83.7
+Netherlands	2007	45.03	117.28	85.82
+Netherlands	2008	44.34	124.99	87.42
+Netherlands	2009	43.82	121.68	89.63
+Netherlands	2010	43.53	115.45	90.72
+Netherlands	2011	42.8	118.99	92.3
+Netherlands	2012	42.4	117.52	93
+Netherlands	2013	NA	NA	NA
+Netherlands Antilles	1990	24.67	0	0
+Netherlands Antilles	1991	25.34	NA	NA
+Netherlands Antilles	1992	25.54	NA	NA
+Netherlands Antilles	1993	35.43	2.98	NA
+Netherlands Antilles	1994	37.06	4.44	NA
+Netherlands Antilles	1995	39.9	6.15	NA
+Netherlands Antilles	1996	40.38	7.43	0.26
+Netherlands Antilles	1997	41.45	7.81	NA
+Netherlands Antilles	1998	42.58	8.73	NA
+Netherlands Antilles	1999	43.64	16.57	1.1
+Netherlands Antilles	2000	44.5	NA	NA
+Netherlands Antilles	2001	45.12	NA	NA
+Netherlands Antilles	2002	45.51	NA	NA
+Netherlands Antilles	2003	45.7	110.13	NA
+Netherlands Antilles	2004	45.75	108.93	NA
+Netherlands Antilles	2005	45.71	NA	NA
+Netherlands Antilles	2006	45.57	NA	NA
+Netherlands Antilles	2007	45.36	NA	NA
+Netherlands Antilles	2008	45.13	NA	NA
+Netherlands Antilles	2009	44.94	NA	NA
+Netherlands Antilles	2010	44.85	NA	NA
+Netherlands Antilles	2011	NA	NA	NA
+Netherlands Antilles	2012	NA	NA	NA
+Netherlands Antilles	2013	NA	NA	NA
+New Caledonia	1990	16.73	0	0
+New Caledonia	1991	18.14	0	NA
+New Caledonia	1992	19.77	0	NA
+New Caledonia	1993	21.3	0	NA
+New Caledonia	1994	22.33	0	NA
+New Caledonia	1995	22.92	0.43	0.01
+New Caledonia	1996	23.36	1.06	0.25
+New Caledonia	1997	23.81	2.61	0.99
+New Caledonia	1998	24.18	6.4	1.94
+New Caledonia	1999	24.37	12.24	5.69
+New Caledonia	2000	24.06	23.56	13.94
+New Caledonia	2001	23.49	31.46	18.24
+New Caledonia	2002	23.66	36.41	22.39
+New Caledonia	2003	23.23	43.45	26.41
+New Caledonia	2004	23.46	51.24	30.3
+New Caledonia	2005	23.94	58.1	32.36
+New Caledonia	2006	24.6	65.96	33.52
+New Caledonia	2007	25.2	73.81	35.05
+New Caledonia	2008	25.94	80.88	34.51
+New Caledonia	2009	27.31	84.89	33.99
+New Caledonia	2010	28.78	88.02	42
+New Caledonia	2011	29.9	89.21	50
+New Caledonia	2012	30.92	89.28	58
+New Caledonia	2013	NA	NA	NA
+New Zealand	1990	43.23	1.59	0
+New Zealand	1991	43.33	2.1	NA
+New Zealand	1992	43.79	2.86	0.29
+New Zealand	1993	44.69	4.03	0.63
+New Zealand	1994	45.76	6.6	3.17
+New Zealand	1995	46.77	9.93	4.88
+New Zealand	1996	46.45	13.26	8.04
+New Zealand	1997	47.34	15.09	14.6
+New Zealand	1998	47.81	20.88	31.64
+New Zealand	1999	48.03	36.54	41.49
+New Zealand	2000	47.46	39.97	47.38
+New Zealand	2001	46.66	58.56	53.24
+New Zealand	2002	44.55	61.81	59.08
+New Zealand	2003	44.72	64.64	60.96
+New Zealand	2004	44.14	74.21	61.85
+New Zealand	2005	41.82	85.39	62.72
+New Zealand	2006	42.1	90.86	69
+New Zealand	2007	41.27	100.44	69.76
+New Zealand	2008	40.91	108	72.03
+New Zealand	2009	43.26	108.73	79.7
+New Zealand	2010	43.04	107.83	83
+New Zealand	2011	42.59	109.19	86
+New Zealand	2012	42.14	110.33	89.51
+New Zealand	2013	NA	NA	NA
+Nicaragua	1990	1.12	0	0
+Nicaragua	1991	1.14	0	NA
+Nicaragua	1992	1.26	0	NA
+Nicaragua	1993	1.51	0.01	NA
+Nicaragua	1994	1.88	0.05	0.01
+Nicaragua	1995	2.08	0.09	0.03
+Nicaragua	1996	2.35	0.11	0.08
+Nicaragua	1997	2.55	0.16	0.21
+Nicaragua	1998	2.88	0.37	0.3
+Nicaragua	1999	3.01	0.89	0.5
+Nicaragua	2000	3.24	1.78	0.98
+Nicaragua	2001	3.06	3.2	1.45
+Nicaragua	2002	3.29	4.55	1.71
+Nicaragua	2003	3.88	8.83	1.88
+Nicaragua	2004	4	13.79	2.32
+Nicaragua	2005	4.07	20.64	2.57
+Nicaragua	2006	4.51	33.32	2.81
+Nicaragua	2007	4.48	44.98	3.9
+Nicaragua	2008	4.51	55.15	5.3
+Nicaragua	2009	4.46	58.57	7.3
+Nicaragua	2010	4.46	68.45	10
+Nicaragua	2011	4.9	82.17	10.6
+Nicaragua	2012	5.37	89.77	13.5
+Nicaragua	2013	NA	NA	NA
+Niger	1990	0.12	0	0
+Niger	1991	0.12	0	NA
+Niger	1992	0.12	0	NA
+Niger	1993	0.12	0	NA
+Niger	1994	0.14	0	NA
+Niger	1995	0.15	0	NA
+Niger	1996	0.16	0	0
+Niger	1997	0.17	0	0
+Niger	1998	0.18	0.01	0
+Niger	1999	0.18	0.02	0.03
+Niger	2000	0.18	0.02	0.04
+Niger	2001	0.19	0.02	0.11
+Niger	2002	0.19	0.49	0.13
+Niger	2003	0.19	0.68	0.16
+Niger	2004	0.19	1.37	0.19
+Niger	2005	0.18	2.49	0.22
+Niger	2006	0.22	3.59	0.29
+Niger	2007	0.3	6.45	0.39
+Niger	2008	0.45	13.13	0.7
+Niger	2009	0.51	17.36	0.76
+Niger	2010	0.54	23.65	0.83
+Niger	2011	0.53	29.52	1.3
+Niger	2012	0.6	32.42	1.41
+Niger	2013	NA	NA	NA
+Nigeria	1990	0.3	0	0
+Nigeria	1991	0.29	0	NA
+Nigeria	1992	0.31	0	NA
+Nigeria	1993	0.33	0.01	NA
+Nigeria	1994	0.34	0.01	NA
+Nigeria	1995	0.37	0.01	NA
+Nigeria	1996	0.37	0.01	0.01
+Nigeria	1997	0.35	0.01	0.02
+Nigeria	1998	0.37	0.02	0.03
+Nigeria	1999	0.39	0.02	0.04
+Nigeria	2000	0.45	0.02	0.06
+Nigeria	2001	0.47	0.21	0.09
+Nigeria	2002	0.54	1.21	0.32
+Nigeria	2003	0.67	2.37	0.56
+Nigeria	2004	0.75	6.71	1.29
+Nigeria	2005	0.87	13.29	3.55
+Nigeria	2006	1.18	22.55	5.55
+Nigeria	2007	1.07	27.49	6.77
+Nigeria	2008	0.87	41.81	15.86
+Nigeria	2009	0.96	48.24	20
+Nigeria	2010	0.66	55.1	24
+Nigeria	2011	0.44	58.58	28.43
+Nigeria	2012	0.25	67.68	32.88
+Nigeria	2013	NA	NA	NA
+Niue	1990	NA	0	0
+Niue	1991	NA	0	NA
+Niue	1992	17.7	0	NA
+Niue	1993	19.7	0	NA
+Niue	1994	22.69	0	NA
+Niue	1995	26.29	0	NA
+Niue	1996	30.62	0	NA
+Niue	1997	35.77	NA	NA
+Niue	1998	41.77	NA	NA
+Niue	1999	48.64	19.46	15.5
+Niue	2000	55.26	21.58	26.51
+Niue	2001	56.7	21.6	32.66
+Niue	2002	58.04	27.09	39.15
+Niue	2003	59.39	33.94	43.13
+Niue	2004	60.76	37.62	47.34
+Niue	2005	62.28	NA	51.7
+Niue	2006	60.86	NA	56.25
+Niue	2007	62.58	NA	61.01
+Niue	2008	64.31	NA	65.92
+Niue	2009	66.18	NA	74.48
+Niue	2010	68.12	NA	76.97
+Niue	2011	NA	NA	79.56
+Niue	2012	72.2	NA	82.22
+Niue	2013	NA	NA	NA
+Northern Mariana Islands	1990	NA	0	0
+Northern Mariana Islands	1991	NA	NA	NA
+Northern Mariana Islands	1992	26.23	NA	NA
+Northern Mariana Islands	1993	25.88	1.4	NA
+Northern Mariana Islands	1994	26.18	1.39	NA
+Northern Mariana Islands	1995	26.88	2.09	NA
+Northern Mariana Islands	1996	31.3	NA	NA
+Northern Mariana Islands	1997	32.88	NA	NA
+Northern Mariana Islands	1998	31.69	NA	NA
+Northern Mariana Islands	1999	30.6	4.33	NA
+Northern Mariana Islands	2000	30.67	4.38	NA
+Northern Mariana Islands	2001	30.93	19.08	NA
+Northern Mariana Islands	2002	31.56	24.7	NA
+Northern Mariana Islands	2003	32.41	26.94	NA
+Northern Mariana Islands	2004	33.33	29.93	NA
+Northern Mariana Islands	2005	34.58	NA	NA
+Northern Mariana Islands	2006	36.06	NA	NA
+Northern Mariana Islands	2007	37.61	NA	NA
+Northern Mariana Islands	2008	39.39	NA	NA
+Northern Mariana Islands	2009	40.83	NA	NA
+Northern Mariana Islands	2010	41.86	NA	NA
+Northern Mariana Islands	2011	NA	NA	NA
+Northern Mariana Islands	2012	37.01	NA	NA
+Northern Mariana Islands	2013	NA	NA	NA
+Norway	1990	50.27	4.64	0.71
+Norway	1991	51.57	5.5	1.41
+Norway	1992	52.93	6.6	2.22
+Norway	1993	54.18	8.62	2.78
+Norway	1994	55.24	13.58	4.15
+Norway	1995	56.07	22.51	6.42
+Norway	1996	56.65	28.77	18.25
+Norway	1997	62.9	38	20.42
+Norway	1998	55.75	46.67	22.56
+Norway	1999	54.77	59.66	40
+Norway	2000	53.46	71.79	52
+Norway	2001	51.79	79.6	64
+Norway	2002	51.08	83.56	72.84
+Norway	2003	49.05	89.08	78.13
+Norway	2004	47.53	98.64	77.69
+Norway	2005	45.61	102.84	81.99
+Norway	2006	44.02	104.29	82.55
+Norway	2007	42.1	106.68	86.93
+Norway	2008	39.75	109.04	90.57
+Norway	2009	36.63	110.77	92.08
+Norway	2010	33.74	114.67	93.39
+Norway	2011	31.05	115.62	93.97
+Norway	2012	29.55	115.55	95
+Norway	2013	NA	NA	NA
+Oman	1990	5.6	0.15	0
+Oman	1991	5.99	0.19	NA
+Oman	1992	6.4	0.23	NA
+Oman	1993	6.99	0.27	NA
+Oman	1994	7.23	0.31	NA
+Oman	1995	7.61	0.36	NA
+Oman	1996	8.75	0.66	0
+Oman	1997	8.85	2.34	0.44
+Oman	1998	9.72	4.33	0.86
+Oman	1999	9.75	5.36	2.52
+Oman	2000	9.8	7.15	3.52
+Oman	2001	10.11	14.17	5.89
+Oman	2002	9.88	20.11	6.87
+Oman	2003	10.11	25.43	7.26
+Oman	2004	10.21	33.9	6.76
+Oman	2005	10.92	54.88	6.68
+Oman	2006	10.83	72.99	8.3
+Oman	2007	11.52	97.61	16.68
+Oman	2008	11.42	122.09	20
+Oman	2009	11.07	146.4	26.8
+Oman	2010	10.2	165.54	35.83
+Oman	2011	10.1	168.97	48
+Oman	2012	10.49	181.73	60
+Oman	2013	NA	NA	NA
+Pakistan	1990	0.75	0	0
+Pakistan	1991	0.97	0.01	NA
+Pakistan	1992	1.05	0.01	NA
+Pakistan	1993	1.26	0.01	NA
+Pakistan	1994	1.47	0.02	NA
+Pakistan	1995	1.67	0.03	0
+Pakistan	1996	1.82	0.05	0
+Pakistan	1997	1.91	0.1	0.03
+Pakistan	1998	1.93	0.14	0.04
+Pakistan	1999	2.03	0.19	0.06
+Pakistan	2000	2.11	0.21	NA
+Pakistan	2001	2.2	0.5	1.32
+Pakistan	2002	2.43	1.13	2.58
+Pakistan	2003	2.64	1.57	5.04
+Pakistan	2004	2.89	3.22	6.16
+Pakistan	2005	3.3	8.05	6.33
+Pakistan	2006	3.24	21.36	6.5
+Pakistan	2007	2.92	38.22	6.8
+Pakistan	2008	2.64	52.57	7
+Pakistan	2009	3.6	55.33	7.5
+Pakistan	2010	3.5	57.14	8
+Pakistan	2011	3.24	61.61	9
+Pakistan	2012	3.22	66.77	9.96
+Pakistan	2013	NA	NA	NA
+Palau	1990	NA	NA	0
+Palau	1991	NA	NA	NA
+Palau	1992	NA	NA	NA
+Palau	1993	NA	NA	NA
+Palau	1994	NA	NA	NA
+Palau	1995	NA	NA	NA
+Palau	1996	NA	NA	NA
+Palau	1997	NA	NA	NA
+Palau	1998	NA	NA	NA
+Palau	1999	NA	NA	NA
+Palau	2000	NA	NA	NA
+Palau	2001	NA	NA	NA
+Palau	2002	35.4	12.56	20.24
+Palau	2003	37.41	19.92	21.6
+Palau	2004	39.14	19.82	26.97
+Palau	2005	40.07	30.4	NA
+Palau	2006	36.61	41.71	NA
+Palau	2007	37.15	53.14	NA
+Palau	2008	36.51	57.68	NA
+Palau	2009	35.08	62.64	NA
+Palau	2010	34.08	70.89	NA
+Palau	2011	33.56	74.94	NA
+Palau	2012	35.07	82.62	NA
+Palau	2013	NA	NA	NA
+Panama	1990	8.94	0	0
+Panama	1991	9.3	0	NA
+Panama	1992	9.64	0	NA
+Panama	1993	10.17	0	NA
+Panama	1994	10.95	0	0.01
+Panama	1995	11.35	0	0.06
+Panama	1996	11.91	0.26	0.22
+Panama	1997	13.12	0.84	0.54
+Panama	1998	14.73	3.02	2.75
+Panama	1999	15.95	8.03	3.84
+Panama	2000	14.52	13.88	6.55
+Panama	2001	12.68	15.77	7.27
+Panama	2002	12.61	17.13	8.52
+Panama	2003	12.2	22.15	9.99
+Panama	2004	13.35	39.6	11.14
+Panama	2005	14.53	54	11.48
+Panama	2006	14.82	66	17.35
+Panama	2007	14.78	89.85	22.29
+Panama	2008	15.38	114.94	33.82
+Panama	2009	15.49	175.24	39.08
+Panama	2010	15.34	188.99	40.1
+Panama	2011	15.69	188.6	42.7
+Panama	2012	17.66	186.73	45.2
+Panama	2013	NA	NA	NA
+Papua New Guinea	1990	0.73	0	0
+Papua New Guinea	1991	0.79	0	NA
+Papua New Guinea	1992	0.83	0	NA
+Papua New Guinea	1993	0.88	0	NA
+Papua New Guinea	1994	0.87	0	NA
+Papua New Guinea	1995	0.93	0	NA
+Papua New Guinea	1996	0.97	0.05	0
+Papua New Guinea	1997	1.09	0.08	0.1
+Papua New Guinea	1998	1.12	0.11	0.23
+Papua New Guinea	1999	1.14	0.13	0.67
+Papua New Guinea	2000	1.21	0.16	0.84
+Papua New Guinea	2001	1.12	0.19	0.9
+Papua New Guinea	2002	1.1	0.27	1.32
+Papua New Guinea	2003	1.08	0.3	1.37
+Papua New Guinea	2004	1.07	0.81	1.51
+Papua New Guinea	2005	1.05	1.23	1.72
+Papua New Guinea	2006	0.98	1.6	1.75
+Papua New Guinea	2007	0.94	4.69	1.79
+Papua New Guinea	2008	1.02	13.35	1.15
+Papua New Guinea	2009	1.36	21.15	1.61
+Papua New Guinea	2010	1.77	27.84	1.28
+Papua New Guinea	2011	1.85	34.22	2
+Papua New Guinea	2012	1.94	37.78	2.3
+Papua New Guinea	2013	NA	NA	NA
+Paraguay	1990	2.65	0	0
+Paraguay	1991	2.76	0	NA
+Paraguay	1992	2.87	0.03	NA
+Paraguay	1993	3.11	0.07	NA
+Paraguay	1994	3.23	0.16	NA
+Paraguay	1995	3.48	0.33	NA
+Paraguay	1996	3.59	0.67	0.02
+Paraguay	1997	4.35	1.68	0.1
+Paraguay	1998	5.09	4.52	0.19
+Paraguay	1999	5.12	8.32	0.38
+Paraguay	2000	5.29	15.36	0.75
+Paraguay	2001	5.3	21.09	1.1
+Paraguay	2002	4.91	29.96	1.79
+Paraguay	2003	4.95	31.19	2.11
+Paraguay	2004	5.24	30.22	3.45
+Paraguay	2005	5.43	31.99	7.91
+Paraguay	2006	5.51	53.8	7.96
+Paraguay	2007	6.45	76.71	11.21
+Paraguay	2008	5.94	92.95	14.27
+Paraguay	2009	6.11	88.6	18.9
+Paraguay	2010	5.62	91.73	19.8
+Paraguay	2011	5.62	99.4	23.9
+Paraguay	2012	5.63	101.66	27.08
+Paraguay	2013	NA	NA	NA
+Peru	1990	2.6	0.01	0
+Peru	1991	2.44	0.03	NA
+Peru	1992	2.72	0.1	NA
+Peru	1993	2.93	0.16	NA
+Peru	1994	3.3	0.22	0.01
+Peru	1995	4.66	0.31	0.03
+Peru	1996	5.92	0.83	0.25
+Peru	1997	6.67	1.71	0.4
+Peru	1998	6.2	2.96	1.19
+Peru	1999	6.63	3.98	1.95
+Peru	2000	6.64	4.93	3.08
+Peru	2001	5.99	6.84	7.58
+Peru	2002	6.23	8.68	8.97
+Peru	2003	6.83	10.89	11.6
+Peru	2004	8.05	15.02	14.1
+Peru	2005	8.72	20.26	17.1
+Peru	2006	9.18	32.73	20.7
+Peru	2007	10.1	54.74	25.2
+Peru	2008	10.8	73.61	30.57
+Peru	2009	12.34	85.87	31.4
+Peru	2010	12.38	101.9	34.77
+Peru	2011	11.08	110.41	36
+Peru	2012	11.51	98.84	38.2
+Peru	2013	NA	NA	NA
+Philippines	1990	0.99	0	0
+Philippines	1991	1.03	0.05	NA
+Philippines	1992	1.02	0.09	NA
+Philippines	1993	1.3	0.15	NA
+Philippines	1994	1.64	0.25	0.01
+Philippines	1995	2.04	0.71	0.03
+Philippines	1996	2.52	1.35	0.06
+Philippines	1997	2.87	1.86	0.14
+Philippines	1998	3.37	2.34	1.1
+Philippines	1999	3.82	3.77	1.43
+Philippines	2000	3.96	8.35	1.98
+Philippines	2001	4.2	15.4	2.52
+Philippines	2002	4.11	19.08	4.33
+Philippines	2003	4.06	27.35	4.86
+Philippines	2004	4.1	39.24	5.24
+Philippines	2005	3.94	40.66	5.4
+Philippines	2006	4.17	49.21	5.74
+Philippines	2007	4.44	64.68	5.97
+Philippines	2008	4.52	75.54	6.22
+Philippines	2009	4.47	82.43	9
+Philippines	2010	3.58	89.16	25
+Philippines	2011	3.75	99.3	29
+Philippines	2012	4.08	106.77	36.24
+Philippines	2013	NA	NA	NA
+Poland	1990	8.65	0	0
+Poland	1991	9.34	0	0.01
+Poland	1992	10.3	0.01	0.05
+Poland	1993	11.52	0.04	0.13
+Poland	1994	13.05	0.1	0.39
+Poland	1995	14.92	0.2	0.65
+Poland	1996	17.01	0.56	1.3
+Poland	1997	19.56	2.12	2.07
+Poland	1998	22.97	5.03	4.1
+Poland	1999	26.54	10.32	5.46
+Poland	2000	28.58	17.62	7.29
+Poland	2001	29.79	26.14	9.9
+Poland	2002	31.03	36.35	21.15
+Poland	2003	32.18	45.56	24.87
+Poland	2004	32.88	60.5	32.53
+Poland	2005	31.01	76.42	38.81
+Poland	2006	30.06	96.27	44.58
+Poland	2007	27.47	108.38	48.6
+Poland	2008	24.74	114.93	53.13
+Poland	2009	22.21	117.14	58.97
+Poland	2010	20.03	122.67	62.32
+Poland	2011	17.89	130.97	64.88
+Poland	2012	15.99	132.68	65
+Poland	2013	NA	NA	NA
+Portugal	1990	23.97	0.07	0
+Portugal	1991	27.09	0.13	0.1
+Portugal	1992	30.2	0.37	0.25
+Portugal	1993	32.51	1.01	0.45
+Portugal	1994	34.48	1.72	0.72
+Portugal	1995	35.98	3.37	1.49
+Portugal	1996	37.58	6.53	2.98
+Portugal	1997	39.2	14.76	4.95
+Portugal	1998	40.16	29.99	9.87
+Portugal	1999	41.09	45.38	14.74
+Portugal	2000	41.8	64.48	16.43
+Portugal	2001	42.25	76.86	18.09
+Portugal	2002	41.74	83.18	19.37
+Portugal	2003	40.91	95.58	29.67
+Portugal	2004	40.34	100.62	31.78
+Portugal	2005	40.15	108.57	34.99
+Portugal	2006	40.1	115.59	38.01
+Portugal	2007	39.63	127.05	42.09
+Portugal	2008	39.12	132.11	44.13
+Portugal	2009	40.61	110.68	48.27
+Portugal	2010	42.02	114.38	53.3
+Portugal	2011	42.49	115.39	57.76
+Portugal	2012	42.6	115.07	64
+Portugal	2013	NA	NA	NA
+Puerto Rico	1990	27.83	0.58	0
+Puerto Rico	1991	28.99	0.94	NA
+Puerto Rico	1992	30.47	1.67	NA
+Puerto Rico	1993	30.15	2.61	NA
+Puerto Rico	1994	30.81	4.77	0.03
+Puerto Rico	1995	32.31	7.75	0.14
+Puerto Rico	1996	33.6	8.81	0.27
+Puerto Rico	1997	33.42	9.76	1.33
+Puerto Rico	1998	33.33	15.32	2.65
+Puerto Rico	1999	34.04	21.4	5.27
+Puerto Rico	2000	34.06	34.56	10.47
+Puerto Rico	2001	33.75	42.65	15.63
+Puerto Rico	2002	33.48	43.19	17.55
+Puerto Rico	2003	31.89	44.93	19.71
+Puerto Rico	2004	29.32	48.73	22.13
+Puerto Rico	2005	27.44	52.71	23.4
+Puerto Rico	2006	27.51	58.28	25.44
+Puerto Rico	2007	26.9	64.58	27.86
+Puerto Rico	2008	25.26	67.67	38
+Puerto Rico	2009	24.13	72.26	41.5
+Puerto Rico	2010	23.76	78.26	45.3
+Puerto Rico	2011	22.06	82.99	48
+Puerto Rico	2012	20.84	81.75	51.41
+Puerto Rico	2013	NA	NA	NA
+Qatar	1990	19.44	0.8	0
+Qatar	1991	20.02	0.84	NA
+Qatar	1992	21.62	0.87	NA
+Qatar	1993	22.45	0.87	NA
+Qatar	1994	23.38	2.33	NA
+Qatar	1995	24.47	3.68	0.19
+Qatar	1996	26.06	5.61	0.93
+Qatar	1997	26.84	8.22	3.08
+Qatar	1998	27.42	11.98	3.52
+Qatar	1999	27.18	14.8	4.07
+Qatar	2000	27.11	20.45	4.86
+Qatar	2001	27.54	29.26	6.17
+Qatar	2002	28.28	42.73	10.23
+Qatar	2003	28.23	57.62	19.24
+Qatar	2004	26.69	68.56	20.7
+Qatar	2005	25.02	87.31	24.73
+Qatar	2006	23.34	94.01	28.97
+Qatar	2007	20.15	107.3	37
+Qatar	2008	19.04	102.39	44.3
+Qatar	2009	18.02	121.97	53.1
+Qatar	2010	15.35	124.32	81.6
+Qatar	2011	16.52	123.11	86.2
+Qatar	2012	16.87	134.11	88.1
+Qatar	2013	NA	NA	NA
+Republic of Moldova	1990	10.59	0	0
+Republic of Moldova	1991	11.33	0	NA
+Republic of Moldova	1992	11.67	0	NA
+Republic of Moldova	1993	11.98	0	NA
+Republic of Moldova	1994	12.51	0	0
+Republic of Moldova	1995	13.06	0	0
+Republic of Moldova	1996	13.77	0.02	0
+Republic of Moldova	1997	14.69	0.05	0.03
+Republic of Moldova	1998	15.57	0.17	0.26
+Republic of Moldova	1999	13.33	0.43	0.6
+Republic of Moldova	2000	14.22	3.38	1.28
+Republic of Moldova	2001	15.82	5.57	1.49
+Republic of Moldova	2002	18.12	8.52	3.79
+Republic of Moldova	2003	20.3	12.21	7.41
+Republic of Moldova	2004	22.55	20.56	10.63
+Republic of Moldova	2005	24.67	28.93	14.63
+Republic of Moldova	2006	27.4	36.56	19.62
+Republic of Moldova	2007	29.41	51.28	20.45
+Republic of Moldova	2008	30.66	66.67	23.39
+Republic of Moldova	2009	31.61	77.3	27.5
+Republic of Moldova	2010	32.5	88.59	32.3
+Republic of Moldova	2011	33.29	101.2	38
+Republic of Moldova	2012	34.26	115.94	43.37
+Republic of Moldova	2013	NA	NA	NA
+Reunion	1990	NA	NA	NA
+Reunion	1991	NA	NA	NA
+Reunion	1992	NA	NA	NA
+Reunion	1993	NA	NA	NA
+Reunion	1994	NA	NA	NA
+Reunion	1995	NA	NA	NA
+Reunion	1996	NA	NA	NA
+Reunion	1997	NA	NA	NA
+Reunion	1998	NA	NA	NA
+Reunion	1999	NA	NA	NA
+Reunion	2000	NA	NA	NA
+Reunion	2001	NA	NA	NA
+Reunion	2002	NA	NA	NA
+Reunion	2003	NA	NA	NA
+Reunion	2004	NA	NA	NA
+Reunion	2005	NA	NA	NA
+Reunion	2006	NA	NA	NA
+Reunion	2007	NA	NA	NA
+Reunion	2008	NA	NA	NA
+Reunion	2009	NA	NA	NA
+Reunion	2010	NA	NA	NA
+Reunion	2011	NA	NA	NA
+Reunion	2012	NA	NA	NA
+Reunion	2013	NA	NA	NA
+Romania	1990	10.19	0	0
+Romania	1991	10.55	0	NA
+Romania	1992	11.15	0	NA
+Romania	1993	11.35	0	0
+Romania	1994	12.3	0.01	0.03
+Romania	1995	13.09	0.04	0.07
+Romania	1996	14.07	0.08	0.22
+Romania	1997	15.13	0.89	0.45
+Romania	1998	16.09	2.87	2.24
+Romania	1999	16.78	6.08	2.7
+Romania	2000	17.57	11.26	3.61
+Romania	2001	18.62	17.4	4.54
+Romania	2002	19.15	23.22	6.58
+Romania	2003	19.76	32.11	8.9
+Romania	2004	20.09	46.76	15
+Romania	2005	20.13	61.34	21.5
+Romania	2006	19.34	73.67	24.66
+Romania	2007	20.4	94.25	28.3
+Romania	2008	22	113.34	32.42
+Romania	2009	21.96	116.54	36.6
+Romania	2010	20.94	113.37	39.93
+Romania	2011	21.83	109.25	44.02
+Romania	2012	21.88	106.14	50
+Romania	2013	NA	NA	NA
+Russian Federation	1990	13.96	0	0
+Russian Federation	1991	15	0	NA
+Russian Federation	1992	15.35	0	0
+Russian Federation	1993	15.76	0.01	0.01
+Russian Federation	1994	16.19	0.02	0.05
+Russian Federation	1995	16.83	0.06	0.15
+Russian Federation	1996	17.46	0.15	0.27
+Russian Federation	1997	19.07	0.33	0.47
+Russian Federation	1998	19.79	0.51	0.81
+Russian Federation	1999	21.01	0.93	1.02
+Russian Federation	2000	21.85	2.22	1.98
+Russian Federation	2001	22.77	5.3	2.94
+Russian Federation	2002	24.4	12.1	4.13
+Russian Federation	2003	24.92	24.94	8.3
+Russian Federation	2004	26.68	51.09	12.86
+Russian Federation	2005	27.88	83.42	15.23
+Russian Federation	2006	30.59	104.99	18.02
+Russian Federation	2007	31.56	119.47	24.66
+Russian Federation	2008	31.81	139.37	26.83
+Russian Federation	2009	31.72	160.8	29
+Russian Federation	2010	31.42	166.26	43
+Russian Federation	2011	30.91	179.31	49
+Russian Federation	2012	30.06	183.52	53.27
+Russian Federation	2013	NA	NA	NA
+Rwanda	1990	0.15	0	0
+Rwanda	1991	0.16	0	NA
+Rwanda	1992	0.18	0	NA
+Rwanda	1993	0.18	0	NA
+Rwanda	1994	0.18	0	NA
+Rwanda	1995	0.12	0	NA
+Rwanda	1996	0.18	0	0
+Rwanda	1997	0.18	0	0
+Rwanda	1998	0.16	0.07	0.01
+Rwanda	1999	0.17	0.15	0.07
+Rwanda	2000	0.22	0.48	0.06
+Rwanda	2001	0.25	0.77	0.24
+Rwanda	2002	0.29	0.95	0.29
+Rwanda	2003	0.29	1.48	0.36
+Rwanda	2004	0.25	1.52	0.43
+Rwanda	2005	0.26	2.42	0.56
+Rwanda	2006	0.25	3.33	NA
+Rwanda	2007	0.24	6.54	2.12
+Rwanda	2008	0.17	13.22	4.5
+Rwanda	2009	0.32	23.56	7.7
+Rwanda	2010	0.37	33.4	8
+Rwanda	2011	0.36	40.63	7
+Rwanda	2012	0.39	50.49	8.02
+Rwanda	2013	NA	NA	NA
+Saint Helena	1990	NA	NA	NA
+Saint Helena	1991	NA	NA	NA
+Saint Helena	1992	NA	NA	NA
+Saint Helena	1993	NA	NA	NA
+Saint Helena	1994	NA	NA	NA
+Saint Helena	1995	NA	NA	NA
+Saint Helena	1996	NA	NA	NA
+Saint Helena	1997	NA	NA	NA
+Saint Helena	1998	NA	NA	NA
+Saint Helena	1999	NA	NA	NA
+Saint Helena	2000	NA	NA	NA
+Saint Helena	2001	NA	NA	NA
+Saint Helena	2002	NA	NA	NA
+Saint Helena	2003	NA	NA	NA
+Saint Helena	2004	NA	NA	NA
+Saint Helena	2005	NA	NA	NA
+Saint Helena	2006	NA	NA	NA
+Saint Helena	2007	NA	NA	NA
+Saint Helena	2008	NA	NA	NA
+Saint Helena	2009	NA	NA	NA
+Saint Helena	2010	NA	NA	NA
+Saint Helena	2011	NA	NA	NA
+Saint Helena	2012	NA	NA	NA
+Saint Helena	2013	NA	NA	NA
+Saint Kitts and Nevis	1990	23.84	0	0
+Saint Kitts and Nevis	1991	24.84	NA	NA
+Saint Kitts and Nevis	1992	27.88	NA	NA
+Saint Kitts and Nevis	1993	29.19	NA	NA
+Saint Kitts and Nevis	1994	31.98	NA	NA
+Saint Kitts and Nevis	1995	33.42	NA	NA
+Saint Kitts and Nevis	1996	35.79	0.69	1.95
+Saint Kitts and Nevis	1997	38.78	0.46	2.26
+Saint Kitts and Nevis	1998	40.92	0.98	3.34
+Saint Kitts and Nevis	1999	44.11	1.54	4.4
+Saint Kitts and Nevis	2000	47.54	2.6	5.86
+Saint Kitts and Nevis	2001	48.19	4.5	7.71
+Saint Kitts and Nevis	2002	49.68	10.57	21.15
+Saint Kitts and Nevis	2003	49.04	45.91	22.97
+Saint Kitts and Nevis	2004	41.92	59.74	24.74
+Saint Kitts and Nevis	2005	41.28	103.72	34
+Saint Kitts and Nevis	2006	41.46	102.39	49
+Saint Kitts and Nevis	2007	40.53	127.84	52
+Saint Kitts and Nevis	2008	39.92	145.79	60
+Saint Kitts and Nevis	2009	39.61	145.89	69
+Saint Kitts and Nevis	2010	37.78	152.67	76
+Saint Kitts and Nevis	2011	37.32	154.57	77.6
+Saint Kitts and Nevis	2012	37.25	156.43	79.35
+Saint Kitts and Nevis	2013	NA	NA	NA
+Saint Lucia	1990	12.32	0	0
+Saint Lucia	1991	12.26	NA	NA
+Saint Lucia	1992	14.3	NA	NA
+Saint Lucia	1993	16.87	NA	NA
+Saint Lucia	1994	17.22	0.36	NA
+Saint Lucia	1995	20.79	0.68	0.31
+Saint Lucia	1996	22.67	0.94	0.67
+Saint Lucia	1997	24.49	1.06	0.99
+Saint Lucia	1998	26.36	1.24	1.3
+Saint Lucia	1999	28.65	1.48	1.93
+Saint Lucia	2000	31.13	1.59	5.09
+Saint Lucia	2001	31.47	1.7	8.18
+Saint Lucia	2002	31.85	8.92	14.64
+Saint Lucia	2003	30.24	61.09	20.98
+Saint Lucia	2004	25.67	61.72	21.4
+Saint Lucia	2005	23.6	63.93	21.57
+Saint Lucia	2006	23.57	63.23	24.5
+Saint Lucia	2007	23.51	87.09	27.9
+Saint Lucia	2008	23.99	102.59	32
+Saint Lucia	2009	22.36	110.02	36
+Saint Lucia	2010	21.49	113.74	43.3
+Saint Lucia	2011	20.39	123	45
+Saint Lucia	2012	20.72	127.68	48.63
+Saint Lucia	2013	NA	NA	NA
+Saint Pierre and Miquelon	1990	NA	NA	NA
+Saint Pierre and Miquelon	1991	NA	NA	NA
+Saint Pierre and Miquelon	1992	NA	NA	NA
+Saint Pierre and Miquelon	1993	NA	NA	NA
+Saint Pierre and Miquelon	1994	NA	NA	NA
+Saint Pierre and Miquelon	1995	NA	NA	NA
+Saint Pierre and Miquelon	1996	NA	NA	NA
+Saint Pierre and Miquelon	1997	NA	NA	NA
+Saint Pierre and Miquelon	1998	NA	NA	NA
+Saint Pierre and Miquelon	1999	NA	NA	NA
+Saint Pierre and Miquelon	2000	NA	NA	NA
+Saint Pierre and Miquelon	2001	NA	NA	NA
+Saint Pierre and Miquelon	2002	NA	NA	NA
+Saint Pierre and Miquelon	2003	NA	NA	NA
+Saint Pierre and Miquelon	2004	NA	NA	NA
+Saint Pierre and Miquelon	2005	NA	NA	NA
+Saint Pierre and Miquelon	2006	NA	NA	NA
+Saint Pierre and Miquelon	2007	NA	NA	NA
+Saint Pierre and Miquelon	2008	NA	NA	NA
+Saint Pierre and Miquelon	2009	NA	NA	NA
+Saint Pierre and Miquelon	2010	NA	NA	NA
+Saint Pierre and Miquelon	2011	NA	NA	NA
+Saint Pierre and Miquelon	2012	NA	NA	NA
+Saint Pierre and Miquelon	2013	NA	NA	NA
+Saint Vincent and the Grenadines	1990	12.21	0	0
+Saint Vincent and the Grenadines	1991	13.58	NA	NA
+Saint Vincent and the Grenadines	1992	14.46	0.06	NA
+Saint Vincent and the Grenadines	1993	15.25	0.08	NA
+Saint Vincent and the Grenadines	1994	15.89	0.14	NA
+Saint Vincent and the Grenadines	1995	16.87	0.2	0.13
+Saint Vincent and the Grenadines	1996	17.91	0.26	0.48
+Saint Vincent and the Grenadines	1997	18.98	0.32	0.93
+Saint Vincent and the Grenadines	1998	19.5	0.7	1.85
+Saint Vincent and the Grenadines	1999	21.91	1.32	2.78
+Saint Vincent and the Grenadines	2000	23.08	2.19	3.25
+Saint Vincent and the Grenadines	2001	24.15	6.94	5.09
+Saint Vincent and the Grenadines	2002	25.26	9.23	5.55
+Saint Vincent and the Grenadines	2003	19.56	58.06	6.46
+Saint Vincent and the Grenadines	2004	17.52	66.32	7.37
+Saint Vincent and the Grenadines	2005	20.69	64.93	9.2
+Saint Vincent and the Grenadines	2006	20.79	80.46	12
+Saint Vincent and the Grenadines	2007	21.02	101.31	16
+Saint Vincent and the Grenadines	2008	20.86	119.16	21
+Saint Vincent and the Grenadines	2009	21.07	110.84	31
+Saint Vincent and the Grenadines	2010	19.85	120.54	38.5
+Saint Vincent and the Grenadines	2011	20.78	120.52	43.01
+Saint Vincent and the Grenadines	2012	17.72	123.88	47.52
+Saint Vincent and the Grenadines	2013	NA	NA	NA
+Samoa	1990	2.54	0	0
+Samoa	1991	2.56	0	NA
+Samoa	1992	3.97	0	NA
+Samoa	1993	4.3	0	NA
+Samoa	1994	4.44	0	NA
+Samoa	1995	4.64	0	NA
+Samoa	1996	4.85	0	NA
+Samoa	1997	4.92	0.45	0.17
+Samoa	1998	4.89	0.85	0.23
+Samoa	1999	4.85	1.39	0.29
+Samoa	2000	4.83	1.42	0.57
+Samoa	2001	5.44	1.41	1.69
+Samoa	2002	6.6	1.51	2.24
+Samoa	2003	7.42	5.86	2.8
+Samoa	2004	9.12	8.9	3.08
+Samoa	2005	10.82	13.32	3.35
+Samoa	2006	NA	25.17	4.47
+Samoa	2007	NA	47.44	4.75
+Samoa	2008	NA	NA	5.03
+Samoa	2009	NA	NA	6
+Samoa	2010	NA	NA	7
+Samoa	2011	NA	NA	11
+Samoa	2012	NA	NA	12.92
+Samoa	2013	NA	NA	NA
+San Marino	1990	42.45	0	0
+San Marino	1991	44.19	NA	NA
+San Marino	1992	54.52	3.63	NA
+San Marino	1993	56.18	5.18	NA
+San Marino	1994	56.81	7.48	NA
+San Marino	1995	62.65	9.11	1.36
+San Marino	1996	65.89	8.8	1.43
+San Marino	1997	67.25	9.01	1.42
+San Marino	1998	73.56	18.96	1.41
+San Marino	1999	74.97	36.08	42.8
+San Marino	2000	75.28	53.78	48.8
+San Marino	2001	74.43	57.56	50.34
+San Marino	2002	72.92	59.32	50.83
+San Marino	2003	71.31	58.25	50
+San Marino	2004	69.83	57.48	50.57
+San Marino	2005	68.81	56.6	50.26
+San Marino	2006	68.36	56.61	50.21
+San Marino	2007	67.98	56.44	50.36
+San Marino	2008	68.27	78.22	54.52
+San Marino	2009	65.14	95.5	54.21
+San Marino	2010	62.02	97	NA
+San Marino	2011	58.88	111.75	49.6
+San Marino	2012	58.54	112.69	50.88
+San Marino	2013	NA	NA	NA
+Sao Tome and Principe	1990	1.89	0	0
+Sao Tome and Principe	1991	1.87	0	NA
+Sao Tome and Principe	1992	1.95	0	NA
+Sao Tome and Principe	1993	1.94	0	NA
+Sao Tome and Principe	1994	1.96	0	NA
+Sao Tome and Principe	1995	1.95	0	NA
+Sao Tome and Principe	1996	1.99	0	NA
+Sao Tome and Principe	1997	3.23	0	NA
+Sao Tome and Principe	1998	3.16	0	0.3
+Sao Tome and Principe	1999	3.27	0	0.36
+Sao Tome and Principe	2000	3.27	0	4.64
+Sao Tome and Principe	2001	3.79	0	6.31
+Sao Tome and Principe	2002	4.37	1.36	7.58
+Sao Tome and Principe	2003	4.71	3.26	10.16
+Sao Tome and Principe	2004	4.69	5.15	13.32
+Sao Tome and Principe	2005	4.66	7.83	13.76
+Sao Tome and Principe	2006	4.9	11.89	14.18
+Sao Tome and Principe	2007	4.86	19.13	14.59
+Sao Tome and Principe	2008	4.78	31.62	15.48
+Sao Tome and Principe	2009	4.73	49.74	16.41
+Sao Tome and Principe	2010	4.72	62.11	18.75
+Sao Tome and Principe	2011	4.72	68.26	20.16
+Sao Tome and Principe	2012	4.65	70.98	21.57
+Sao Tome and Principe	2013	NA	NA	NA
+Saudi Arabia	1990	7.65	0.09	0
+Saudi Arabia	1991	8.8	0.09	NA
+Saudi Arabia	1992	9.12	0.09	NA
+Saudi Arabia	1993	9.13	0.09	NA
+Saudi Arabia	1994	9.25	0.09	NA
+Saudi Arabia	1995	9.3	0.09	0.01
+Saudi Arabia	1996	9.56	1.02	0.03
+Saudi Arabia	1997	9.87	1.75	0.05
+Saudi Arabia	1998	11.25	3.26	0.1
+Saudi Arabia	1999	13.82	4.27	0.49
+Saudi Arabia	2000	14.79	6.86	2.21
+Saudi Arabia	2001	15.63	12.23	4.68
+Saudi Arabia	2002	15.92	23.33	6.38
+Saudi Arabia	2003	15.68	32.41	8
+Saudi Arabia	2004	15.92	39.53	10.23
+Saudi Arabia	2005	15.99	58.92	12.71
+Saudi Arabia	2006	15.93	79.44	19.46
+Saudi Arabia	2007	15.67	111.35	30
+Saudi Arabia	2008	15.67	137.58	36
+Saudi Arabia	2009	15.56	167.35	38
+Saudi Arabia	2010	15.18	187.86	41
+Saudi Arabia	2011	16.5	191.24	47.5
+Saudi Arabia	2012	16.73	184.68	54
+Saudi Arabia	2013	NA	NA	NA
+Senegal	1990	0.61	0	0
+Senegal	1991	0.65	0	NA
+Senegal	1992	0.76	0	NA
+Senegal	1993	0.81	0	NA
+Senegal	1994	0.89	0	NA
+Senegal	1995	0.98	0	0
+Senegal	1996	1.11	0.02	0.01
+Senegal	1997	1.32	0.08	0.03
+Senegal	1998	1.54	0.3	0.08
+Senegal	1999	1.79	0.95	0.31
+Senegal	2000	2.17	2.63	0.4
+Senegal	2001	2.43	3.09	0.98
+Senegal	2002	2.24	5.52	1.01
+Senegal	2003	2.22	7.6	2.1
+Senegal	2004	2.31	10.6	4.39
+Senegal	2005	2.45	15.91	4.79
+Senegal	2006	2.53	26.7	5.61
+Senegal	2007	2.35	31.64	7.7
+Senegal	2008	2.02	45.72	10.6
+Senegal	2009	2.3	57	14.5
+Senegal	2010	2.75	67.11	16
+Senegal	2011	2.71	73.25	17.5
+Senegal	2012	2.58	87.51	19.2
+Senegal	2013	NA	NA	NA
+Serbia	1990	NA	NA	NA
+Serbia	1991	NA	NA	NA
+Serbia	1992	NA	NA	NA
+Serbia	1993	NA	NA	NA
+Serbia	1994	NA	NA	NA
+Serbia	1995	NA	NA	NA
+Serbia	1996	NA	NA	NA
+Serbia	1997	NA	NA	NA
+Serbia	1998	NA	NA	NA
+Serbia	1999	NA	NA	NA
+Serbia	2000	NA	NA	NA
+Serbia	2001	NA	NA	NA
+Serbia	2002	NA	NA	NA
+Serbia	2003	NA	NA	NA
+Serbia	2004	27.14	47.8	23.5
+Serbia	2005	31.12	67.85	26.3
+Serbia	2006	33.57	82.01	27.2
+Serbia	2007	36.97	104.38	33.15
+Serbia	2008	38.06	118.67	35.6
+Serbia	2009	38.27	122.13	38.1
+Serbia	2010	38.3	122.08	40.9
+Serbia	2011	37.32	125.39	42.2
+Serbia	2012	30.23	92.8	48.1
+Serbia	2013	NA	NA	NA
+Serbia and Montenegro	1990	NA	NA	NA
+Serbia and Montenegro	1991	NA	NA	NA
+Serbia and Montenegro	1992	NA	NA	NA
+Serbia and Montenegro	1993	NA	NA	NA
+Serbia and Montenegro	1994	NA	NA	NA
+Serbia and Montenegro	1995	NA	NA	NA
+Serbia and Montenegro	1996	NA	NA	NA
+Serbia and Montenegro	1997	NA	NA	NA
+Serbia and Montenegro	1998	NA	NA	NA
+Serbia and Montenegro	1999	NA	NA	NA
+Serbia and Montenegro	2000	NA	NA	NA
+Serbia and Montenegro	2001	NA	NA	NA
+Serbia and Montenegro	2002	NA	NA	NA
+Serbia and Montenegro	2003	NA	NA	NA
+Serbia and Montenegro	2004	NA	NA	NA
+Serbia and Montenegro	2005	NA	NA	NA
+Serbia and Montenegro	2006	NA	NA	NA
+Serbia and Montenegro	2007	NA	NA	NA
+Serbia and Montenegro	2008	NA	NA	NA
+Serbia and Montenegro	2009	NA	NA	NA
+Serbia and Montenegro	2010	NA	NA	NA
+Serbia and Montenegro	2011	NA	NA	NA
+Serbia and Montenegro	2012	NA	NA	NA
+Serbia and Montenegro	2013	NA	NA	NA
+Seychelles	1990	12.22	0	0
+Seychelles	1991	13.02	0	NA
+Seychelles	1992	13.88	0	NA
+Seychelles	1993	14.89	0	NA
+Seychelles	1994	16.36	0	NA
+Seychelles	1995	17.54	0.07	NA
+Seychelles	1996	20.81	1.38	0.65
+Seychelles	1997	23.41	2.95	1.28
+Seychelles	1998	24.35	6.74	2.53
+Seychelles	1999	25.23	20.97	6.23
+Seychelles	2000	26.21	32.99	7.4
+Seychelles	2001	26.68	46.06	11.02
+Seychelles	2002	26.35	55.47	14.3
+Seychelles	2003	25.95	60.29	14.59
+Seychelles	2004	25.74	65.8	24.27
+Seychelles	2005	25.63	70.42	25.41
+Seychelles	2006	24.53	83.45	34.95
+Seychelles	2007	26.74	90.94	38.38
+Seychelles	2008	26.09	109.24	40.44
+Seychelles	2009	30.3	128.57	NA
+Seychelles	2010	25.48	135.91	41
+Seychelles	2011	32.13	145.71	43.16
+Seychelles	2012	33.11	158.63	47.08
+Seychelles	2013	NA	NA	NA
+Sierra Leone	1990	0.33	0	0
+Sierra Leone	1991	0.34	0	NA
+Sierra Leone	1992	0.35	0	NA
+Sierra Leone	1993	0.37	0	0
+Sierra Leone	1994	0.4	0	0
+Sierra Leone	1995	0.43	0	0
+Sierra Leone	1996	0.44	0	0
+Sierra Leone	1997	0.44	0	0
+Sierra Leone	1998	0.44	0	0.01
+Sierra Leone	1999	0.45	0	0.05
+Sierra Leone	2000	0.46	0.29	0.12
+Sierra Leone	2001	0.53	0.62	0.16
+Sierra Leone	2002	0.53	1.49	0.18
+Sierra Leone	2003	0.53	2.39	0.19
+Sierra Leone	2004	0.54	NA	0.2
+Sierra Leone	2005	0.54	NA	0.22
+Sierra Leone	2006	0.54	NA	0.23
+Sierra Leone	2007	0.55	14.17	0.24
+Sierra Leone	2008	0.56	17.98	0.25
+Sierra Leone	2009	0.57	20.21	0.26
+Sierra Leone	2010	0.24	34.09	0.58
+Sierra Leone	2011	0.27	35.63	0.9
+Sierra Leone	2012	0.29	36.07	1.3
+Sierra Leone	2013	NA	NA	NA
+Singapore	1990	34.94	1.71	0
+Singapore	1991	35.52	2.64	0.16
+Singapore	1992	36.64	3.76	0.47
+Singapore	1993	37.89	5.44	0.76
+Singapore	1994	39.34	6.96	1.19
+Singapore	1995	41.03	8.79	2.87
+Singapore	1996	43.69	12.05	8.35
+Singapore	1997	45.9	23.12	13.47
+Singapore	1998	47.27	29.1	19.59
+Singapore	1999	48.81	42.42	24.16
+Singapore	2000	49.65	70.1	36
+Singapore	2001	48.92	75.15	41.67
+Singapore	2002	47.8	82.16	47
+Singapore	2003	46.24	87.54	53.84
+Singapore	2004	44.64	95.93	62
+Singapore	2005	43.23	102.78	61
+Singapore	2006	42.03	108.59	59
+Singapore	2007	40.61	129.21	69.9
+Singapore	2008	39.31	134.42	69
+Singapore	2009	39.04	139.21	69
+Singapore	2010	39.24	145.18	71
+Singapore	2011	38.9	150.24	71
+Singapore	2012	37.85	153.4	74.18
+Singapore	2013	NA	NA	NA
+Slovakia	1990	13.49	0	0
+Slovakia	1991	14.34	0	NA
+Slovakia	1992	15.45	0.03	NA
+Slovakia	1993	16.73	0.06	0.13
+Slovakia	1994	18.75	0.11	0.32
+Slovakia	1995	20.83	0.23	0.52
+Slovakia	1996	23.17	0.53	0.78
+Slovakia	1997	25.82	3.71	1.17
+Slovakia	1998	28.52	8.62	2.69
+Slovakia	1999	30.65	12.29	5.44
+Slovakia	2000	31.42	23.01	9.43
+Slovakia	2001	28.78	39.71	12.53
+Slovakia	2002	25.94	54.06	40.14
+Slovakia	2003	23.93	68.01	43.04
+Slovakia	2004	23.11	79	52.89
+Slovakia	2005	22.1	83.84	55.19
+Slovakia	2006	21.53	90.25	56.08
+Slovakia	2007	24.12	111.73	61.8
+Slovakia	2008	23.68	101.45	66.05
+Slovakia	2009	22.37	100.84	70
+Slovakia	2010	20.12	108.47	75.71
+Slovakia	2011	19.3	109.35	74.44
+Slovakia	2012	17.79	111.21	80
+Slovakia	2013	NA	NA	NA
+Slovenia	1990	21.89	0	0
+Slovenia	1991	23.7	0.03	NA
+Slovenia	1992	25.43	0.18	NA
+Slovenia	1993	27.04	0.33	0.41
+Slovenia	1994	29.45	0.83	1.07
+Slovenia	1995	31.27	1.39	2.9
+Slovenia	1996	33.65	2.09	5.07
+Slovenia	1997	35.94	4.74	7.59
+Slovenia	1998	36.54	8.16	10.1
+Slovenia	1999	38.21	31.85	12.61
+Slovenia	2000	39.56	61.23	15.11
+Slovenia	2001	40.33	73.93	30.18
+Slovenia	2002	40.57	83.73	27.84
+Slovenia	2003	40.73	87.2	31.85
+Slovenia	2004	49.77	92.53	40.81
+Slovenia	2005	50.92	87.87	46.81
+Slovenia	2006	51.28	90.67	54.01
+Slovenia	2007	49.97	95.83	56.74
+Slovenia	2008	48.47	101.82	58
+Slovenia	2009	46.4	103.77	64
+Slovenia	2010	44.88	104.55	70
+Slovenia	2011	42.89	106.56	69
+Slovenia	2012	40.43	110.08	70
+Slovenia	2013	NA	NA	NA
+Solomon Islands	1990	1.51	0	0
+Solomon Islands	1991	1.52	0	NA
+Solomon Islands	1992	1.57	0	NA
+Solomon Islands	1993	1.62	0	NA
+Solomon Islands	1994	1.74	0.04	NA
+Solomon Islands	1995	1.82	0.06	0.02
+Solomon Islands	1996	1.97	0.09	0.27
+Solomon Islands	1997	2.04	0.17	0.39
+Solomon Islands	1998	2.04	0.18	0.51
+Solomon Islands	1999	2.05	0.27	0.49
+Solomon Islands	2000	1.88	0.28	0.48
+Solomon Islands	2001	1.76	0.23	0.47
+Solomon Islands	2002	1.53	0.23	0.5
+Solomon Islands	2003	1.4	0.24	0.56
+Solomon Islands	2004	1.52	0.66	0.65
+Solomon Islands	2005	1.58	1.28	0.84
+Solomon Islands	2006	1.57	1.45	1.65
+Solomon Islands	2007	1.57	2.2	2
+Solomon Islands	2008	1.57	5.88	3
+Solomon Islands	2009	1.56	9.54	4
+Solomon Islands	2010	1.56	21.46	5
+Solomon Islands	2011	1.52	49.77	6
+Solomon Islands	2012	1.42	53.34	7
+Solomon Islands	2013	NA	NA	NA
+Somalia	1990	0.23	0	0
+Somalia	1991	0.23	0	NA
+Somalia	1992	0.23	0	NA
+Somalia	1993	0.23	0	NA
+Somalia	1994	0.23	0	NA
+Somalia	1995	0.23	0	0
+Somalia	1996	0.23	0	0
+Somalia	1997	0.22	0	0
+Somalia	1998	0.33	0	0.01
+Somalia	1999	0.33	0	0.01
+Somalia	2000	0.34	1.08	0.02
+Somalia	2001	0.46	1.12	0.08
+Somalia	2002	0.45	1.28	0.12
+Somalia	2003	1.25	2.51	0.38
+Somalia	2004	1.22	6.12	1.05
+Somalia	2005	1.2	5.98	1.08
+Somalia	2006	1.17	6.43	1.1
+Somalia	2007	1.15	6.87	1.12
+Somalia	2008	1.12	7.03	1.14
+Somalia	2009	1.1	7.03	1.16
+Somalia	2010	1.07	6.95	NA
+Somalia	2011	1.05	6.85	1.25
+Somalia	2012	1.02	6.72	1.38
+Somalia	2013	NA	NA	NA
+South Africa	1990	9.01	0.02	0
+South Africa	1991	9.11	0.02	0.01
+South Africa	1992	8.95	0.03	0.04
+South Africa	1993	9.07	0.1	0.11
+South Africa	1994	9.31	0.84	0.25
+South Africa	1995	9.67	1.29	0.68
+South Africa	1996	10.1	2.26	0.84
+South Africa	1997	10.83	4.28	1.63
+South Africa	1998	11.66	7.67	2.91
+South Africa	1999	12.44	11.75	4.12
+South Africa	2000	11.09	18.63	5.35
+South Africa	2001	10.85	23.77	6.35
+South Africa	2002	10.53	29.78	6.71
+South Africa	2003	10.34	36.16	7.01
+South Africa	2004	10.27	44.13	8.43
+South Africa	2005	9.89	71.06	7.49
+South Africa	2006	9.6	82.06	7.61
+South Africa	2007	9.28	86.6	8.07
+South Africa	2008	8.97	91.24	8.43
+South Africa	2009	8.68	93.34	10
+South Africa	2010	8.43	100.48	24
+South Africa	2011	8.18	126.83	33.97
+South Africa	2012	7.94	134.8	41
+South Africa	2013	NA	NA	NA
+South Sudan	1990	NA	NA	NA
+South Sudan	1991	NA	NA	NA
+South Sudan	1992	NA	NA	NA
+South Sudan	1993	NA	NA	NA
+South Sudan	1994	NA	NA	NA
+South Sudan	1995	NA	NA	NA
+South Sudan	1996	NA	NA	NA
+South Sudan	1997	NA	NA	NA
+South Sudan	1998	NA	NA	NA
+South Sudan	1999	NA	NA	NA
+South Sudan	2000	NA	NA	NA
+South Sudan	2001	NA	NA	NA
+South Sudan	2002	NA	NA	NA
+South Sudan	2003	NA	NA	NA
+South Sudan	2004	NA	NA	NA
+South Sudan	2005	NA	NA	NA
+South Sudan	2006	NA	NA	NA
+South Sudan	2007	NA	NA	NA
+South Sudan	2008	NA	NA	NA
+South Sudan	2009	NA	NA	NA
+South Sudan	2010	NA	NA	NA
+South Sudan	2011	NA	NA	NA
+South Sudan	2012	0	18.82	NA
+South Sudan	2013	NA	NA	NA
+Spain	1990	32.41	0.14	0.01
+Spain	1991	34.03	0.28	0.03
+Spain	1992	35.29	0.46	0.08
+Spain	1993	36.36	0.66	0.13
+Spain	1994	37.35	1.05	0.28
+Spain	1995	38.29	2.4	0.38
+Spain	1996	39	7.59	1.33
+Spain	1997	40.03	10.95	2.8
+Spain	1998	40.99	16.2	4.36
+Spain	1999	41.25	37.56	7.09
+Spain	2000	42.45	60.23	13.62
+Spain	2001	43	72.74	18.15
+Spain	2002	42.65	81.06	20.39
+Spain	2003	42.24	88.53	39.93
+Spain	2004	41.97	90.38	44.01
+Spain	2005	44.85	98.38	47.88
+Spain	2006	45.13	103.81	50.37
+Spain	2007	45.27	108.56	55.11
+Spain	2008	45.58	109.92	59.6
+Spain	2009	44.36	111.86	62.4
+Spain	2010	43.86	111.53	65.8
+Spain	2011	42.77	113.22	67.6
+Spain	2012	41.09	108.32	72
+Spain	2013	NA	NA	NA
+Sri Lanka	1990	0.7	0.01	0
+Sri Lanka	1991	0.72	0.01	NA
+Sri Lanka	1992	0.76	0.01	NA
+Sri Lanka	1993	0.88	0.08	NA
+Sri Lanka	1994	1	0.16	0
+Sri Lanka	1995	1.12	0.28	0.01
+Sri Lanka	1996	1.39	0.39	0.05
+Sri Lanka	1997	1.85	0.62	0.16
+Sri Lanka	1998	2.83	0.94	0.3
+Sri Lanka	1999	3.6	1.38	0.35
+Sri Lanka	2000	4.09	2.3	0.65
+Sri Lanka	2001	4.37	3.53	0.79
+Sri Lanka	2002	4.62	4.87	1.05
+Sri Lanka	2003	4.85	7.19	1.46
+Sri Lanka	2004	5.05	11.28	1.45
+Sri Lanka	2005	6.27	16.94	1.79
+Sri Lanka	2006	9.39	26.98	2.54
+Sri Lanka	2007	13.53	39.38	3.88
+Sri Lanka	2008	16.83	54.13	5.8
+Sri Lanka	2009	16.62	78.89	8.78
+Sri Lanka	2010	17.15	83.22	12
+Sri Lanka	2011	17.15	87.05	15
+Sri Lanka	2012	16.25	95.76	18.29
+Sri Lanka	2013	NA	NA	NA
+State of Palestine	1990	NA	0	0
+State of Palestine	1991	NA	NA	NA
+State of Palestine	1992	3.22	0	NA
+State of Palestine	1993	3.17	0	NA
+State of Palestine	1994	3.16	0	NA
+State of Palestine	1995	3.08	NA	NA
+State of Palestine	1996	3.07	NA	NA
+State of Palestine	1997	3.89	NA	NA
+State of Palestine	1998	5.62	NA	NA
+State of Palestine	1999	7.18	NA	NA
+State of Palestine	2000	8.51	0.22	1.11
+State of Palestine	2001	7.77	5.36	1.84
+State of Palestine	2002	7.21	7.5	3.1
+State of Palestine	2003	7.12	7.72	4.13
+State of Palestine	2004	7.79	12.53	4.4
+State of Palestine	2005	9.48	15.96	16.01
+State of Palestine	2006	8.85	22.59	18.41
+State of Palestine	2007	9.36	27.4	21.18
+State of Palestine	2008	9.27	34.35	24.36
+State of Palestine	2009	9.37	45.79	32.23
+State of Palestine	2010	8.92	64.46	37.4
+State of Palestine	2011	9.22	69.48	41.08
+State of Palestine	2012	9.51	71.2	NA
+State of Palestine	2013	NA	NA	NA
+Sudan	1990	0.23	0	0
+Sudan	1991	0.23	0	NA
+Sudan	1992	0.23	0	NA
+Sudan	1993	0.22	0	NA
+Sudan	1994	0.22	0	0
+Sudan	1995	0.25	0	0
+Sudan	1996	0.32	0.01	0
+Sudan	1997	0.35	0.01	0
+Sudan	1998	0.5	0.03	0
+Sudan	1999	0.75	0.04	0.01
+Sudan	2000	1.13	0.07	0.03
+Sudan	2001	1.28	0.3	0.14
+Sudan	2002	1.88	0.53	0.44
+Sudan	2003	2.56	1.44	0.54
+Sudan	2004	2.74	2.8	0.79
+Sudan	2005	1.48	4.76	1.29
+Sudan	2006	1.27	11.9	NA
+Sudan	2007	0.85	20.36	8.66
+Sudan	2008	0.88	28.95	NA
+Sudan	2009	0.87	36.11	NA
+Sudan	2010	1.25	41.54	16.7
+Sudan	2011	1.08	56.14	19
+Sudan	2012	0.93	60.49	21
+Sudan	2013	NA	NA	NA
+Sudan (former)	1990	NA	NA	NA
+Sudan (former)	1991	NA	NA	NA
+Sudan (former)	1992	NA	NA	NA
+Sudan (former)	1993	NA	NA	NA
+Sudan (former)	1994	NA	NA	NA
+Sudan (former)	1995	NA	NA	NA
+Sudan (former)	1996	NA	NA	NA
+Sudan (former)	1997	NA	NA	NA
+Sudan (former)	1998	NA	NA	NA
+Sudan (former)	1999	NA	NA	NA
+Sudan (former)	2000	NA	NA	NA
+Sudan (former)	2001	NA	NA	NA
+Sudan (former)	2002	NA	NA	NA
+Sudan (former)	2003	NA	NA	NA
+Sudan (former)	2004	NA	NA	NA
+Sudan (former)	2005	NA	NA	NA
+Sudan (former)	2006	NA	NA	NA
+Sudan (former)	2007	NA	NA	NA
+Sudan (former)	2008	NA	NA	NA
+Sudan (former)	2009	NA	NA	NA
+Sudan (former)	2010	NA	NA	NA
+Sudan (former)	2011	NA	NA	NA
+Sudan (former)	2012	NA	NA	NA
+Sudan (former)	2013	NA	NA	NA
+Suriname	1990	9.01	0	0
+Suriname	1991	9.81	0	NA
+Suriname	1992	10.39	0	NA
+Suriname	1993	11.13	0.25	NA
+Suriname	1994	11.77	0.32	NA
+Suriname	1995	12.42	0.39	0.11
+Suriname	1996	12.86	0.55	0.23
+Suriname	1997	14.26	0.5	1
+Suriname	1998	14.82	1.32	1.67
+Suriname	1999	15.39	3.8	1.89
+Suriname	2000	16.13	8.79	2.51
+Suriname	2001	16.34	18.38	3.06
+Suriname	2002	16.39	22.57	4.16
+Suriname	2003	16.4	34.62	4.72
+Suriname	2004	16.57	43.15	6.08
+Suriname	2005	16.23	46.62	6.4
+Suriname	2006	16.14	63.38	9.5
+Suriname	2007	16.07	74.49	14.11
+Suriname	2008	16.11	127.58	21.06
+Suriname	2009	16.11	146.95	31.36
+Suriname	2010	16.19	169.64	31.59
+Suriname	2011	15.86	178.88	32
+Suriname	2012	15.54	182.9	34.68
+Suriname	2013	NA	NA	NA
+Swaziland	1990	1.58	0	0
+Swaziland	1991	1.62	0	NA
+Swaziland	1992	1.67	0	NA
+Swaziland	1993	1.76	0	NA
+Swaziland	1994	1.93	0	NA
+Swaziland	1995	2.19	0	0
+Swaziland	1996	2.3	0	0.05
+Swaziland	1997	2.49	0	0.09
+Swaziland	1998	2.82	0.46	0.1
+Swaziland	1999	2.99	1.34	0.47
+Swaziland	2000	2.99	3.1	0.93
+Swaziland	2001	3.14	5.12	1.28
+Swaziland	2002	3.24	6.28	1.82
+Swaziland	2003	4.24	7.81	2.44
+Swaziland	2004	4.06	13.24	3.23
+Swaziland	2005	3.99	18.1	3.7
+Swaziland	2006	3.96	22.37	3.7
+Swaziland	2007	3.96	33.54	4.1
+Swaziland	2008	3.93	46.22	6.85
+Swaziland	2009	3.87	56.87	8.94
+Swaziland	2010	4.47	61.19	11.04
+Swaziland	2011	6.3	63.7	18.13
+Swaziland	2012	3.99	65.96	20.78
+Swaziland	2013	NA	NA	NA
+Sweden	1990	68.34	5.39	0.58
+Sweden	1991	69.13	6.59	1.16
+Sweden	1992	68.32	7.56	1.5
+Sweden	1993	67.63	8.86	1.72
+Sweden	1994	67.88	15.71	3.41
+Sweden	1995	68.12	22.75	5.1
+Sweden	1996	68.18	28.17	9.04
+Sweden	1997	70.64	35.79	23.73
+Sweden	1998	72.17	46.42	33.47
+Sweden	1999	68.83	57.9	41.43
+Sweden	2000	68.35	71.92	45.69
+Sweden	2001	67.07	80.86	51.77
+Sweden	2002	65.71	89.3	70.57
+Sweden	2003	64.69	98.5	79.13
+Sweden	2004	63.36	97.85	83.89
+Sweden	2005	62.41	100.83	84.83
+Sweden	2006	61.02	105.68	87.76
+Sweden	2007	60.03	110.43	82.01
+Sweden	2008	57.79	108.41	90
+Sweden	2009	55.2	112.12	91
+Sweden	2010	50.48	117.19	90
+Sweden	2011	47.48	121.33	94
+Sweden	2012	45.51	122.62	94
+Sweden	2013	NA	NA	NA
+Switzerland	1990	59.08	1.87	0.6
+Switzerland	1991	60.54	2.59	1.18
+Switzerland	1992	61.41	3.16	1.75
+Switzerland	1993	61.9	3.74	2.17
+Switzerland	1994	61.16	4.77	2.72
+Switzerland	1995	63.83	6.37	3.55
+Switzerland	1996	64.74	9.39	4.55
+Switzerland	1997	66.12	14.73	15.1
+Switzerland	1998	68.66	23.88	24.8
+Switzerland	1999	70.98	42.84	34
+Switzerland	2000	73.04	64.71	47.1
+Switzerland	2001	74.69	73.19	55.1
+Switzerland	2002	74.26	79.07	61.4
+Switzerland	2003	72.85	84.7	65.1
+Switzerland	2004	71.37	85.24	67.8
+Switzerland	2005	69.45	92.17	70.1
+Switzerland	2006	67.24	99.57	75.7
+Switzerland	2007	65.51	109.14	77.2
+Switzerland	2008	63.75	117.48	79.2
+Switzerland	2009	61.73	122.32	81.3
+Switzerland	2010	60.69	125.83	83.9
+Switzerland	2011	59.84	130.91	85.2
+Switzerland	2012	56.66	135.25	85.2
+Switzerland	2013	NA	NA	NA
+Syrian Arab Republic	1990	4.03	0	0
+Syrian Arab Republic	1991	3.96	0	0
+Syrian Arab Republic	1992	3.93	0	0
+Syrian Arab Republic	1993	4.22	0	0
+Syrian Arab Republic	1994	4.97	0	0
+Syrian Arab Republic	1995	6.76	0	0
+Syrian Arab Republic	1996	8.26	0	0
+Syrian Arab Republic	1997	8.84	0	0.03
+Syrian Arab Republic	1998	9.72	0	0.06
+Syrian Arab Republic	1999	10.28	0.03	0.12
+Syrian Arab Republic	2000	10.48	0.19	0.18
+Syrian Arab Republic	2001	11.04	1.22	0.35
+Syrian Arab Republic	2002	12.35	2.36	2.09
+Syrian Arab Republic	2003	13.78	6.78	3.4
+Syrian Arab Republic	2004	14.76	13.03	4.32
+Syrian Arab Republic	2005	15.71	15.96	5.65
+Syrian Arab Republic	2006	17.14	24.71	7.83
+Syrian Arab Republic	2007	17.87	32.27	NA
+Syrian Arab Republic	2008	18.45	35.83	14
+Syrian Arab Republic	2009	19.3	49.98	17.3
+Syrian Arab Republic	2010	19.94	57.81	20.7
+Syrian Arab Republic	2011	20.92	63.17	22.5
+Syrian Arab Republic	2012	20.95	61.22	24.3
+Syrian Arab Republic	2013	NA	NA	NA
+Tajikistan	1990	4.53	0	0
+Tajikistan	1991	4.75	0	NA
+Tajikistan	1992	4.84	0	NA
+Tajikistan	1993	4.73	0	NA
+Tajikistan	1994	4.71	0	NA
+Tajikistan	1995	4.55	0	NA
+Tajikistan	1996	4.21	0	NA
+Tajikistan	1997	3.79	0.01	NA
+Tajikistan	1998	3.67	0.01	NA
+Tajikistan	1999	3.48	0.01	0.03
+Tajikistan	2000	3.54	0.02	0.05
+Tajikistan	2001	3.64	0.03	0.05
+Tajikistan	2002	3.78	0.21	0.06
+Tajikistan	2003	3.87	0.75	0.06
+Tajikistan	2004	4.28	2.11	0.08
+Tajikistan	2005	4.34	4.11	0.3
+Tajikistan	2006	NA	32.95	3.77
+Tajikistan	2007	4.43	32.29	7.2
+Tajikistan	2008	4.29	54.9	8.78
+Tajikistan	2009	5.12	72.24	10.07
+Tajikistan	2010	5.35	86.37	11.55
+Tajikistan	2011	5.45	90.64	13.03
+Tajikistan	2012	5.55	92.22	14.51
+Tajikistan	2013	NA	NA	NA
+Thailand	1990	2.32	0.11	0
+Thailand	1991	2.69	0.21	0
+Thailand	1992	3.07	0.43	0
+Thailand	1993	3.77	0.7	0.01
+Thailand	1994	4.65	1.25	0.04
+Thailand	1995	5.84	2.18	0.07
+Thailand	1996	6.9	3.06	0.12
+Thailand	1997	7.92	3.62	0.36
+Thailand	1998	8.17	3.21	1.09
+Thailand	1999	8.36	3.75	2.43
+Thailand	2000	8.85	4.84	3.69
+Thailand	2001	9.47	11.82	5.56
+Thailand	2002	10.14	26.99	7.53
+Thailand	2003	10.15	33.07	9.3
+Thailand	2004	10.31	40.82	10.68
+Thailand	2005	10.55	45.67	15.03
+Thailand	2006	10.51	59.64	17.16
+Thailand	2007	10.36	78.14	20.03
+Thailand	2008	10.83	90.58	18.2
+Thailand	2009	10.49	95.99	20.1
+Thailand	2010	10.02	103.77	22.4
+Thailand	2011	9.58	111.63	23.7
+Thailand	2012	9.14	120.29	26.5
+Thailand	2013	NA	NA	NA
+The former Yugoslav Republic of Macedonia	1990	14.96	0	0
+The former Yugoslav Republic of Macedonia	1991	15.08	0	NA
+The former Yugoslav Republic of Macedonia	1992	16.15	0	NA
+The former Yugoslav Republic of Macedonia	1993	16.68	0	NA
+The former Yugoslav Republic of Macedonia	1994	17.26	0	NA
+The former Yugoslav Republic of Macedonia	1995	17.88	0	0.04
+The former Yugoslav Republic of Macedonia	1996	18.61	0.05	0.08
+The former Yugoslav Republic of Macedonia	1997	20.56	0.62	0.5
+The former Yugoslav Republic of Macedonia	1998	22.04	1.51	1
+The former Yugoslav Republic of Macedonia	1999	23.54	2.44	1.5
+The former Yugoslav Republic of Macedonia	2000	25.25	5.76	2.49
+The former Yugoslav Republic of Macedonia	2001	26.71	11.07	3.47
+The former Yugoslav Republic of Macedonia	2002	27.69	18.07	17.33
+The former Yugoslav Republic of Macedonia	2003	25.89	38.27	19.07
+The former Yugoslav Republic of Macedonia	2004	26.41	48.48	24.44
+The former Yugoslav Republic of Macedonia	2005	26.18	55.49	26.45
+The former Yugoslav Republic of Macedonia	2006	24.03	61.86	28.62
+The former Yugoslav Republic of Macedonia	2007	22.64	87.62	36.3
+The former Yugoslav Republic of Macedonia	2008	22.27	95.86	46.04
+The former Yugoslav Republic of Macedonia	2009	21.26	94.48	51.77
+The former Yugoslav Republic of Macedonia	2010	20.05	104.51	51.9
+The former Yugoslav Republic of Macedonia	2011	20.45	107.24	56.7
+The former Yugoslav Republic of Macedonia	2012	19.74	108.16	63.15
+The former Yugoslav Republic of Macedonia	2013	NA	NA	NA
+Timor-Leste	1990	NA	0	0
+Timor-Leste	1991	NA	NA	NA
+Timor-Leste	1992	NA	NA	NA
+Timor-Leste	1993	NA	NA	NA
+Timor-Leste	1994	NA	NA	NA
+Timor-Leste	1995	NA	NA	NA
+Timor-Leste	1996	NA	NA	NA
+Timor-Leste	1997	NA	NA	NA
+Timor-Leste	1998	NA	NA	NA
+Timor-Leste	1999	NA	NA	NA
+Timor-Leste	2000	NA	NA	NA
+Timor-Leste	2001	NA	NA	NA
+Timor-Leste	2002	NA	NA	0
+Timor-Leste	2003	0.21	2.15	NA
+Timor-Leste	2004	0.22	2.64	NA
+Timor-Leste	2005	0.23	3.27	0.1
+Timor-Leste	2006	0.24	4.73	0.12
+Timor-Leste	2007	0.23	7.37	0.14
+Timor-Leste	2008	0.24	11.58	0.16
+Timor-Leste	2009	0.26	31.9	0.19
+Timor-Leste	2010	0.26	42.07	0.21
+Timor-Leste	2011	0.26	53.23	0.9
+Timor-Leste	2012	0.25	52.31	0.91
+Timor-Leste	2013	NA	NA	NA
+Togo	1990	0.29	0	0
+Togo	1991	0.29	0	0
+Togo	1992	0.4	0	0
+Togo	1993	0.44	0	0
+Togo	1994	0.54	0	0
+Togo	1995	0.53	0	0
+Togo	1996	0.57	0	0.01
+Togo	1997	0.58	0.07	0.21
+Togo	1998	0.7	0.17	0.31
+Togo	1999	0.82	0.37	0.59
+Togo	2000	0.89	1.04	0.8
+Togo	2001	0.98	1.93	0.9
+Togo	2002	1.01	3.27	1
+Togo	2003	1.18	4.71	1.2
+Togo	2004	1.25	6.29	1.5
+Togo	2005	1.16	8.02	1.8
+Togo	2006	1.48	12.8	2
+Togo	2007	1.76	21.06	2.2
+Togo	2008	2.44	26.82	2.4
+Togo	2009	3.03	37.06	2.6
+Togo	2010	3.54	40.69	3
+Togo	2011	3.57	50.45	3.5
+Togo	2012	3.58	55.99	4
+Togo	2013	NA	NA	NA
+Tokelau	1990	NA	0	0
+Tokelau	1991	NA	0	NA
+Tokelau	1992	NA	0	NA
+Tokelau	1993	NA	0	NA
+Tokelau	1994	NA	0	NA
+Tokelau	1995	NA	0	NA
+Tokelau	1996	NA	0	NA
+Tokelau	1997	13.57	0	NA
+Tokelau	1998	16.6	0	NA
+Tokelau	1999	15.6	0	NA
+Tokelau	2000	14.82	0	NA
+Tokelau	2001	19.95	0	NA
+Tokelau	2002	19.55	NA	NA
+Tokelau	2003	19.27	0	1.5
+Tokelau	2004	21.24	0	NA
+Tokelau	2005	22.31	0	NA
+Tokelau	2006	25.64	NA	NA
+Tokelau	2007	26.13	NA	NA
+Tokelau	2008	26.34	NA	NA
+Tokelau	2009	26.41	NA	NA
+Tokelau	2010	26.43	NA	NA
+Tokelau	2011	NA	NA	NA
+Tokelau	2012	NA	NA	NA
+Tokelau	2013	NA	NA	NA
+Tonga	1990	4.61	0	0
+Tonga	1991	5.33	0	NA
+Tonga	1992	5.75	0	NA
+Tonga	1993	6.19	0	NA
+Tonga	1994	6.76	0	NA
+Tonga	1995	6.89	0.31	0.12
+Tonga	1996	8.09	0.31	0.16
+Tonga	1997	7.56	0.12	0.51
+Tonga	1998	8.77	0.13	0.77
+Tonga	1999	9.34	0.14	1.02
+Tonga	2000	9.9	0.18	2.43
+Tonga	2001	10.97	0.24	2.83
+Tonga	2002	11.31	3.39	2.91
+Tonga	2003	12.04	11.24	2.99
+Tonga	2004	12.96	16.35	3.95
+Tonga	2005	13.62	29.6	4.91
+Tonga	2006	18.16	29.58	5.85
+Tonga	2007	20.57	45.5	7.18
+Tonga	2008	24.81	49.04	8.11
+Tonga	2009	29.95	51.2	10
+Tonga	2010	29.79	52.18	16
+Tonga	2011	28.71	52.63	25
+Tonga	2012	28.6	53.39	34.86
+Tonga	2013	NA	NA	NA
+Trinidad and Tobago	1990	13.57	0	0
+Trinidad and Tobago	1991	14.21	0.03	NA
+Trinidad and Tobago	1992	14.6	0.1	NA
+Trinidad and Tobago	1993	15.48	0.14	NA
+Trinidad and Tobago	1994	16.27	0.21	NA
+Trinidad and Tobago	1995	16.59	0.5	0.16
+Trinidad and Tobago	1996	17.3	0.75	0.39
+Trinidad and Tobago	1997	19.08	1.34	1.17
+Trinidad and Tobago	1998	20.61	2.05	2.72
+Trinidad and Tobago	1999	21.67	3	5.81
+Trinidad and Tobago	2000	24.52	12.53	7.72
+Trinidad and Tobago	2001	24.04	19.75	15.38
+Trinidad and Tobago	2002	24.45	20.19	22
+Trinidad and Tobago	2003	24.42	25.75	25.97
+Trinidad and Tobago	2004	24.59	49.69	27.02
+Trinidad and Tobago	2005	24.5	70.25	28.98
+Trinidad and Tobago	2006	24.65	115.02	30
+Trinidad and Tobago	2007	23.18	113.89	32.3
+Trinidad and Tobago	2008	23.65	135.69	34.8
+Trinidad and Tobago	2009	22.69	138.16	44.3
+Trinidad and Tobago	2010	21.87	141.21	48.5
+Trinidad and Tobago	2011	21.69	135.64	55.2
+Trinidad and Tobago	2012	21.21	139.43	59.52
+Trinidad and Tobago	2013	NA	NA	NA
+Tunisia	1990	3.69	0.01	0
+Tunisia	1991	3.96	0.01	NA
+Tunisia	1992	4.4	0.02	NA
+Tunisia	1993	4.86	0.03	NA
+Tunisia	1994	5.38	0.03	0.01
+Tunisia	1995	5.84	0.04	0.01
+Tunisia	1996	6.45	0.07	0.03
+Tunisia	1997	7.14	0.08	0.04
+Tunisia	1998	8.12	0.42	0.11
+Tunisia	1999	9.08	0.59	1.6
+Tunisia	2000	10.1	1.26	2.75
+Tunisia	2001	11.06	4.08	4.3
+Tunisia	2002	11.92	5.96	5.25
+Tunisia	2003	11.97	19.72	6.49
+Tunisia	2004	12.26	38.06	8.53
+Tunisia	2005	12.69	57.31	9.66
+Tunisia	2006	12.66	73.26	12.99
+Tunisia	2007	12.57	77.42	17.1
+Tunisia	2008	12.09	83.95	27.53
+Tunisia	2009	12.34	94.52	34.07
+Tunisia	2010	12.3	106.04	36.8
+Tunisia	2011	11.49	116.93	39.1
+Tunisia	2012	10.33	119.96	41.44
+Tunisia	2013	NA	NA	NA
+Turkey	1990	12.68	0.06	0
+Turkey	1991	14.8	0.09	NA
+Turkey	1992	16.8	0.11	NA
+Turkey	1993	19.2	0.15	0.01
+Turkey	1994	21.09	0.3	0.05
+Turkey	1995	22.3	0.74	0.08
+Turkey	1996	23.88	1.35	0.19
+Turkey	1997	25.63	2.65	0.47
+Turkey	1998	27.22	5.68	0.7
+Turkey	1999	28.57	12.95	2.29
+Turkey	2000	28.91	25.36	3.76
+Turkey	2001	29.29	30.32	5.19
+Turkey	2002	28.86	35.64	11.38
+Turkey	2003	28.52	42.04	12.33
+Turkey	2004	28.44	51.62	14.58
+Turkey	2005	27.85	64	15.46
+Turkey	2006	27.27	76.25	18.24
+Turkey	2007	26	88.55	28.63
+Turkey	2008	24.68	92.81	34.37
+Turkey	2009	23.01	87.38	36.4
+Turkey	2010	22.27	84.9	39.82
+Turkey	2011	20.66	88.7	43.07
+Turkey	2012	18.6	90.84	45.13
+Turkey	2013	NA	NA	NA
+Turkmenistan	1990	6	0	0
+Turkmenistan	1991	6.29	0	NA
+Turkmenistan	1992	6.41	0	NA
+Turkmenistan	1993	6.64	0	NA
+Turkmenistan	1994	7.44	0	NA
+Turkmenistan	1995	7.65	0	NA
+Turkmenistan	1996	7.92	0	NA
+Turkmenistan	1997	8.16	0.06	NA
+Turkmenistan	1998	8.05	0.07	NA
+Turkmenistan	1999	8.07	0.09	0.05
+Turkmenistan	2000	8.1	0.17	0.13
+Turkmenistan	2001	8.52	0.18	0.18
+Turkmenistan	2002	8.13	0.18	0.3
+Turkmenistan	2003	8.09	0.2	0.43
+Turkmenistan	2004	8.26	1.07	0.75
+Turkmenistan	2005	8.38	2.21	1
+Turkmenistan	2006	8.83	4.52	1.32
+Turkmenistan	2007	9.43	7.86	1.41
+Turkmenistan	2008	9.71	23.08	1.75
+Turkmenistan	2009	9.93	42.83	1.95
+Turkmenistan	2010	10.31	63.42	3
+Turkmenistan	2011	10.71	68.77	5
+Turkmenistan	2012	11.12	76.47	7.2
+Turkmenistan	2013	NA	NA	NA
+Turks and Caicos Islands	1990	NA	0	0
+Turks and Caicos Islands	1991	NA	0	NA
+Turks and Caicos Islands	1992	24.61	0	NA
+Turks and Caicos Islands	1993	23.35	0	NA
+Turks and Caicos Islands	1994	22.53	0	NA
+Turks and Caicos Islands	1995	24.24	0	NA
+Turks and Caicos Islands	1996	25.55	0	NA
+Turks and Caicos Islands	1997	27.16	NA	NA
+Turks and Caicos Islands	1998	14.38	NA	NA
+Turks and Caicos Islands	1999	16.04	NA	NA
+Turks and Caicos Islands	2000	17.99	NA	NA
+Turks and Caicos Islands	2001	18.44	NA	NA
+Turks and Caicos Islands	2002	15.76	39.28	NA
+Turks and Caicos Islands	2003	14.5	75.56	NA
+Turks and Caicos Islands	2004	13.19	88.98	NA
+Turks and Caicos Islands	2005	12.12	NA	NA
+Turks and Caicos Islands	2006	11.35	NA	NA
+Turks and Caicos Islands	2007	10.75	NA	NA
+Turks and Caicos Islands	2008	10.29	NA	NA
+Turks and Caicos Islands	2009	9.93	NA	NA
+Turks and Caicos Islands	2010	9.65	NA	NA
+Turks and Caicos Islands	2011	NA	NA	NA
+Turks and Caicos Islands	2012	10.06	NA	NA
+Turks and Caicos Islands	2013	NA	NA	NA
+Tuvalu	1990	1.33	0	0
+Tuvalu	1991	1.33	0	NA
+Tuvalu	1992	1.38	0	NA
+Tuvalu	1993	1.64	0	NA
+Tuvalu	1994	5.37	0	NA
+Tuvalu	1995	5.46	0	NA
+Tuvalu	1996	5.44	0	NA
+Tuvalu	1997	5.46	0	NA
+Tuvalu	1998	6.43	0	NA
+Tuvalu	1999	6.72	0	NA
+Tuvalu	2000	7.01	0	5.24
+Tuvalu	2001	6.86	0	NA
+Tuvalu	2002	6.93	0	NA
+Tuvalu	2003	7.3	0	NA
+Tuvalu	2004	7.78	5.18	NA
+Tuvalu	2005	9.18	13.41	NA
+Tuvalu	2006	11.3	16.44	NA
+Tuvalu	2007	13.32	18.44	10
+Tuvalu	2008	10.22	NA	15
+Tuvalu	2009	8.16	10.2	20
+Tuvalu	2010	12.21	16.28	25
+Tuvalu	2011	14.73	21.63	30
+Tuvalu	2012	14.7	28.38	35
+Tuvalu	2013	NA	NA	NA
+Uganda	1990	0.16	0	0
+Uganda	1991	0.16	0	NA
+Uganda	1992	0.16	0	NA
+Uganda	1993	0.11	0	NA
+Uganda	1994	0.15	0	NA
+Uganda	1995	0.19	0.01	0
+Uganda	1996	0.22	0.02	0
+Uganda	1997	0.24	0.02	0.01
+Uganda	1998	0.25	0.13	0.07
+Uganda	1999	0.24	0.24	0.11
+Uganda	2000	0.25	0.52	0.16
+Uganda	2001	0.22	1.13	0.24
+Uganda	2002	0.21	1.52	0.38
+Uganda	2003	0.23	2.91	0.46
+Uganda	2004	0.26	4.23	0.72
+Uganda	2005	0.31	4.63	1.74
+Uganda	2006	0.37	6.84	2.53
+Uganda	2007	0.55	13.83	3.67
+Uganda	2008	0.54	27.3	7.9
+Uganda	2009	0.72	28.99	9.78
+Uganda	2010	0.98	38.38	12.5
+Uganda	2011	1.35	48.38	13.01
+Uganda	2012	0.88	45.92	14.69
+Uganda	2013	NA	NA	NA
+Ukraine	1990	13.61	0	0
+Ukraine	1991	14.21	0	NA
+Ukraine	1992	14.68	0	NA
+Ukraine	1993	15.17	0	0
+Ukraine	1994	15.7	0.01	0.01
+Ukraine	1995	16.26	0.03	0.04
+Ukraine	1996	18.2	0.06	0.1
+Ukraine	1997	18.69	0.11	0.2
+Ukraine	1998	19.45	0.23	0.3
+Ukraine	1999	20.41	0.44	0.41
+Ukraine	2000	21.31	1.67	0.72
+Ukraine	2001	22.02	4.59	1.24
+Ukraine	2002	22.55	7.69	1.87
+Ukraine	2003	23.32	13.64	3.15
+Ukraine	2004	25.68	29.05	3.49
+Ukraine	2005	24.86	63.96	3.75
+Ukraine	2006	26.61	105.33	4.51
+Ukraine	2007	27.89	119.36	6.55
+Ukraine	2008	28.65	121.07	11
+Ukraine	2009	28.49	120.19	17.9
+Ukraine	2010	28.47	118.66	23.3
+Ukraine	2011	28.06	122.98	28.71
+Ukraine	2012	27.11	132.05	33.7
+Ukraine	2013	NA	NA	NA
+Union of Soviet Socialist Republics [former]	1990	NA	NA	NA
+Union of Soviet Socialist Republics [former]	1991	NA	NA	NA
+Union of Soviet Socialist Republics [former]	1992	NA	NA	NA
+Union of Soviet Socialist Republics [former]	1993	NA	NA	NA
+Union of Soviet Socialist Republics [former]	1994	NA	NA	NA
+Union of Soviet Socialist Republics [former]	1995	NA	NA	NA
+Union of Soviet Socialist Republics [former]	1996	NA	NA	NA
+Union of Soviet Socialist Republics [former]	1997	NA	NA	NA
+Union of Soviet Socialist Republics [former]	1998	NA	NA	NA
+Union of Soviet Socialist Republics [former]	1999	NA	NA	NA
+Union of Soviet Socialist Republics [former]	2000	NA	NA	NA
+Union of Soviet Socialist Republics [former]	2001	NA	NA	NA
+Union of Soviet Socialist Republics [former]	2002	NA	NA	NA
+Union of Soviet Socialist Republics [former]	2003	NA	NA	NA
+Union of Soviet Socialist Republics [former]	2004	NA	NA	NA
+Union of Soviet Socialist Republics [former]	2005	NA	NA	NA
+Union of Soviet Socialist Republics [former]	2006	NA	NA	NA
+Union of Soviet Socialist Republics [former]	2007	NA	NA	NA
+Union of Soviet Socialist Republics [former]	2008	NA	NA	NA
+Union of Soviet Socialist Republics [former]	2009	NA	NA	NA
+Union of Soviet Socialist Republics [former]	2010	NA	NA	NA
+Union of Soviet Socialist Republics [former]	2011	NA	NA	NA
+Union of Soviet Socialist Republics [former]	2012	NA	NA	NA
+Union of Soviet Socialist Republics [former]	2013	NA	NA	NA
+United Arab Emirates	1990	21.92	1.86	0
+United Arab Emirates	1991	22.91	2.25	NA
+United Arab Emirates	1992	24.41	2.43	NA
+United Arab Emirates	1993	26.07	3.33	NA
+United Arab Emirates	1994	27.55	4.1	NA
+United Arab Emirates	1995	28.63	5.49	0.1
+United Arab Emirates	1996	29.83	7.83	0.38
+United Arab Emirates	1997	31.98	11.85	3.3
+United Arab Emirates	1998	33.21	17.9	6.91
+United Arab Emirates	1999	33.66	28.73	14.94
+United Arab Emirates	2000	33.63	47.08	23.63
+United Arab Emirates	2001	33.43	60.62	26.27
+United Arab Emirates	2002	33.6	74.6	28.32
+United Arab Emirates	2003	33.4	87.4	29.48
+United Arab Emirates	2004	32.47	100.69	30.13
+United Arab Emirates	2005	30.39	111.42	40
+United Arab Emirates	2006	28.09	118.37	52
+United Arab Emirates	2007	25.63	143.03	61
+United Arab Emirates	2008	25.71	150.77	63
+United Arab Emirates	2009	22.77	153.8	64
+United Arab Emirates	2010	19.7	145.45	68
+United Arab Emirates	2011	23.13	148.62	78
+United Arab Emirates	2012	24.27	169.94	85
+United Arab Emirates	2013	NA	NA	NA
+United Kingdom	1990	44.34	1.95	0.09
+United Kingdom	1991	45.17	2.2	0.17
+United Kingdom	1992	46.09	2.62	0.26
+United Kingdom	1993	47.39	3.93	0.52
+United Kingdom	1994	49.03	6.81	1.04
+United Kingdom	1995	50.71	9.89	1.9
+United Kingdom	1996	52.75	12.46	4.12
+United Kingdom	1997	54.66	15.16	7.39
+United Kingdom	1998	56.13	25.44	13.67
+United Kingdom	1999	57.99	46.33	21.29
+United Kingdom	2000	59.84	73.8	26.82
+United Kingdom	2001	58.51	78.32	33.48
+United Kingdom	2002	58.54	82.96	56.48
+United Kingdom	2003	57.97	91.03	64.82
+United Kingdom	2004	57.73	99.66	65.61
+United Kingdom	2005	56.59	108.75	70
+United Kingdom	2006	55.91	115.76	68.82
+United Kingdom	2007	54.95	121.25	75.09
+United Kingdom	2008	55.8	125.24	78.39
+United Kingdom	2009	54.35	130.17	83.56
+United Kingdom	2010	53.85	130.76	85
+United Kingdom	2011	53.27	130.75	86.84
+United Kingdom	2012	52.57	130.75	87.02
+United Kingdom	2013	NA	NA	NA
+United Republic of Tanzania	1990	0.29	0	0
+United Republic of Tanzania	1991	0.29	0	NA
+United Republic of Tanzania	1992	0.3	0	NA
+United Republic of Tanzania	1993	0.3	0	NA
+United Republic of Tanzania	1994	0.3	0	NA
+United Republic of Tanzania	1995	0.3	0.01	NA
+United Republic of Tanzania	1996	0.3	0.03	0
+United Republic of Tanzania	1997	0.33	0.06	0.01
+United Republic of Tanzania	1998	0.38	0.12	0.01
+United Republic of Tanzania	1999	0.45	0.15	0.08
+United Republic of Tanzania	2000	0.51	0.32	0.12
+United Republic of Tanzania	2001	0.51	0.79	0.17
+United Republic of Tanzania	2002	0.45	1.69	0.22
+United Republic of Tanzania	2003	0.4	3.53	0.68
+United Republic of Tanzania	2004	0.39	5.14	0.88
+United Republic of Tanzania	2005	0.4	7.63	4.3
+United Republic of Tanzania	2006	0.38	14.05	5.8
+United Republic of Tanzania	2007	0.4	20.09	7.2
+United Republic of Tanzania	2008	0.29	30.77	9
+United Republic of Tanzania	2009	0.4	40.14	10
+United Republic of Tanzania	2010	0.39	46.8	11
+United Republic of Tanzania	2011	0.35	55.53	12
+United Republic of Tanzania	2012	0.37	57.12	13.08
+United Republic of Tanzania	2013	NA	NA	NA
+United States	1990	53.73	2.09	0.78
+United States	1991	54.5	2.95	1.16
+United States	1992	55.5	4.27	1.72
+United States	1993	56.79	6.14	2.27
+United States	1994	58.24	9.16	4.86
+United States	1995	59.95	12.69	9.24
+United States	1996	61.79	16.35	16.42
+United States	1997	63.77	20.29	21.62
+United States	1998	65.17	25.08	30.09
+United States	1999	67.85	30.81	35.85
+United States	2000	68.15	38.75	43.08
+United States	2001	67.09	45	49.08
+United States	2002	65.61	49.16	58.79
+United States	2003	62.8	55.15	61.7
+United States	2004	60.43	62.85	64.76
+United States	2005	59.01	68.63	67.97
+United States	2006	55.9	76.64	68.93
+United States	2007	52.41	82.47	75
+United States	2008	53.37	85.68	74
+United States	2009	49.68	89.14	71
+United States	2010	48.22	91.86	74
+United States	2011	45.84	95.28	77.86
+United States	2012	44.02	98.17	81.03
+United States	2013	NA	NA	NA
+United States Virgin Islands	1990	45.69	0	0
+United States Virgin Islands	1991	49.32	NA	NA
+United States Virgin Islands	1992	51.88	NA	NA
+United States Virgin Islands	1993	53.86	NA	NA
+United States Virgin Islands	1994	55.54	NA	0.94
+United States Virgin Islands	1995	54.49	NA	2.8
+United States Virgin Islands	1996	55.3	NA	4.65
+United States Virgin Islands	1997	57.59	14.83	6.95
+United States Virgin Islands	1998	59.97	23.12	9.25
+United States Virgin Islands	1999	62.07	27.7	11.07
+United States Virgin Islands	2000	62.93	32.25	13.82
+United States Virgin Islands	2001	63.83	37.71	18.38
+United States Virgin Islands	2002	63.68	41.45	27.49
+United States Virgin Islands	2003	63.87	45.18	27.43
+United States Virgin Islands	2004	64.87	58.75	27.38
+United States Virgin Islands	2005	65.56	73.43	27.34
+United States Virgin Islands	2006	66.27	NA	27.33
+United States Virgin Islands	2007	67.1	NA	27.34
+United States Virgin Islands	2008	67.87	NA	27.36
+United States Virgin Islands	2009	68.67	NA	27.4
+United States Virgin Islands	2010	69.51	NA	31.22
+United States Virgin Islands	2011	NA	NA	35.6
+United States Virgin Islands	2012	NA	NA	40.55
+United States Virgin Islands	2013	NA	NA	NA
+Uruguay	1990	13.36	0	0
+Uruguay	1991	14.42	0	NA
+Uruguay	1992	15.6	0.05	NA
+Uruguay	1993	16.69	0.16	NA
+Uruguay	1994	18.19	0.21	0.06
+Uruguay	1995	19.3	1.24	0.31
+Uruguay	1996	20.61	2.42	1.85
+Uruguay	1997	23.28	3.04	3.36
+Uruguay	1998	25.03	4.6	6.99
+Uruguay	1999	27.12	9.65	9.97
+Uruguay	2000	27.99	12.38	10.54
+Uruguay	2001	28.6	15.64	11.12
+Uruguay	2002	28.46	15.44	11.42
+Uruguay	2003	28.23	14.97	15.94
+Uruguay	2004	30.01	18.06	17.06
+Uruguay	2005	30.28	34.76	20.09
+Uruguay	2006	29.66	70.02	29.4
+Uruguay	2007	28.94	90.07	34
+Uruguay	2008	28.67	104.84	39.3
+Uruguay	2009	28.4	122.46	41.8
+Uruguay	2010	28.56	131.71	46.4
+Uruguay	2011	28.55	140.75	51.4
+Uruguay	2012	29.81	147.3	55.11
+Uruguay	2013	NA	NA	NA
+Uzbekistan	1990	6.84	0	0
+Uzbekistan	1991	6.94	0	NA
+Uzbekistan	1992	7.11	0	NA
+Uzbekistan	1993	7.02	0	NA
+Uzbekistan	1994	6.93	0	NA
+Uzbekistan	1995	6.74	0.02	0
+Uzbekistan	1996	6.56	0.04	0
+Uzbekistan	1997	6.49	0.07	0.01
+Uzbekistan	1998	6.37	0.11	0.02
+Uzbekistan	1999	6.54	0.17	0.03
+Uzbekistan	2000	6.68	0.21	0.48
+Uzbekistan	2001	6.64	0.51	0.6
+Uzbekistan	2002	6.65	0.74	1.08
+Uzbekistan	2003	6.74	1.26	1.91
+Uzbekistan	2004	6.81	2.12	2.59
+Uzbekistan	2005	6.91	2.77	3.34
+Uzbekistan	2006	7.03	9.65	6.39
+Uzbekistan	2007	6.88	21.47	7.49
+Uzbekistan	2008	6.9	46.16	9.08
+Uzbekistan	2009	6.84	60.52	17.06
+Uzbekistan	2010	6.89	76.34	20
+Uzbekistan	2011	6.94	91.65	30.2
+Uzbekistan	2012	6.99	72.21	36.52
+Uzbekistan	2013	NA	NA	NA
+Vanuatu	1990	1.77	0	0
+Vanuatu	1991	2.02	0	NA
+Vanuatu	1992	2.3	0	NA
+Vanuatu	1993	2.55	0	NA
+Vanuatu	1994	2.69	0.04	NA
+Vanuatu	1995	2.51	0.07	NA
+Vanuatu	1996	2.6	0.09	0.06
+Vanuatu	1997	2.74	0.12	0.14
+Vanuatu	1998	2.91	0.12	0.27
+Vanuatu	1999	3.03	0.17	0.54
+Vanuatu	2000	3.59	0.2	2.11
+Vanuatu	2001	3.57	0.18	2.83
+Vanuatu	2002	3.4	2.52	3.51
+Vanuatu	2003	3.27	3.9	3.9
+Vanuatu	2004	3.29	5.11	4.75
+Vanuatu	2005	3.3	6.01	5.08
+Vanuatu	2006	3.46	6.92	5.85
+Vanuatu	2007	3.97	11.69	6.8
+Vanuatu	2008	4.56	15.79	7.27
+Vanuatu	2009	3.09	56.32	7.5
+Vanuatu	2010	2.97	70.91	8
+Vanuatu	2011	2.54	55.76	9.2
+Vanuatu	2012	2.3	54.44	10.6
+Vanuatu	2013	NA	NA	NA
+Venezuela	1990	7.56	0.04	0
+Venezuela	1991	7.93	0.08	NA
+Venezuela	1992	8.88	0.38	0.01
+Venezuela	1993	9.87	0.87	0.04
+Venezuela	1994	10.82	1.48	0.06
+Venezuela	1995	11.18	1.83	0.12
+Venezuela	1996	11.85	2.59	0.25
+Venezuela	1997	12.21	4.67	0.39
+Venezuela	1998	11.07	8.58	1.38
+Venezuela	1999	10.68	15.84	2.84
+Venezuela	2000	10.42	22.37	3.36
+Venezuela	2001	10.9	26.09	4.64
+Venezuela	2002	11.24	25.88	4.91
+Venezuela	2003	11.49	27.26	7.5
+Venezuela	2004	12.77	32.14	8.4
+Venezuela	2005	13.69	46.86	12.55
+Venezuela	2006	15.54	69.26	15.22
+Venezuela	2007	18.83	86.33	20.83
+Venezuela	2008	22.87	97.71	25.88
+Venezuela	2009	24.08	98.61	32.7
+Venezuela	2010	24.44	96.21	37.37
+Venezuela	2011	24.91	97.78	40.22
+Venezuela	2012	25.59	102.1	44.05
+Venezuela	2013	NA	NA	NA
+Viet Nam	1990	0.15	0	0
+Viet Nam	1991	0.2	0	NA
+Viet Nam	1992	0.22	0	NA
+Viet Nam	1993	0.36	0.01	NA
+Viet Nam	1994	0.61	0.02	NA
+Viet Nam	1995	1.05	0.03	NA
+Viet Nam	1996	1.58	0.09	0
+Viet Nam	1997	1.75	0.21	0
+Viet Nam	1998	2.26	0.29	0.01
+Viet Nam	1999	2.7	0.42	0.13
+Viet Nam	2000	3.23	1	0.25
+Viet Nam	2001	3.83	1.57	1.27
+Viet Nam	2002	4.88	2.36	1.85
+Viet Nam	2003	5.41	3.37	3.78
+Viet Nam	2004	12.31	6.03	7.64
+Viet Nam	2005	NA	11.54	12.74
+Viet Nam	2006	10.19	22.47	17.25
+Viet Nam	2007	13.13	52.96	20.76
+Viet Nam	2008	17.18	87.11	23.92
+Viet Nam	2009	20.05	113.03	26.55
+Viet Nam	2010	16.36	127	30.65
+Viet Nam	2011	11.46	143.39	35.07
+Viet Nam	2012	11.36	149.41	39.49
+Viet Nam	2013	NA	NA	NA
+Wallis and Futuna Islands	1990	NA	NA	NA
+Wallis and Futuna Islands	1991	NA	NA	NA
+Wallis and Futuna Islands	1992	NA	NA	NA
+Wallis and Futuna Islands	1993	NA	NA	NA
+Wallis and Futuna Islands	1994	NA	NA	NA
+Wallis and Futuna Islands	1995	NA	NA	NA
+Wallis and Futuna Islands	1996	NA	NA	NA
+Wallis and Futuna Islands	1997	NA	NA	NA
+Wallis and Futuna Islands	1998	NA	NA	NA
+Wallis and Futuna Islands	1999	NA	NA	NA
+Wallis and Futuna Islands	2000	NA	NA	NA
+Wallis and Futuna Islands	2001	NA	NA	NA
+Wallis and Futuna Islands	2002	NA	NA	NA
+Wallis and Futuna Islands	2003	NA	NA	NA
+Wallis and Futuna Islands	2004	NA	NA	NA
+Wallis and Futuna Islands	2005	NA	NA	NA
+Wallis and Futuna Islands	2006	NA	NA	NA
+Wallis and Futuna Islands	2007	NA	NA	NA
+Wallis and Futuna Islands	2008	NA	NA	NA
+Wallis and Futuna Islands	2009	NA	NA	NA
+Wallis and Futuna Islands	2010	NA	NA	NA
+Wallis and Futuna Islands	2011	NA	NA	NA
+Wallis and Futuna Islands	2012	NA	NA	NA
+Wallis and Futuna Islands	2013	NA	NA	NA
+Western Sahara	1990	NA	NA	NA
+Western Sahara	1991	NA	NA	NA
+Western Sahara	1992	NA	NA	NA
+Western Sahara	1993	NA	NA	NA
+Western Sahara	1994	NA	NA	NA
+Western Sahara	1995	NA	NA	NA
+Western Sahara	1996	NA	NA	NA
+Western Sahara	1997	NA	NA	NA
+Western Sahara	1998	NA	NA	NA
+Western Sahara	1999	NA	NA	NA
+Western Sahara	2000	NA	NA	NA
+Western Sahara	2001	NA	NA	NA
+Western Sahara	2002	NA	NA	NA
+Western Sahara	2003	NA	NA	NA
+Western Sahara	2004	NA	NA	NA
+Western Sahara	2005	NA	NA	NA
+Western Sahara	2006	NA	NA	NA
+Western Sahara	2007	NA	NA	NA
+Western Sahara	2008	NA	NA	NA
+Western Sahara	2009	NA	NA	NA
+Western Sahara	2010	NA	NA	NA
+Western Sahara	2011	NA	NA	NA
+Western Sahara	2012	NA	NA	NA
+Western Sahara	2013	NA	NA	NA
+Yemen	1990	1.04	0	0
+Yemen	1991	1.04	0	NA
+Yemen	1992	1.09	0.01	NA
+Yemen	1993	1.16	0.04	NA
+Yemen	1994	1.19	0.06	NA
+Yemen	1995	1.23	0.05	NA
+Yemen	1996	1.3	0.06	0
+Yemen	1997	1.36	0.08	0.02
+Yemen	1998	1.49	0.1	0.02
+Yemen	1999	1.65	0.16	0.06
+Yemen	2000	1.96	0.18	0.08
+Yemen	2001	2.31	0.81	0.09
+Yemen	2002	2.88	2.58	0.52
+Yemen	2003	3.57	3.48	0.6
+Yemen	2004	3.98	7.37	0.88
+Yemen	2005	4.37	11.03	1.05
+Yemen	2006	4.55	13.99	1.25
+Yemen	2007	4.66	19.82	5.01
+Yemen	2008	4.25	28.48	6.89
+Yemen	2009	4.27	35.63	9.96
+Yemen	2010	4.35	46.09	12.35
+Yemen	2011	4.33	47.05	14.91
+Yemen	2012	4.32	54.36	17.45
+Yemen	2013	NA	NA	NA
+Yemen Arab Republic [former]	1990	NA	NA	NA
+Yemen Arab Republic [former]	1991	NA	NA	NA
+Yemen Arab Republic [former]	1992	NA	NA	NA
+Yemen Arab Republic [former]	1993	NA	NA	NA
+Yemen Arab Republic [former]	1994	NA	NA	NA
+Yemen Arab Republic [former]	1995	NA	NA	NA
+Yemen Arab Republic [former]	1996	NA	NA	NA
+Yemen Arab Republic [former]	1997	NA	NA	NA
+Yemen Arab Republic [former]	1998	NA	NA	NA
+Yemen Arab Republic [former]	1999	NA	NA	NA
+Yemen Arab Republic [former]	2000	NA	NA	NA
+Yemen Arab Republic [former]	2001	NA	NA	NA
+Yemen Arab Republic [former]	2002	NA	NA	NA
+Yemen Arab Republic [former]	2003	NA	NA	NA
+Yemen Arab Republic [former]	2004	NA	NA	NA
+Yemen Arab Republic [former]	2005	NA	NA	NA
+Yemen Arab Republic [former]	2006	NA	NA	NA
+Yemen Arab Republic [former]	2007	NA	NA	NA
+Yemen Arab Republic [former]	2008	NA	NA	NA
+Yemen Arab Republic [former]	2009	NA	NA	NA
+Yemen Arab Republic [former]	2010	NA	NA	NA
+Yemen Arab Republic [former]	2011	NA	NA	NA
+Yemen Arab Republic [former]	2012	NA	NA	NA
+Yemen Arab Republic [former]	2013	NA	NA	NA
+Yugoslavia [former Socialist Federal Republic]	1990	NA	NA	NA
+Yugoslavia [former Socialist Federal Republic]	1991	NA	NA	NA
+Yugoslavia [former Socialist Federal Republic]	1992	NA	NA	NA
+Yugoslavia [former Socialist Federal Republic]	1993	NA	NA	NA
+Yugoslavia [former Socialist Federal Republic]	1994	NA	NA	NA
+Yugoslavia [former Socialist Federal Republic]	1995	NA	NA	NA
+Yugoslavia [former Socialist Federal Republic]	1996	NA	NA	NA
+Yugoslavia [former Socialist Federal Republic]	1997	NA	NA	NA
+Yugoslavia [former Socialist Federal Republic]	1998	NA	NA	NA
+Yugoslavia [former Socialist Federal Republic]	1999	NA	NA	NA
+Yugoslavia [former Socialist Federal Republic]	2000	NA	NA	NA
+Yugoslavia [former Socialist Federal Republic]	2001	NA	NA	NA
+Yugoslavia [former Socialist Federal Republic]	2002	NA	NA	NA
+Yugoslavia [former Socialist Federal Republic]	2003	NA	NA	NA
+Yugoslavia [former Socialist Federal Republic]	2004	NA	NA	NA
+Yugoslavia [former Socialist Federal Republic]	2005	NA	NA	NA
+Yugoslavia [former Socialist Federal Republic]	2006	NA	NA	NA
+Yugoslavia [former Socialist Federal Republic]	2007	NA	NA	NA
+Yugoslavia [former Socialist Federal Republic]	2008	NA	NA	NA
+Yugoslavia [former Socialist Federal Republic]	2009	NA	NA	NA
+Yugoslavia [former Socialist Federal Republic]	2010	NA	NA	NA
+Yugoslavia [former Socialist Federal Republic]	2011	NA	NA	NA
+Yugoslavia [former Socialist Federal Republic]	2012	NA	NA	NA
+Yugoslavia [former Socialist Federal Republic]	2013	NA	NA	NA
+Zambia	1990	0.83	0	0
+Zambia	1991	0.85	0	NA
+Zambia	1992	0.92	0	NA
+Zambia	1993	0.92	0	NA
+Zambia	1994	0.92	0	0.01
+Zambia	1995	0.86	0.02	0.01
+Zambia	1996	0.85	0.03	0.01
+Zambia	1997	0.82	0.05	0.01
+Zambia	1998	0.8	0.09	0.03
+Zambia	1999	0.84	0.28	0.15
+Zambia	2000	0.82	0.97	0.19
+Zambia	2001	0.82	1.16	0.23
+Zambia	2002	0.82	1.3	0.48
+Zambia	2003	0.81	2.2	0.98
+Zambia	2004	0.82	4.15	2.01
+Zambia	2005	0.83	8.28	2.85
+Zambia	2006	0.8	14.16	4.16
+Zambia	2007	0.76	21.89	4.87
+Zambia	2008	0.73	28.59	5.55
+Zambia	2009	0.71	34.63	6.31
+Zambia	2010	0.9	41.62	10
+Zambia	2011	0.64	60.59	11.5
+Zambia	2012	0.59	75.81	13.47
+Zambia	2013	NA	NA	NA
+Zimbabwe	1990	1.18	0	0
+Zimbabwe	1991	1.17	0	NA
+Zimbabwe	1992	1.15	0	NA
+Zimbabwe	1993	1.14	0	NA
+Zimbabwe	1994	1.18	0	0
+Zimbabwe	1995	1.3	0	0.01
+Zimbabwe	1996	1.47	0	0.02
+Zimbabwe	1997	1.75	0.05	0.03
+Zimbabwe	1998	1.93	0.15	0.08
+Zimbabwe	1999	1.93	1.4	0.16
+Zimbabwe	2000	1.99	2.13	0.4
+Zimbabwe	2001	2.02	2.5	0.8
+Zimbabwe	2002	2.28	2.69	3.99
+Zimbabwe	2003	2.39	2.88	6.39
+Zimbabwe	2004	2.52	3.38	6.56
+Zimbabwe	2005	2.61	5.15	8.02
+Zimbabwe	2006	2.68	6.78	9.79
+Zimbabwe	2007	2.76	9.82	10.85
+Zimbabwe	2008	2.79	13.29	11.4
+Zimbabwe	2009	3.09	31.99	11.36
+Zimbabwe	2010	3.01	61.25	11.5
+Zimbabwe	2011	2.79	72.13	15.7
+Zimbabwe	2012	2.32	96.93	17.09
+Zimbabwe	2013	NA	NA	NA

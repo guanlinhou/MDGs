@@ -1,0 +1,5665 @@
+country	year	indicator1:Proportion of the population using improved drinking water sources, total	indicator2:Proportion of the population using improved sanitation facilities, total
+Afghanistan	1990	NA	NA
+Afghanistan	1991	5	21
+Afghanistan	1992	5	21
+Afghanistan	1993	5	21
+Afghanistan	1994	5	21
+Afghanistan	1995	5	21
+Afghanistan	1996	8	21
+Afghanistan	1997	12	22
+Afghanistan	1998	15	22
+Afghanistan	1999	19	23
+Afghanistan	2000	22	23
+Afghanistan	2001	26	24
+Afghanistan	2002	29	24
+Afghanistan	2003	33	25
+Afghanistan	2004	36	25
+Afghanistan	2005	40	26
+Afghanistan	2006	43	26
+Afghanistan	2007	47	26
+Afghanistan	2008	50	27
+Afghanistan	2009	54	27
+Afghanistan	2010	57	28
+Afghanistan	2011	61	28
+Afghanistan	2012	NA	NA
+Afghanistan	2013	NA	NA
+Albania	1990	97	81
+Albania	1991	97	81
+Albania	1992	97	81
+Albania	1993	97	81
+Albania	1994	97	82
+Albania	1995	97	82
+Albania	1996	97	83
+Albania	1997	97	84
+Albania	1998	97	85
+Albania	1999	97	85
+Albania	2000	97	86
+Albania	2001	97	87
+Albania	2002	97	88
+Albania	2003	96	89
+Albania	2004	96	89
+Albania	2005	96	90
+Albania	2006	96	91
+Albania	2007	96	91
+Albania	2008	95	92
+Albania	2009	95	93
+Albania	2010	95	93
+Albania	2011	95	94
+Albania	2012	NA	NA
+Albania	2013	NA	NA
+Algeria	1990	94	89
+Algeria	1991	94	89
+Algeria	1992	94	89
+Algeria	1993	94	89
+Algeria	1994	93	90
+Algeria	1995	93	90
+Algeria	1996	92	90
+Algeria	1997	91	91
+Algeria	1998	91	91
+Algeria	1999	90	92
+Algeria	2000	89	92
+Algeria	2001	89	93
+Algeria	2002	88	93
+Algeria	2003	87	93
+Algeria	2004	87	94
+Algeria	2005	86	94
+Algeria	2006	85	94
+Algeria	2007	84	95
+Algeria	2008	84	95
+Algeria	2009	84	95
+Algeria	2010	84	95
+Algeria	2011	84	95
+Algeria	2012	NA	NA
+Algeria	2013	NA	NA
+American Samoa	1990	94	97
+American Samoa	1991	95	97
+American Samoa	1992	95	97
+American Samoa	1993	96	97
+American Samoa	1994	97	97
+American Samoa	1995	97	97
+American Samoa	1996	98	97
+American Samoa	1997	99	97
+American Samoa	1998	99	97
+American Samoa	1999	100	97
+American Samoa	2000	100	97
+American Samoa	2001	100	97
+American Samoa	2002	100	97
+American Samoa	2003	100	97
+American Samoa	2004	100	97
+American Samoa	2005	100	97
+American Samoa	2006	100	97
+American Samoa	2007	100	97
+American Samoa	2008	100	97
+American Samoa	2009	100	97
+American Samoa	2010	100	97
+American Samoa	2011	100	97
+American Samoa	2012	NA	NA
+American Samoa	2013	NA	NA
+Andorra	1990	100	100
+Andorra	1991	100	100
+Andorra	1992	100	100
+Andorra	1993	100	100
+Andorra	1994	100	100
+Andorra	1995	100	100
+Andorra	1996	100	100
+Andorra	1997	100	100
+Andorra	1998	100	100
+Andorra	1999	100	100
+Andorra	2000	100	100
+Andorra	2001	100	100
+Andorra	2002	100	100
+Andorra	2003	100	100
+Andorra	2004	100	100
+Andorra	2005	100	100
+Andorra	2006	100	100
+Andorra	2007	100	100
+Andorra	2008	100	100
+Andorra	2009	100	100
+Andorra	2010	100	100
+Andorra	2011	100	100
+Andorra	2012	NA	NA
+Andorra	2013	NA	NA
+Angola	1990	42	29
+Angola	1991	42	30
+Angola	1992	42	31
+Angola	1993	42	32
+Angola	1994	43	33
+Angola	1995	43	35
+Angola	1996	44	36
+Angola	1997	44	38
+Angola	1998	45	39
+Angola	1999	45	41
+Angola	2000	46	42
+Angola	2001	46	44
+Angola	2002	47	45
+Angola	2003	47	47
+Angola	2004	48	48
+Angola	2005	49	50
+Angola	2006	49	51
+Angola	2007	50	53
+Angola	2008	51	54
+Angola	2009	52	56
+Angola	2010	53	57
+Angola	2011	53	59
+Angola	2012	NA	NA
+Angola	2013	NA	NA
+Anguilla	1990	NA	NA
+Anguilla	1991	NA	NA
+Anguilla	1992	NA	NA
+Anguilla	1993	NA	NA
+Anguilla	1994	NA	NA
+Anguilla	1995	93	91
+Anguilla	1996	93	91
+Anguilla	1997	93	91
+Anguilla	1998	93	91
+Anguilla	1999	93	91
+Anguilla	2000	93	92
+Anguilla	2001	94	93
+Anguilla	2002	94	93
+Anguilla	2003	94	94
+Anguilla	2004	94	94
+Anguilla	2005	94	95
+Anguilla	2006	94	95
+Anguilla	2007	94	96
+Anguilla	2008	94	96
+Anguilla	2009	94	97
+Anguilla	2010	94	97
+Anguilla	2011	95	98
+Anguilla	2012	NA	NA
+Anguilla	2013	NA	NA
+Antigua and Barbuda	1990	97	75
+Antigua and Barbuda	1991	97	76
+Antigua and Barbuda	1992	97	77
+Antigua and Barbuda	1993	98	78
+Antigua and Barbuda	1994	98	79
+Antigua and Barbuda	1995	98	80
+Antigua and Barbuda	1996	98	81
+Antigua and Barbuda	1997	98	82
+Antigua and Barbuda	1998	98	83
+Antigua and Barbuda	1999	98	84
+Antigua and Barbuda	2000	98	85
+Antigua and Barbuda	2001	98	86
+Antigua and Barbuda	2002	98	87
+Antigua and Barbuda	2003	98	88
+Antigua and Barbuda	2004	98	88
+Antigua and Barbuda	2005	98	89
+Antigua and Barbuda	2006	98	90
+Antigua and Barbuda	2007	98	91
+Antigua and Barbuda	2008	98	91
+Antigua and Barbuda	2009	98	91
+Antigua and Barbuda	2010	98	91
+Antigua and Barbuda	2011	98	91
+Antigua and Barbuda	2012	NA	NA
+Antigua and Barbuda	2013	NA	NA
+Argentina	1990	93	87
+Argentina	1991	94	87
+Argentina	1992	94	88
+Argentina	1993	95	88
+Argentina	1994	95	89
+Argentina	1995	95	89
+Argentina	1996	95	90
+Argentina	1997	96	90
+Argentina	1998	96	91
+Argentina	1999	96	91
+Argentina	2000	97	92
+Argentina	2001	97	92
+Argentina	2002	97	93
+Argentina	2003	97	93
+Argentina	2004	98	93
+Argentina	2005	98	94
+Argentina	2006	98	94
+Argentina	2007	98	95
+Argentina	2008	99	95
+Argentina	2009	99	95
+Argentina	2010	99	96
+Argentina	2011	99	96
+Argentina	2012	NA	NA
+Argentina	2013	NA	NA
+Armenia	1990	NA	NA
+Armenia	1991	NA	NA
+Armenia	1992	91	89
+Armenia	1993	91	89
+Armenia	1994	91	89
+Armenia	1995	90	89
+Armenia	1996	90	89
+Armenia	1997	91	89
+Armenia	1998	91	89
+Armenia	1999	92	89
+Armenia	2000	93	89
+Armenia	2001	93	89
+Armenia	2002	94	89
+Armenia	2003	94	89
+Armenia	2004	95	89
+Armenia	2005	96	90
+Armenia	2006	96	90
+Armenia	2007	97	90
+Armenia	2008	97	90
+Armenia	2009	98	90
+Armenia	2010	99	90
+Armenia	2011	99	90
+Armenia	2012	NA	NA
+Armenia	2013	NA	NA
+Aruba	1990	91	99
+Aruba	1991	91	99
+Aruba	1992	92	99
+Aruba	1993	92	98
+Aruba	1994	92	98
+Aruba	1995	93	98
+Aruba	1996	93	98
+Aruba	1997	93	98
+Aruba	1998	94	98
+Aruba	1999	94	98
+Aruba	2000	94	98
+Aruba	2001	95	98
+Aruba	2002	95	98
+Aruba	2003	95	98
+Aruba	2004	96	98
+Aruba	2005	96	98
+Aruba	2006	96	98
+Aruba	2007	96	98
+Aruba	2008	97	98
+Aruba	2009	97	98
+Aruba	2010	97	98
+Aruba	2011	98	98
+Aruba	2012	NA	NA
+Aruba	2013	NA	NA
+Australia	1990	100	100
+Australia	1991	100	100
+Australia	1992	100	100
+Australia	1993	100	100
+Australia	1994	100	100
+Australia	1995	100	100
+Australia	1996	100	100
+Australia	1997	100	100
+Australia	1998	100	100
+Australia	1999	100	100
+Australia	2000	100	100
+Australia	2001	100	100
+Australia	2002	100	100
+Australia	2003	100	100
+Australia	2004	100	100
+Australia	2005	100	100
+Australia	2006	100	100
+Australia	2007	100	100
+Australia	2008	100	100
+Australia	2009	100	100
+Australia	2010	100	100
+Australia	2011	100	100
+Australia	2012	NA	NA
+Australia	2013	NA	NA
+Austria	1990	100	100
+Austria	1991	100	100
+Austria	1992	100	100
+Austria	1993	100	100
+Austria	1994	100	100
+Austria	1995	100	100
+Austria	1996	100	100
+Austria	1997	100	100
+Austria	1998	100	100
+Austria	1999	100	100
+Austria	2000	100	100
+Austria	2001	100	100
+Austria	2002	100	100
+Austria	2003	100	100
+Austria	2004	100	100
+Austria	2005	100	100
+Austria	2006	100	100
+Austria	2007	100	100
+Austria	2008	100	100
+Austria	2009	100	100
+Austria	2010	100	100
+Austria	2011	100	100
+Austria	2012	NA	NA
+Austria	2013	NA	NA
+Azerbaijan	1990	70	NA
+Azerbaijan	1991	70	NA
+Azerbaijan	1992	70	NA
+Azerbaijan	1993	70	NA
+Azerbaijan	1994	70	57
+Azerbaijan	1995	71	57
+Azerbaijan	1996	71	57
+Azerbaijan	1997	72	57
+Azerbaijan	1998	73	57
+Azerbaijan	1999	73	60
+Azerbaijan	2000	74	62
+Azerbaijan	2001	75	65
+Azerbaijan	2002	76	67
+Azerbaijan	2003	76	70
+Azerbaijan	2004	77	72
+Azerbaijan	2005	78	75
+Azerbaijan	2006	79	77
+Azerbaijan	2007	79	80
+Azerbaijan	2008	80	82
+Azerbaijan	2009	80	82
+Azerbaijan	2010	80	82
+Azerbaijan	2011	80	82
+Azerbaijan	2012	NA	NA
+Azerbaijan	2013	NA	NA
+Bahamas	1990	NA	NA
+Bahamas	1991	NA	NA
+Bahamas	1992	NA	NA
+Bahamas	1993	NA	NA
+Bahamas	1994	96	88
+Bahamas	1995	96	88
+Bahamas	1996	96	88
+Bahamas	1997	96	88
+Bahamas	1998	96	88
+Bahamas	1999	96	88
+Bahamas	2000	96	88
+Bahamas	2001	96	88
+Bahamas	2002	96	88
+Bahamas	2003	96	88
+Bahamas	2004	96	88
+Bahamas	2005	96	88
+Bahamas	2006	96	88
+Bahamas	2007	96	88
+Bahamas	2008	96	NA
+Bahamas	2009	96	NA
+Bahamas	2010	96	NA
+Bahamas	2011	96	NA
+Bahamas	2012	NA	NA
+Bahamas	2013	NA	NA
+Bahrain	1990	95	99
+Bahrain	1991	95	99
+Bahrain	1992	95	99
+Bahrain	1993	95	99
+Bahrain	1994	95	99
+Bahrain	1995	96	99
+Bahrain	1996	97	99
+Bahrain	1997	97	99
+Bahrain	1998	98	99
+Bahrain	1999	98	99
+Bahrain	2000	99	99
+Bahrain	2001	99	99
+Bahrain	2002	100	99
+Bahrain	2003	100	99
+Bahrain	2004	100	99
+Bahrain	2005	100	99
+Bahrain	2006	100	99
+Bahrain	2007	100	99
+Bahrain	2008	100	99
+Bahrain	2009	100	99
+Bahrain	2010	100	99
+Bahrain	2011	100	99
+Bahrain	2012	NA	NA
+Bahrain	2013	NA	NA
+Bangladesh	1990	76	38
+Bangladesh	1991	76	38
+Bangladesh	1992	76	38
+Bangladesh	1993	77	39
+Bangladesh	1994	77	40
+Bangladesh	1995	77	41
+Bangladesh	1996	78	42
+Bangladesh	1997	78	43
+Bangladesh	1998	79	43
+Bangladesh	1999	79	44
+Bangladesh	2000	79	45
+Bangladesh	2001	80	46
+Bangladesh	2002	80	47
+Bangladesh	2003	80	48
+Bangladesh	2004	81	49
+Bangladesh	2005	81	50
+Bangladesh	2006	82	51
+Bangladesh	2007	82	51
+Bangladesh	2008	82	52
+Bangladesh	2009	83	53
+Bangladesh	2010	83	54
+Bangladesh	2011	83	55
+Bangladesh	2012	NA	NA
+Bangladesh	2013	NA	NA
+Barbados	1990	95	82
+Barbados	1991	96	83
+Barbados	1992	96	84
+Barbados	1993	97	85
+Barbados	1994	97	85
+Barbados	1995	97	86
+Barbados	1996	98	87
+Barbados	1997	98	88
+Barbados	1998	98	89
+Barbados	1999	99	89
+Barbados	2000	99	90
+Barbados	2001	99	91
+Barbados	2002	100	92
+Barbados	2003	100	92
+Barbados	2004	100	92
+Barbados	2005	100	92
+Barbados	2006	100	92
+Barbados	2007	100	NA
+Barbados	2008	100	NA
+Barbados	2009	100	NA
+Barbados	2010	100	NA
+Barbados	2011	100	NA
+Barbados	2012	NA	NA
+Barbados	2013	NA	NA
+Belarus	1990	100	93
+Belarus	1991	100	93
+Belarus	1992	100	93
+Belarus	1993	100	93
+Belarus	1994	100	93
+Belarus	1995	100	93
+Belarus	1996	100	93
+Belarus	1997	100	93
+Belarus	1998	100	93
+Belarus	1999	100	93
+Belarus	2000	100	93
+Belarus	2001	100	93
+Belarus	2002	100	93
+Belarus	2003	100	93
+Belarus	2004	100	93
+Belarus	2005	100	93
+Belarus	2006	100	93
+Belarus	2007	100	93
+Belarus	2008	100	93
+Belarus	2009	100	93
+Belarus	2010	100	93
+Belarus	2011	100	93
+Belarus	2012	NA	NA
+Belarus	2013	NA	NA
+Belgium	1990	100	100
+Belgium	1991	100	100
+Belgium	1992	100	100
+Belgium	1993	100	100
+Belgium	1994	100	100
+Belgium	1995	100	100
+Belgium	1996	100	100
+Belgium	1997	100	100
+Belgium	1998	100	100
+Belgium	1999	100	100
+Belgium	2000	100	100
+Belgium	2001	100	100
+Belgium	2002	100	100
+Belgium	2003	100	100
+Belgium	2004	100	100
+Belgium	2005	100	100
+Belgium	2006	100	100
+Belgium	2007	100	100
+Belgium	2008	100	100
+Belgium	2009	100	100
+Belgium	2010	100	100
+Belgium	2011	100	100
+Belgium	2012	NA	NA
+Belgium	2013	NA	NA
+Belize	1990	73	76
+Belize	1991	74	77
+Belize	1992	75	78
+Belize	1993	76	78
+Belize	1994	78	79
+Belize	1995	79	80
+Belize	1996	80	80
+Belize	1997	81	81
+Belize	1998	83	82
+Belize	1999	84	82
+Belize	2000	85	83
+Belize	2001	86	84
+Belize	2002	88	84
+Belize	2003	89	85
+Belize	2004	90	86
+Belize	2005	91	86
+Belize	2006	93	87
+Belize	2007	94	88
+Belize	2008	95	88
+Belize	2009	96	89
+Belize	2010	98	90
+Belize	2011	99	90
+Belize	2012	NA	NA
+Belize	2013	NA	NA
+Benin	1990	57	5
+Benin	1991	58	5
+Benin	1992	59	6
+Benin	1993	60	6
+Benin	1994	61	7
+Benin	1995	62	7
+Benin	1996	63	7
+Benin	1997	63	8
+Benin	1998	64	8
+Benin	1999	65	9
+Benin	2000	66	9
+Benin	2001	67	9
+Benin	2002	68	10
+Benin	2003	69	10
+Benin	2004	70	11
+Benin	2005	71	11
+Benin	2006	72	12
+Benin	2007	72	12
+Benin	2008	73	13
+Benin	2009	74	13
+Benin	2010	75	14
+Benin	2011	76	14
+Benin	2012	NA	NA
+Benin	2013	NA	NA
+Bermuda	1990	NA	NA
+Bermuda	1991	NA	NA
+Bermuda	1992	NA	NA
+Bermuda	1993	NA	NA
+Bermuda	1994	NA	NA
+Bermuda	1995	NA	NA
+Bermuda	1996	NA	NA
+Bermuda	1997	NA	NA
+Bermuda	1998	NA	NA
+Bermuda	1999	NA	NA
+Bermuda	2000	NA	NA
+Bermuda	2001	NA	NA
+Bermuda	2002	NA	NA
+Bermuda	2003	NA	NA
+Bermuda	2004	NA	NA
+Bermuda	2005	NA	NA
+Bermuda	2006	NA	NA
+Bermuda	2007	NA	NA
+Bermuda	2008	NA	NA
+Bermuda	2009	NA	NA
+Bermuda	2010	NA	NA
+Bermuda	2011	NA	NA
+Bermuda	2012	NA	NA
+Bermuda	2013	NA	NA
+Bhutan	1990	NA	NA
+Bhutan	1991	NA	NA
+Bhutan	1992	NA	NA
+Bhutan	1993	NA	NA
+Bhutan	1994	NA	NA
+Bhutan	1995	NA	NA
+Bhutan	1996	NA	NA
+Bhutan	1997	86	38
+Bhutan	1998	86	38
+Bhutan	1999	86	38
+Bhutan	2000	86	39
+Bhutan	2001	86	39
+Bhutan	2002	88	40
+Bhutan	2003	89	40
+Bhutan	2004	90	41
+Bhutan	2005	91	42
+Bhutan	2006	92	42
+Bhutan	2007	93	43
+Bhutan	2008	94	43
+Bhutan	2009	95	44
+Bhutan	2010	96	45
+Bhutan	2011	97	45
+Bhutan	2012	NA	NA
+Bhutan	2013	NA	NA
+Bolivia	1990	69	28
+Bolivia	1991	70	29
+Bolivia	1992	71	30
+Bolivia	1993	72	31
+Bolivia	1994	73	32
+Bolivia	1995	74	33
+Bolivia	1996	75	34
+Bolivia	1997	76	35
+Bolivia	1998	77	35
+Bolivia	1999	78	36
+Bolivia	2000	79	37
+Bolivia	2001	80	38
+Bolivia	2002	81	39
+Bolivia	2003	82	40
+Bolivia	2004	82	40
+Bolivia	2005	83	41
+Bolivia	2006	84	42
+Bolivia	2007	85	43
+Bolivia	2008	86	44
+Bolivia	2009	86	45
+Bolivia	2010	87	45
+Bolivia	2011	88	46
+Bolivia	2012	NA	NA
+Bolivia	2013	NA	NA
+Bosnia and Herzegovina	1990	97	NA
+Bosnia and Herzegovina	1991	97	NA
+Bosnia and Herzegovina	1992	97	NA
+Bosnia and Herzegovina	1993	97	NA
+Bosnia and Herzegovina	1994	97	95
+Bosnia and Herzegovina	1995	97	95
+Bosnia and Herzegovina	1996	97	95
+Bosnia and Herzegovina	1997	97	95
+Bosnia and Herzegovina	1998	97	95
+Bosnia and Herzegovina	1999	98	95
+Bosnia and Herzegovina	2000	98	95
+Bosnia and Herzegovina	2001	98	95
+Bosnia and Herzegovina	2002	98	95
+Bosnia and Herzegovina	2003	98	95
+Bosnia and Herzegovina	2004	98	95
+Bosnia and Herzegovina	2005	98	95
+Bosnia and Herzegovina	2006	99	96
+Bosnia and Herzegovina	2007	99	96
+Bosnia and Herzegovina	2008	99	96
+Bosnia and Herzegovina	2009	99	96
+Bosnia and Herzegovina	2010	99	96
+Bosnia and Herzegovina	2011	99	96
+Bosnia and Herzegovina	2012	NA	NA
+Bosnia and Herzegovina	2013	NA	NA
+Botswana	1990	92	39
+Botswana	1991	93	41
+Botswana	1992	93	42
+Botswana	1993	93	43
+Botswana	1994	93	45
+Botswana	1995	94	46
+Botswana	1996	94	47
+Botswana	1997	94	48
+Botswana	1998	94	50
+Botswana	1999	95	51
+Botswana	2000	95	52
+Botswana	2001	95	53
+Botswana	2002	95	54
+Botswana	2003	95	56
+Botswana	2004	96	57
+Botswana	2005	96	58
+Botswana	2006	96	59
+Botswana	2007	96	60
+Botswana	2008	96	62
+Botswana	2009	97	63
+Botswana	2010	97	64
+Botswana	2011	97	64
+Botswana	2012	NA	NA
+Botswana	2013	NA	NA
+Brazil	1990	88	67
+Brazil	1991	89	68
+Brazil	1992	90	68
+Brazil	1993	90	69
+Brazil	1994	91	70
+Brazil	1995	91	71
+Brazil	1996	92	72
+Brazil	1997	92	72
+Brazil	1998	93	73
+Brazil	1999	93	74
+Brazil	2000	93	75
+Brazil	2001	94	75
+Brazil	2002	94	76
+Brazil	2003	95	76
+Brazil	2004	95	77
+Brazil	2005	95	78
+Brazil	2006	96	78
+Brazil	2007	96	79
+Brazil	2008	96	79
+Brazil	2009	97	80
+Brazil	2010	97	80
+Brazil	2011	97	81
+Brazil	2012	NA	NA
+Brazil	2013	NA	NA
+British Virgin Islands	1990	NA	98
+British Virgin Islands	1991	NA	98
+British Virgin Islands	1992	NA	98
+British Virgin Islands	1993	NA	98
+British Virgin Islands	1994	NA	98
+British Virgin Islands	1995	95	98
+British Virgin Islands	1996	95	98
+British Virgin Islands	1997	95	98
+British Virgin Islands	1998	95	98
+British Virgin Islands	1999	95	98
+British Virgin Islands	2000	95	98
+British Virgin Islands	2001	95	98
+British Virgin Islands	2002	95	98
+British Virgin Islands	2003	95	98
+British Virgin Islands	2004	95	98
+British Virgin Islands	2005	95	98
+British Virgin Islands	2006	95	98
+British Virgin Islands	2007	95	98
+British Virgin Islands	2008	NA	98
+British Virgin Islands	2009	NA	98
+British Virgin Islands	2010	NA	98
+British Virgin Islands	2011	NA	98
+British Virgin Islands	2012	NA	NA
+British Virgin Islands	2013	NA	NA
+Brunei Darussalam	1990	NA	NA
+Brunei Darussalam	1991	NA	NA
+Brunei Darussalam	1992	NA	NA
+Brunei Darussalam	1993	NA	NA
+Brunei Darussalam	1994	NA	NA
+Brunei Darussalam	1995	NA	NA
+Brunei Darussalam	1996	NA	NA
+Brunei Darussalam	1997	NA	NA
+Brunei Darussalam	1998	NA	NA
+Brunei Darussalam	1999	NA	NA
+Brunei Darussalam	2000	NA	NA
+Brunei Darussalam	2001	NA	NA
+Brunei Darussalam	2002	NA	NA
+Brunei Darussalam	2003	NA	NA
+Brunei Darussalam	2004	NA	NA
+Brunei Darussalam	2005	NA	NA
+Brunei Darussalam	2006	NA	NA
+Brunei Darussalam	2007	NA	NA
+Brunei Darussalam	2008	NA	NA
+Brunei Darussalam	2009	NA	NA
+Brunei Darussalam	2010	NA	NA
+Brunei Darussalam	2011	NA	NA
+Brunei Darussalam	2012	NA	NA
+Brunei Darussalam	2013	NA	NA
+Bulgaria	1990	100	99
+Bulgaria	1991	100	99
+Bulgaria	1992	100	99
+Bulgaria	1993	100	99
+Bulgaria	1994	100	100
+Bulgaria	1995	100	100
+Bulgaria	1996	100	100
+Bulgaria	1997	100	100
+Bulgaria	1998	100	100
+Bulgaria	1999	100	100
+Bulgaria	2000	100	100
+Bulgaria	2001	100	100
+Bulgaria	2002	100	100
+Bulgaria	2003	100	100
+Bulgaria	2004	100	100
+Bulgaria	2005	100	100
+Bulgaria	2006	100	100
+Bulgaria	2007	100	100
+Bulgaria	2008	100	100
+Bulgaria	2009	100	100
+Bulgaria	2010	100	100
+Bulgaria	2011	99	100
+Bulgaria	2012	NA	NA
+Bulgaria	2013	NA	NA
+Burkina Faso	1990	44	8
+Burkina Faso	1991	44	8
+Burkina Faso	1992	45	8
+Burkina Faso	1993	47	9
+Burkina Faso	1994	49	9
+Burkina Faso	1995	51	9
+Burkina Faso	1996	52	10
+Burkina Faso	1997	54	10
+Burkina Faso	1998	56	11
+Burkina Faso	1999	58	11
+Burkina Faso	2000	60	12
+Burkina Faso	2001	62	12
+Burkina Faso	2002	64	13
+Burkina Faso	2003	65	13
+Burkina Faso	2004	67	14
+Burkina Faso	2005	69	14
+Burkina Faso	2006	71	15
+Burkina Faso	2007	73	16
+Burkina Faso	2008	75	16
+Burkina Faso	2009	76	17
+Burkina Faso	2010	78	17
+Burkina Faso	2011	80	18
+Burkina Faso	2012	NA	NA
+Burkina Faso	2013	NA	NA
+Burundi	1990	69	42
+Burundi	1991	70	42
+Burundi	1992	70	42
+Burundi	1993	70	43
+Burundi	1994	70	43
+Burundi	1995	71	44
+Burundi	1996	71	44
+Burundi	1997	71	44
+Burundi	1998	71	45
+Burundi	1999	72	45
+Burundi	2000	72	46
+Burundi	2001	72	46
+Burundi	2002	72	46
+Burundi	2003	73	47
+Burundi	2004	73	47
+Burundi	2005	73	48
+Burundi	2006	73	48
+Burundi	2007	74	48
+Burundi	2008	74	49
+Burundi	2009	74	49
+Burundi	2010	74	50
+Burundi	2011	74	50
+Burundi	2012	NA	NA
+Burundi	2013	NA	NA
+Cambodia	1990	31	9
+Cambodia	1991	31	9
+Cambodia	1992	32	9
+Cambodia	1993	32	9
+Cambodia	1994	32	9
+Cambodia	1995	34	10
+Cambodia	1996	36	12
+Cambodia	1997	38	13
+Cambodia	1998	40	15
+Cambodia	1999	42	16
+Cambodia	2000	44	18
+Cambodia	2001	46	19
+Cambodia	2002	48	20
+Cambodia	2003	50	22
+Cambodia	2004	53	23
+Cambodia	2005	55	25
+Cambodia	2006	57	26
+Cambodia	2007	59	27
+Cambodia	2008	61	29
+Cambodia	2009	63	30
+Cambodia	2010	65	32
+Cambodia	2011	67	33
+Cambodia	2012	NA	NA
+Cambodia	2013	NA	NA
+Cameroon	1990	49	47
+Cameroon	1991	50	47
+Cameroon	1992	52	47
+Cameroon	1993	53	47
+Cameroon	1994	54	47
+Cameroon	1995	56	47
+Cameroon	1996	57	47
+Cameroon	1997	58	48
+Cameroon	1998	60	48
+Cameroon	1999	61	48
+Cameroon	2000	62	48
+Cameroon	2001	63	48
+Cameroon	2002	65	48
+Cameroon	2003	66	48
+Cameroon	2004	67	48
+Cameroon	2005	69	48
+Cameroon	2006	70	48
+Cameroon	2007	71	48
+Cameroon	2008	73	48
+Cameroon	2009	74	48
+Cameroon	2010	74	48
+Cameroon	2011	74	48
+Cameroon	2012	NA	NA
+Cameroon	2013	NA	NA
+Canada	1990	100	100
+Canada	1991	100	100
+Canada	1992	100	100
+Canada	1993	100	100
+Canada	1994	100	100
+Canada	1995	100	100
+Canada	1996	100	100
+Canada	1997	100	100
+Canada	1998	100	100
+Canada	1999	100	100
+Canada	2000	100	100
+Canada	2001	100	100
+Canada	2002	100	100
+Canada	2003	100	100
+Canada	2004	100	100
+Canada	2005	100	100
+Canada	2006	100	100
+Canada	2007	100	100
+Canada	2008	100	100
+Canada	2009	100	100
+Canada	2010	100	100
+Canada	2011	100	100
+Canada	2012	NA	NA
+Canada	2013	NA	NA
+Cape Verde	1990	NA	NA
+Cape Verde	1991	NA	NA
+Cape Verde	1992	80	35
+Cape Verde	1993	80	36
+Cape Verde	1994	80	36
+Cape Verde	1995	81	37
+Cape Verde	1996	81	37
+Cape Verde	1997	81	39
+Cape Verde	1998	82	41
+Cape Verde	1999	82	42
+Cape Verde	2000	83	44
+Cape Verde	2001	83	46
+Cape Verde	2002	84	48
+Cape Verde	2003	84	50
+Cape Verde	2004	85	51
+Cape Verde	2005	85	53
+Cape Verde	2006	86	55
+Cape Verde	2007	86	57
+Cape Verde	2008	87	58
+Cape Verde	2009	88	60
+Cape Verde	2010	88	62
+Cape Verde	2011	89	63
+Cape Verde	2012	NA	NA
+Cape Verde	2013	NA	NA
+Cayman Islands	1990	NA	96
+Cayman Islands	1991	NA	96
+Cayman Islands	1992	NA	96
+Cayman Islands	1993	93	96
+Cayman Islands	1994	93	96
+Cayman Islands	1995	93	96
+Cayman Islands	1996	93	96
+Cayman Islands	1997	93	96
+Cayman Islands	1998	93	96
+Cayman Islands	1999	93	96
+Cayman Islands	2000	93	96
+Cayman Islands	2001	94	96
+Cayman Islands	2002	94	96
+Cayman Islands	2003	94	96
+Cayman Islands	2004	94	96
+Cayman Islands	2005	95	96
+Cayman Islands	2006	95	96
+Cayman Islands	2007	95	96
+Cayman Islands	2008	95	96
+Cayman Islands	2009	96	96
+Cayman Islands	2010	96	96
+Cayman Islands	2011	96	96
+Cayman Islands	2012	NA	NA
+Cayman Islands	2013	NA	NA
+Central African Republic	1990	58	11
+Central African Republic	1991	59	11
+Central African Republic	1992	59	11
+Central African Republic	1993	59	12
+Central African Republic	1994	60	13
+Central African Republic	1995	60	15
+Central African Republic	1996	61	16
+Central African Republic	1997	61	18
+Central African Republic	1998	62	19
+Central African Republic	1999	62	21
+Central African Republic	2000	63	22
+Central African Republic	2001	63	24
+Central African Republic	2002	64	25
+Central African Republic	2003	64	26
+Central African Republic	2004	65	28
+Central African Republic	2005	65	29
+Central African Republic	2006	66	31
+Central African Republic	2007	66	32
+Central African Republic	2008	67	34
+Central African Republic	2009	67	34
+Central African Republic	2010	67	34
+Central African Republic	2011	67	34
+Central African Republic	2012	NA	NA
+Central African Republic	2013	NA	NA
+Chad	1990	40	8
+Chad	1991	40	8
+Chad	1992	41	8
+Chad	1993	41	8
+Chad	1994	42	9
+Chad	1995	42	9
+Chad	1996	43	9
+Chad	1997	43	9
+Chad	1998	44	9
+Chad	1999	44	10
+Chad	2000	45	10
+Chad	2001	45	10
+Chad	2002	46	10
+Chad	2003	46	10
+Chad	2004	47	10
+Chad	2005	47	11
+Chad	2006	48	11
+Chad	2007	48	11
+Chad	2008	49	11
+Chad	2009	49	11
+Chad	2010	50	12
+Chad	2011	50	12
+Chad	2012	NA	NA
+Chad	2013	NA	NA
+Channel Islands	1990	NA	NA
+Channel Islands	1991	NA	NA
+Channel Islands	1992	NA	NA
+Channel Islands	1993	NA	NA
+Channel Islands	1994	NA	NA
+Channel Islands	1995	NA	NA
+Channel Islands	1996	NA	NA
+Channel Islands	1997	NA	NA
+Channel Islands	1998	NA	NA
+Channel Islands	1999	NA	NA
+Channel Islands	2000	NA	NA
+Channel Islands	2001	NA	NA
+Channel Islands	2002	NA	NA
+Channel Islands	2003	NA	NA
+Channel Islands	2004	NA	NA
+Channel Islands	2005	NA	NA
+Channel Islands	2006	NA	NA
+Channel Islands	2007	NA	NA
+Channel Islands	2008	NA	NA
+Channel Islands	2009	NA	NA
+Channel Islands	2010	NA	NA
+Channel Islands	2011	NA	NA
+Channel Islands	2012	NA	NA
+Channel Islands	2013	NA	NA
+Chile	1990	90	85
+Chile	1991	91	86
+Chile	1992	91	86
+Chile	1993	92	87
+Chile	1994	92	88
+Chile	1995	92	88
+Chile	1996	93	89
+Chile	1997	93	90
+Chile	1998	94	90
+Chile	1999	94	91
+Chile	2000	95	92
+Chile	2001	95	93
+Chile	2002	96	93
+Chile	2003	96	94
+Chile	2004	96	94
+Chile	2005	97	95
+Chile	2006	97	96
+Chile	2007	97	96
+Chile	2008	98	97
+Chile	2009	98	98
+Chile	2010	98	98
+Chile	2011	98	99
+Chile	2012	NA	NA
+Chile	2013	NA	NA
+China	1990	67	24
+China	1991	68	26
+China	1992	70	28
+China	1993	71	30
+China	1994	72	32
+China	1995	74	34
+China	1996	75	36
+China	1997	76	38
+China	1998	78	40
+China	1999	79	43
+China	2000	80	45
+China	2001	81	47
+China	2002	83	49
+China	2003	84	51
+China	2004	85	53
+China	2005	86	55
+China	2006	87	57
+China	2007	88	59
+China	2008	90	61
+China	2009	91	63
+China	2010	92	65
+China	2011	92	65
+China	2012	NA	NA
+China	2013	NA	NA
+China, Hong Kong Special Administrative Region	1990	NA	NA
+China, Hong Kong Special Administrative Region	1991	NA	NA
+China, Hong Kong Special Administrative Region	1992	NA	NA
+China, Hong Kong Special Administrative Region	1993	NA	NA
+China, Hong Kong Special Administrative Region	1994	NA	NA
+China, Hong Kong Special Administrative Region	1995	NA	NA
+China, Hong Kong Special Administrative Region	1996	NA	NA
+China, Hong Kong Special Administrative Region	1997	NA	NA
+China, Hong Kong Special Administrative Region	1998	NA	NA
+China, Hong Kong Special Administrative Region	1999	NA	NA
+China, Hong Kong Special Administrative Region	2000	NA	NA
+China, Hong Kong Special Administrative Region	2001	NA	NA
+China, Hong Kong Special Administrative Region	2002	NA	NA
+China, Hong Kong Special Administrative Region	2003	NA	NA
+China, Hong Kong Special Administrative Region	2004	NA	NA
+China, Hong Kong Special Administrative Region	2005	NA	NA
+China, Hong Kong Special Administrative Region	2006	NA	NA
+China, Hong Kong Special Administrative Region	2007	NA	NA
+China, Hong Kong Special Administrative Region	2008	NA	NA
+China, Hong Kong Special Administrative Region	2009	NA	NA
+China, Hong Kong Special Administrative Region	2010	NA	NA
+China, Hong Kong Special Administrative Region	2011	NA	NA
+China, Hong Kong Special Administrative Region	2012	NA	NA
+China, Hong Kong Special Administrative Region	2013	NA	NA
+China, Macao Special Administrative Region	1990	NA	NA
+China, Macao Special Administrative Region	1991	NA	NA
+China, Macao Special Administrative Region	1992	NA	NA
+China, Macao Special Administrative Region	1993	NA	NA
+China, Macao Special Administrative Region	1994	NA	NA
+China, Macao Special Administrative Region	1995	NA	NA
+China, Macao Special Administrative Region	1996	NA	NA
+China, Macao Special Administrative Region	1997	NA	NA
+China, Macao Special Administrative Region	1998	NA	NA
+China, Macao Special Administrative Region	1999	NA	NA
+China, Macao Special Administrative Region	2000	NA	NA
+China, Macao Special Administrative Region	2001	NA	NA
+China, Macao Special Administrative Region	2002	NA	NA
+China, Macao Special Administrative Region	2003	NA	NA
+China, Macao Special Administrative Region	2004	NA	NA
+China, Macao Special Administrative Region	2005	NA	NA
+China, Macao Special Administrative Region	2006	NA	NA
+China, Macao Special Administrative Region	2007	NA	NA
+China, Macao Special Administrative Region	2008	NA	NA
+China, Macao Special Administrative Region	2009	NA	NA
+China, Macao Special Administrative Region	2010	NA	NA
+China, Macao Special Administrative Region	2011	NA	NA
+China, Macao Special Administrative Region	2012	NA	NA
+China, Macao Special Administrative Region	2013	NA	NA
+Colombia	1990	88	67
+Colombia	1991	89	68
+Colombia	1992	89	68
+Colombia	1993	89	69
+Colombia	1994	89	69
+Colombia	1995	90	70
+Colombia	1996	90	71
+Colombia	1997	90	71
+Colombia	1998	90	72
+Colombia	1999	90	72
+Colombia	2000	91	73
+Colombia	2001	91	73
+Colombia	2002	91	74
+Colombia	2003	91	74
+Colombia	2004	91	75
+Colombia	2005	92	75
+Colombia	2006	92	76
+Colombia	2007	92	76
+Colombia	2008	92	77
+Colombia	2009	93	77
+Colombia	2010	93	78
+Colombia	2011	93	78
+Colombia	2012	NA	NA
+Colombia	2013	NA	NA
+Comoros	1990	87	18
+Comoros	1991	88	19
+Comoros	1992	88	20
+Comoros	1993	89	20
+Comoros	1994	89	21
+Comoros	1995	90	22
+Comoros	1996	90	24
+Comoros	1997	91	25
+Comoros	1998	91	26
+Comoros	1999	92	27
+Comoros	2000	92	28
+Comoros	2001	93	29
+Comoros	2002	93	31
+Comoros	2003	94	32
+Comoros	2004	94	33
+Comoros	2005	95	34
+Comoros	2006	95	35
+Comoros	2007	95	35
+Comoros	2008	95	35
+Comoros	2009	95	35
+Comoros	2010	95	35
+Comoros	2011	NA	NA
+Comoros	2012	NA	NA
+Comoros	2013	NA	NA
+Congo	1990	NA	NA
+Congo	1991	NA	NA
+Congo	1992	NA	NA
+Congo	1993	NA	NA
+Congo	1994	NA	NA
+Congo	1995	NA	NA
+Congo	1996	NA	NA
+Congo	1997	70	20
+Congo	1998	70	20
+Congo	1999	71	20
+Congo	2000	71	20
+Congo	2001	71	20
+Congo	2002	71	20
+Congo	2003	71	19
+Congo	2004	71	19
+Congo	2005	72	19
+Congo	2006	72	19
+Congo	2007	72	19
+Congo	2008	72	18
+Congo	2009	72	18
+Congo	2010	72	18
+Congo	2011	72	18
+Congo	2012	NA	NA
+Congo	2013	NA	NA
+Cook Islands	1990	100	100
+Cook Islands	1991	100	100
+Cook Islands	1992	100	100
+Cook Islands	1993	100	100
+Cook Islands	1994	100	100
+Cook Islands	1995	100	100
+Cook Islands	1996	100	100
+Cook Islands	1997	100	100
+Cook Islands	1998	100	100
+Cook Islands	1999	100	100
+Cook Islands	2000	100	100
+Cook Islands	2001	100	99
+Cook Islands	2002	100	98
+Cook Islands	2003	100	98
+Cook Islands	2004	100	97
+Cook Islands	2005	100	96
+Cook Islands	2006	100	96
+Cook Islands	2007	100	95
+Cook Islands	2008	100	95
+Cook Islands	2009	100	95
+Cook Islands	2010	100	95
+Cook Islands	2011	100	95
+Cook Islands	2012	NA	NA
+Cook Islands	2013	NA	NA
+Costa Rica	1990	93	88
+Costa Rica	1991	93	89
+Costa Rica	1992	94	89
+Costa Rica	1993	94	89
+Costa Rica	1994	94	90
+Costa Rica	1995	94	90
+Costa Rica	1996	94	90
+Costa Rica	1997	95	91
+Costa Rica	1998	95	91
+Costa Rica	1999	95	91
+Costa Rica	2000	95	91
+Costa Rica	2001	95	92
+Costa Rica	2002	95	92
+Costa Rica	2003	95	92
+Costa Rica	2004	96	92
+Costa Rica	2005	96	92
+Costa Rica	2006	96	93
+Costa Rica	2007	96	93
+Costa Rica	2008	96	93
+Costa Rica	2009	96	93
+Costa Rica	2010	96	94
+Costa Rica	2011	96	94
+Costa Rica	2012	NA	NA
+Costa Rica	2013	NA	NA
+Cote d'Ivoire	1990	76	20
+Cote d'Ivoire	1991	76	20
+Cote d'Ivoire	1992	76	20
+Cote d'Ivoire	1993	76	20
+Cote d'Ivoire	1994	77	20
+Cote d'Ivoire	1995	77	21
+Cote d'Ivoire	1996	77	21
+Cote d'Ivoire	1997	77	21
+Cote d'Ivoire	1998	77	21
+Cote d'Ivoire	1999	77	21
+Cote d'Ivoire	2000	78	22
+Cote d'Ivoire	2001	78	22
+Cote d'Ivoire	2002	78	22
+Cote d'Ivoire	2003	78	22
+Cote d'Ivoire	2004	78	22
+Cote d'Ivoire	2005	79	23
+Cote d'Ivoire	2006	79	23
+Cote d'Ivoire	2007	79	23
+Cote d'Ivoire	2008	79	23
+Cote d'Ivoire	2009	79	24
+Cote d'Ivoire	2010	80	24
+Cote d'Ivoire	2011	80	24
+Cote d'Ivoire	2012	NA	NA
+Cote d'Ivoire	2013	NA	NA
+Croatia	1990	98	98
+Croatia	1991	98	98
+Croatia	1992	98	98
+Croatia	1993	98	98
+Croatia	1994	98	98
+Croatia	1995	98	98
+Croatia	1996	98	98
+Croatia	1997	98	98
+Croatia	1998	98	98
+Croatia	1999	98	98
+Croatia	2000	98	98
+Croatia	2001	98	98
+Croatia	2002	98	98
+Croatia	2003	98	98
+Croatia	2004	98	98
+Croatia	2005	99	98
+Croatia	2006	99	98
+Croatia	2007	99	98
+Croatia	2008	99	98
+Croatia	2009	99	98
+Croatia	2010	99	98
+Croatia	2011	99	98
+Croatia	2012	NA	NA
+Croatia	2013	NA	NA
+Cuba	1990	NA	81
+Cuba	1991	NA	82
+Cuba	1992	NA	83
+Cuba	1993	NA	83
+Cuba	1994	90	84
+Cuba	1995	90	84
+Cuba	1996	90	85
+Cuba	1997	90	85
+Cuba	1998	90	86
+Cuba	1999	90	86
+Cuba	2000	91	87
+Cuba	2001	91	87
+Cuba	2002	91	88
+Cuba	2003	92	88
+Cuba	2004	92	89
+Cuba	2005	92	89
+Cuba	2006	92	90
+Cuba	2007	93	90
+Cuba	2008	93	91
+Cuba	2009	93	91
+Cuba	2010	93	92
+Cuba	2011	94	92
+Cuba	2012	NA	NA
+Cuba	2013	NA	NA
+Cyprus	1990	100	100
+Cyprus	1991	100	100
+Cyprus	1992	100	100
+Cyprus	1993	100	100
+Cyprus	1994	100	100
+Cyprus	1995	100	100
+Cyprus	1996	100	100
+Cyprus	1997	100	100
+Cyprus	1998	100	100
+Cyprus	1999	100	100
+Cyprus	2000	100	100
+Cyprus	2001	100	100
+Cyprus	2002	100	100
+Cyprus	2003	100	100
+Cyprus	2004	100	100
+Cyprus	2005	100	100
+Cyprus	2006	100	100
+Cyprus	2007	100	100
+Cyprus	2008	100	100
+Cyprus	2009	100	100
+Cyprus	2010	100	100
+Cyprus	2011	100	100
+Cyprus	2012	NA	NA
+Cyprus	2013	NA	NA
+Czech Republic	1990	100	100
+Czech Republic	1991	100	100
+Czech Republic	1992	100	100
+Czech Republic	1993	100	100
+Czech Republic	1994	100	100
+Czech Republic	1995	100	100
+Czech Republic	1996	100	100
+Czech Republic	1997	100	100
+Czech Republic	1998	100	100
+Czech Republic	1999	100	100
+Czech Republic	2000	100	100
+Czech Republic	2001	100	100
+Czech Republic	2002	100	100
+Czech Republic	2003	100	100
+Czech Republic	2004	100	100
+Czech Republic	2005	100	100
+Czech Republic	2006	100	100
+Czech Republic	2007	100	100
+Czech Republic	2008	100	100
+Czech Republic	2009	100	100
+Czech Republic	2010	100	100
+Czech Republic	2011	100	100
+Czech Republic	2012	NA	NA
+Czech Republic	2013	NA	NA
+Czechoslovakia [former]	1990	NA	NA
+Czechoslovakia [former]	1991	NA	NA
+Czechoslovakia [former]	1992	NA	NA
+Czechoslovakia [former]	1993	NA	NA
+Czechoslovakia [former]	1994	NA	NA
+Czechoslovakia [former]	1995	NA	NA
+Czechoslovakia [former]	1996	NA	NA
+Czechoslovakia [former]	1997	NA	NA
+Czechoslovakia [former]	1998	NA	NA
+Czechoslovakia [former]	1999	NA	NA
+Czechoslovakia [former]	2000	NA	NA
+Czechoslovakia [former]	2001	NA	NA
+Czechoslovakia [former]	2002	NA	NA
+Czechoslovakia [former]	2003	NA	NA
+Czechoslovakia [former]	2004	NA	NA
+Czechoslovakia [former]	2005	NA	NA
+Czechoslovakia [former]	2006	NA	NA
+Czechoslovakia [former]	2007	NA	NA
+Czechoslovakia [former]	2008	NA	NA
+Czechoslovakia [former]	2009	NA	NA
+Czechoslovakia [former]	2010	NA	NA
+Czechoslovakia [former]	2011	NA	NA
+Czechoslovakia [former]	2012	NA	NA
+Czechoslovakia [former]	2013	NA	NA
+Democratic Republic of the Congo	1990	43	17
+Democratic Republic of the Congo	1991	43	17
+Democratic Republic of the Congo	1992	43	17
+Democratic Republic of the Congo	1993	43	17
+Democratic Republic of the Congo	1994	43	18
+Democratic Republic of the Congo	1995	43	19
+Democratic Republic of the Congo	1996	43	19
+Democratic Republic of the Congo	1997	44	20
+Democratic Republic of the Congo	1998	44	21
+Democratic Republic of the Congo	1999	44	22
+Democratic Republic of the Congo	2000	44	23
+Democratic Republic of the Congo	2001	44	23
+Democratic Republic of the Congo	2002	44	24
+Democratic Republic of the Congo	2003	44	25
+Democratic Republic of the Congo	2004	45	26
+Democratic Republic of the Congo	2005	45	26
+Democratic Republic of the Congo	2006	45	27
+Democratic Republic of the Congo	2007	45	28
+Democratic Republic of the Congo	2008	46	29
+Democratic Republic of the Congo	2009	46	29
+Democratic Republic of the Congo	2010	46	30
+Democratic Republic of the Congo	2011	46	31
+Democratic Republic of the Congo	2012	NA	NA
+Democratic Republic of the Congo	2013	NA	NA
+Democratic Yemen [former]	1990	NA	NA
+Democratic Yemen [former]	1991	NA	NA
+Democratic Yemen [former]	1992	NA	NA
+Democratic Yemen [former]	1993	NA	NA
+Democratic Yemen [former]	1994	NA	NA
+Democratic Yemen [former]	1995	NA	NA
+Democratic Yemen [former]	1996	NA	NA
+Democratic Yemen [former]	1997	NA	NA
+Democratic Yemen [former]	1998	NA	NA
+Democratic Yemen [former]	1999	NA	NA
+Democratic Yemen [former]	2000	NA	NA
+Democratic Yemen [former]	2001	NA	NA
+Democratic Yemen [former]	2002	NA	NA
+Democratic Yemen [former]	2003	NA	NA
+Democratic Yemen [former]	2004	NA	NA
+Democratic Yemen [former]	2005	NA	NA
+Democratic Yemen [former]	2006	NA	NA
+Democratic Yemen [former]	2007	NA	NA
+Democratic Yemen [former]	2008	NA	NA
+Democratic Yemen [former]	2009	NA	NA
+Democratic Yemen [former]	2010	NA	NA
+Democratic Yemen [former]	2011	NA	NA
+Democratic Yemen [former]	2012	NA	NA
+Democratic Yemen [former]	2013	NA	NA
+Denmark	1990	100	100
+Denmark	1991	100	100
+Denmark	1992	100	100
+Denmark	1993	100	100
+Denmark	1994	100	100
+Denmark	1995	100	100
+Denmark	1996	100	100
+Denmark	1997	100	100
+Denmark	1998	100	100
+Denmark	1999	100	100
+Denmark	2000	100	100
+Denmark	2001	100	100
+Denmark	2002	100	100
+Denmark	2003	100	100
+Denmark	2004	100	100
+Denmark	2005	100	100
+Denmark	2006	100	100
+Denmark	2007	100	100
+Denmark	2008	100	100
+Denmark	2009	100	100
+Denmark	2010	100	100
+Denmark	2011	100	100
+Denmark	2012	NA	NA
+Denmark	2013	NA	NA
+Djibouti	1990	75	62
+Djibouti	1991	75	62
+Djibouti	1992	75	62
+Djibouti	1993	75	62
+Djibouti	1994	75	62
+Djibouti	1995	76	62
+Djibouti	1996	77	62
+Djibouti	1997	78	62
+Djibouti	1998	79	62
+Djibouti	1999	81	62
+Djibouti	2000	82	62
+Djibouti	2001	83	62
+Djibouti	2002	84	62
+Djibouti	2003	85	62
+Djibouti	2004	86	62
+Djibouti	2005	87	62
+Djibouti	2006	88	62
+Djibouti	2007	89	61
+Djibouti	2008	90	61
+Djibouti	2009	91	61
+Djibouti	2010	92	61
+Djibouti	2011	92	61
+Djibouti	2012	NA	NA
+Djibouti	2013	NA	NA
+Dominica	1990	NA	NA
+Dominica	1991	NA	NA
+Dominica	1992	NA	NA
+Dominica	1993	NA	NA
+Dominica	1994	NA	NA
+Dominica	1995	94	81
+Dominica	1996	94	81
+Dominica	1997	94	81
+Dominica	1998	94	81
+Dominica	1999	94	81
+Dominica	2000	94	81
+Dominica	2001	94	81
+Dominica	2002	94	81
+Dominica	2003	94	81
+Dominica	2004	94	81
+Dominica	2005	94	81
+Dominica	2006	94	81
+Dominica	2007	94	81
+Dominica	2008	NA	NA
+Dominica	2009	NA	NA
+Dominica	2010	NA	NA
+Dominica	2011	NA	NA
+Dominica	2012	NA	NA
+Dominica	2013	NA	NA
+Dominican Republic	1990	89	73
+Dominican Republic	1991	89	73
+Dominican Republic	1992	88	74
+Dominican Republic	1993	88	74
+Dominican Republic	1994	88	74
+Dominican Republic	1995	87	75
+Dominican Republic	1996	87	76
+Dominican Republic	1997	87	76
+Dominican Republic	1998	87	77
+Dominican Republic	1999	86	77
+Dominican Republic	2000	86	78
+Dominican Republic	2001	86	78
+Dominican Republic	2002	85	79
+Dominican Republic	2003	85	79
+Dominican Republic	2004	85	79
+Dominican Republic	2005	84	80
+Dominican Republic	2006	84	80
+Dominican Republic	2007	83	81
+Dominican Republic	2008	83	81
+Dominican Republic	2009	83	82
+Dominican Republic	2010	82	82
+Dominican Republic	2011	82	82
+Dominican Republic	2012	NA	NA
+Dominican Republic	2013	NA	NA
+Ecuador	1990	76	69
+Ecuador	1991	77	71
+Ecuador	1992	78	72
+Ecuador	1993	79	73
+Ecuador	1994	79	74
+Ecuador	1995	80	75
+Ecuador	1996	81	77
+Ecuador	1997	81	78
+Ecuador	1998	82	79
+Ecuador	1999	83	80
+Ecuador	2000	84	81
+Ecuador	2001	84	82
+Ecuador	2002	85	83
+Ecuador	2003	86	85
+Ecuador	2004	87	86
+Ecuador	2005	87	87
+Ecuador	2006	88	88
+Ecuador	2007	89	89
+Ecuador	2008	90	90
+Ecuador	2009	90	91
+Ecuador	2010	91	92
+Ecuador	2011	92	93
+Ecuador	2012	NA	NA
+Ecuador	2013	NA	NA
+Egypt	1990	93	72
+Egypt	1991	93	73
+Egypt	1992	94	74
+Egypt	1993	94	76
+Egypt	1994	94	77
+Egypt	1995	95	79
+Egypt	1996	95	80
+Egypt	1997	95	81
+Egypt	1998	95	83
+Egypt	1999	96	84
+Egypt	2000	96	86
+Egypt	2001	96	87
+Egypt	2002	97	88
+Egypt	2003	97	90
+Egypt	2004	97	91
+Egypt	2005	98	93
+Egypt	2006	98	94
+Egypt	2007	98	95
+Egypt	2008	99	95
+Egypt	2009	99	95
+Egypt	2010	99	95
+Egypt	2011	99	95
+Egypt	2012	NA	NA
+Egypt	2013	NA	NA
+El Salvador	1990	74	50
+El Salvador	1991	75	51
+El Salvador	1992	76	52
+El Salvador	1993	77	53
+El Salvador	1994	78	54
+El Salvador	1995	79	55
+El Salvador	1996	80	57
+El Salvador	1997	81	58
+El Salvador	1998	82	59
+El Salvador	1999	83	60
+El Salvador	2000	83	61
+El Salvador	2001	84	62
+El Salvador	2002	85	63
+El Salvador	2003	85	64
+El Salvador	2004	86	65
+El Salvador	2005	87	65
+El Salvador	2006	87	66
+El Salvador	2007	88	67
+El Salvador	2008	88	68
+El Salvador	2009	89	69
+El Salvador	2010	90	70
+El Salvador	2011	90	70
+El Salvador	2012	NA	NA
+El Salvador	2013	NA	NA
+Equatorial Guinea	1990	NA	NA
+Equatorial Guinea	1991	NA	NA
+Equatorial Guinea	1992	NA	NA
+Equatorial Guinea	1993	NA	NA
+Equatorial Guinea	1994	51	89
+Equatorial Guinea	1995	51	89
+Equatorial Guinea	1996	51	89
+Equatorial Guinea	1997	51	89
+Equatorial Guinea	1998	51	89
+Equatorial Guinea	1999	51	89
+Equatorial Guinea	2000	51	89
+Equatorial Guinea	2001	51	89
+Equatorial Guinea	2002	51	89
+Equatorial Guinea	2003	51	89
+Equatorial Guinea	2004	51	89
+Equatorial Guinea	2005	51	89
+Equatorial Guinea	2006	51	89
+Equatorial Guinea	2007	NA	NA
+Equatorial Guinea	2008	NA	NA
+Equatorial Guinea	2009	NA	NA
+Equatorial Guinea	2010	NA	NA
+Equatorial Guinea	2011	NA	NA
+Equatorial Guinea	2012	NA	NA
+Equatorial Guinea	2013	NA	NA
+Eritrea	1990	43	9
+Eritrea	1991	43	9
+Eritrea	1992	43	9
+Eritrea	1993	43	9
+Eritrea	1994	44	10
+Eritrea	1995	46	10
+Eritrea	1996	47	10
+Eritrea	1997	49	10
+Eritrea	1998	51	11
+Eritrea	1999	52	11
+Eritrea	2000	54	11
+Eritrea	2001	55	12
+Eritrea	2002	57	12
+Eritrea	2003	58	12
+Eritrea	2004	60	13
+Eritrea	2005	60	13
+Eritrea	2006	60	13
+Eritrea	2007	60	13
+Eritrea	2008	60	13
+Eritrea	2009	NA	NA
+Eritrea	2010	NA	NA
+Eritrea	2011	NA	NA
+Eritrea	2012	NA	NA
+Eritrea	2013	NA	NA
+Estonia	1990	99	96
+Estonia	1991	99	96
+Estonia	1992	99	96
+Estonia	1993	99	96
+Estonia	1994	99	96
+Estonia	1995	99	96
+Estonia	1996	99	96
+Estonia	1997	99	95
+Estonia	1998	99	95
+Estonia	1999	99	95
+Estonia	2000	99	95
+Estonia	2001	99	95
+Estonia	2002	99	95
+Estonia	2003	99	95
+Estonia	2004	99	95
+Estonia	2005	99	95
+Estonia	2006	99	95
+Estonia	2007	99	95
+Estonia	2008	99	95
+Estonia	2009	99	95
+Estonia	2010	99	95
+Estonia	2011	99	100
+Estonia	2012	NA	NA
+Estonia	2013	NA	NA
+Ethiopia	1990	14	2
+Ethiopia	1991	14	2
+Ethiopia	1992	14	2
+Ethiopia	1993	16	3
+Ethiopia	1994	18	3
+Ethiopia	1995	20	3
+Ethiopia	1996	22	3
+Ethiopia	1997	23	5
+Ethiopia	1998	25	6
+Ethiopia	1999	27	7
+Ethiopia	2000	29	8
+Ethiopia	2001	31	9
+Ethiopia	2002	33	10
+Ethiopia	2003	34	12
+Ethiopia	2004	36	13
+Ethiopia	2005	38	14
+Ethiopia	2006	40	15
+Ethiopia	2007	42	16
+Ethiopia	2008	44	17
+Ethiopia	2009	45	18
+Ethiopia	2010	47	20
+Ethiopia	2011	49	21
+Ethiopia	2012	NA	NA
+Ethiopia	2013	NA	NA
+European Union (EU)	1990	NA	NA
+European Union (EU)	1991	NA	NA
+European Union (EU)	1992	NA	NA
+European Union (EU)	1993	NA	NA
+European Union (EU)	1994	NA	NA
+European Union (EU)	1995	NA	NA
+European Union (EU)	1996	NA	NA
+European Union (EU)	1997	NA	NA
+European Union (EU)	1998	NA	NA
+European Union (EU)	1999	NA	NA
+European Union (EU)	2000	NA	NA
+European Union (EU)	2001	NA	NA
+European Union (EU)	2002	NA	NA
+European Union (EU)	2003	NA	NA
+European Union (EU)	2004	NA	NA
+European Union (EU)	2005	NA	NA
+European Union (EU)	2006	NA	NA
+European Union (EU)	2007	NA	NA
+European Union (EU)	2008	NA	NA
+European Union (EU)	2009	NA	NA
+European Union (EU)	2010	NA	NA
+European Union (EU)	2011	NA	NA
+European Union (EU)	2012	NA	NA
+European Union (EU)	2013	NA	NA
+Faeroe Islands	1990	NA	NA
+Faeroe Islands	1991	NA	NA
+Faeroe Islands	1992	NA	NA
+Faeroe Islands	1993	NA	NA
+Faeroe Islands	1994	NA	NA
+Faeroe Islands	1995	NA	NA
+Faeroe Islands	1996	NA	NA
+Faeroe Islands	1997	NA	NA
+Faeroe Islands	1998	NA	NA
+Faeroe Islands	1999	NA	NA
+Faeroe Islands	2000	NA	NA
+Faeroe Islands	2001	NA	NA
+Faeroe Islands	2002	NA	NA
+Faeroe Islands	2003	NA	NA
+Faeroe Islands	2004	NA	NA
+Faeroe Islands	2005	NA	NA
+Faeroe Islands	2006	NA	NA
+Faeroe Islands	2007	NA	NA
+Faeroe Islands	2008	NA	NA
+Faeroe Islands	2009	NA	NA
+Faeroe Islands	2010	NA	NA
+Faeroe Islands	2011	NA	NA
+Faeroe Islands	2012	NA	NA
+Faeroe Islands	2013	NA	NA
+Falkland Islands (Malvinas)	1990	NA	NA
+Falkland Islands (Malvinas)	1991	NA	NA
+Falkland Islands (Malvinas)	1992	NA	NA
+Falkland Islands (Malvinas)	1993	NA	NA
+Falkland Islands (Malvinas)	1994	NA	NA
+Falkland Islands (Malvinas)	1995	NA	NA
+Falkland Islands (Malvinas)	1996	NA	NA
+Falkland Islands (Malvinas)	1997	NA	NA
+Falkland Islands (Malvinas)	1998	NA	NA
+Falkland Islands (Malvinas)	1999	NA	NA
+Falkland Islands (Malvinas)	2000	NA	NA
+Falkland Islands (Malvinas)	2001	NA	NA
+Falkland Islands (Malvinas)	2002	NA	NA
+Falkland Islands (Malvinas)	2003	NA	NA
+Falkland Islands (Malvinas)	2004	NA	NA
+Falkland Islands (Malvinas)	2005	NA	NA
+Falkland Islands (Malvinas)	2006	NA	NA
+Falkland Islands (Malvinas)	2007	NA	NA
+Falkland Islands (Malvinas)	2008	NA	NA
+Falkland Islands (Malvinas)	2009	NA	NA
+Falkland Islands (Malvinas)	2010	NA	NA
+Falkland Islands (Malvinas)	2011	NA	NA
+Falkland Islands (Malvinas)	2012	NA	NA
+Falkland Islands (Malvinas)	2013	NA	NA
+Fiji	1990	85	57
+Fiji	1991	86	59
+Fiji	1992	86	61
+Fiji	1993	87	63
+Fiji	1994	88	65
+Fiji	1995	88	66
+Fiji	1996	89	68
+Fiji	1997	89	70
+Fiji	1998	90	71
+Fiji	1999	91	73
+Fiji	2000	91	74
+Fiji	2001	92	76
+Fiji	2002	92	77
+Fiji	2003	93	79
+Fiji	2004	93	80
+Fiji	2005	94	81
+Fiji	2006	95	83
+Fiji	2007	95	84
+Fiji	2008	96	86
+Fiji	2009	96	87
+Fiji	2010	96	87
+Fiji	2011	96	87
+Fiji	2012	NA	NA
+Fiji	2013	NA	NA
+Finland	1990	100	100
+Finland	1991	100	100
+Finland	1992	100	100
+Finland	1993	100	100
+Finland	1994	100	100
+Finland	1995	100	100
+Finland	1996	100	100
+Finland	1997	100	100
+Finland	1998	100	100
+Finland	1999	100	100
+Finland	2000	100	100
+Finland	2001	100	100
+Finland	2002	100	100
+Finland	2003	100	100
+Finland	2004	100	100
+Finland	2005	100	100
+Finland	2006	100	100
+Finland	2007	100	100
+Finland	2008	100	100
+Finland	2009	100	100
+Finland	2010	100	100
+Finland	2011	100	100
+Finland	2012	NA	NA
+Finland	2013	NA	NA
+France	1990	100	100
+France	1991	100	100
+France	1992	100	100
+France	1993	100	100
+France	1994	100	100
+France	1995	100	100
+France	1996	100	100
+France	1997	100	100
+France	1998	100	100
+France	1999	100	100
+France	2000	100	100
+France	2001	100	100
+France	2002	100	100
+France	2003	100	100
+France	2004	100	100
+France	2005	100	100
+France	2006	100	100
+France	2007	100	100
+France	2008	100	100
+France	2009	100	100
+France	2010	100	100
+France	2011	100	100
+France	2012	NA	NA
+France	2013	NA	NA
+French Guiana	1990	NA	NA
+French Guiana	1991	NA	NA
+French Guiana	1992	83	76
+French Guiana	1993	83	76
+French Guiana	1994	83	76
+French Guiana	1995	83	76
+French Guiana	1996	83	76
+French Guiana	1997	83	77
+French Guiana	1998	84	78
+French Guiana	1999	84	79
+French Guiana	2000	85	80
+French Guiana	2001	85	81
+French Guiana	2002	86	82
+French Guiana	2003	86	83
+French Guiana	2004	87	84
+French Guiana	2005	87	85
+French Guiana	2006	88	86
+French Guiana	2007	88	87
+French Guiana	2008	89	88
+French Guiana	2009	89	89
+French Guiana	2010	90	90
+French Guiana	2011	90	90
+French Guiana	2012	NA	NA
+French Guiana	2013	NA	NA
+French Polynesia	1990	100	99
+French Polynesia	1991	100	99
+French Polynesia	1992	100	99
+French Polynesia	1993	100	99
+French Polynesia	1994	100	99
+French Polynesia	1995	100	99
+French Polynesia	1996	100	98
+French Polynesia	1997	100	98
+French Polynesia	1998	100	98
+French Polynesia	1999	100	98
+French Polynesia	2000	100	98
+French Polynesia	2001	100	98
+French Polynesia	2002	100	98
+French Polynesia	2003	100	98
+French Polynesia	2004	100	98
+French Polynesia	2005	100	98
+French Polynesia	2006	100	97
+French Polynesia	2007	100	97
+French Polynesia	2008	100	97
+French Polynesia	2009	100	97
+French Polynesia	2010	100	97
+French Polynesia	2011	100	97
+French Polynesia	2012	NA	NA
+French Polynesia	2013	NA	NA
+Gabon	1990	NA	NA
+Gabon	1991	NA	NA
+Gabon	1992	NA	NA
+Gabon	1993	NA	NA
+Gabon	1994	83	36
+Gabon	1995	83	36
+Gabon	1996	84	36
+Gabon	1997	84	36
+Gabon	1998	85	36
+Gabon	1999	85	36
+Gabon	2000	85	36
+Gabon	2001	86	35
+Gabon	2002	86	35
+Gabon	2003	86	35
+Gabon	2004	86	34
+Gabon	2005	87	34
+Gabon	2006	87	33
+Gabon	2007	87	33
+Gabon	2008	87	33
+Gabon	2009	87	33
+Gabon	2010	88	33
+Gabon	2011	88	33
+Gabon	2012	NA	NA
+Gabon	2013	NA	NA
+Gambia	1990	74	NA
+Gambia	1991	75	NA
+Gambia	1992	76	60
+Gambia	1993	77	60
+Gambia	1994	78	61
+Gambia	1995	79	61
+Gambia	1996	80	61
+Gambia	1997	81	61
+Gambia	1998	82	62
+Gambia	1999	82	62
+Gambia	2000	83	63
+Gambia	2001	84	64
+Gambia	2002	85	64
+Gambia	2003	86	65
+Gambia	2004	86	65
+Gambia	2005	87	66
+Gambia	2006	88	66
+Gambia	2007	88	67
+Gambia	2008	89	68
+Gambia	2009	89	68
+Gambia	2010	89	68
+Gambia	2011	89	68
+Gambia	2012	NA	NA
+Gambia	2013	NA	NA
+Georgia	1990	85	96
+Georgia	1991	85	96
+Georgia	1992	85	96
+Georgia	1993	85	96
+Georgia	1994	85	96
+Georgia	1995	85	96
+Georgia	1996	86	96
+Georgia	1997	87	96
+Georgia	1998	88	96
+Georgia	1999	88	96
+Georgia	2000	89	95
+Georgia	2001	90	95
+Georgia	2002	91	95
+Georgia	2003	92	95
+Georgia	2004	92	95
+Georgia	2005	93	94
+Georgia	2006	94	94
+Georgia	2007	95	94
+Georgia	2008	96	94
+Georgia	2009	96	94
+Georgia	2010	97	94
+Georgia	2011	98	93
+Georgia	2012	NA	NA
+Georgia	2013	NA	NA
+Germany	1990	100	100
+Germany	1991	100	100
+Germany	1992	100	100
+Germany	1993	100	100
+Germany	1994	100	100
+Germany	1995	100	100
+Germany	1996	100	100
+Germany	1997	100	100
+Germany	1998	100	100
+Germany	1999	100	100
+Germany	2000	100	100
+Germany	2001	100	100
+Germany	2002	100	100
+Germany	2003	100	100
+Germany	2004	100	100
+Germany	2005	100	100
+Germany	2006	100	100
+Germany	2007	100	100
+Germany	2008	100	100
+Germany	2009	100	100
+Germany	2010	100	100
+Germany	2011	100	100
+Germany	2012	NA	NA
+Germany	2013	NA	NA
+Ghana	1990	53	6
+Ghana	1991	55	7
+Ghana	1992	57	7
+Ghana	1993	59	7
+Ghana	1994	61	8
+Ghana	1995	62	8
+Ghana	1996	64	8
+Ghana	1997	66	9
+Ghana	1998	68	9
+Ghana	1999	69	9
+Ghana	2000	71	10
+Ghana	2001	73	10
+Ghana	2002	74	11
+Ghana	2003	76	11
+Ghana	2004	77	11
+Ghana	2005	79	12
+Ghana	2006	80	12
+Ghana	2007	82	12
+Ghana	2008	83	13
+Ghana	2009	85	13
+Ghana	2010	86	13
+Ghana	2011	86	13
+Ghana	2012	NA	NA
+Ghana	2013	NA	NA
+Gibraltar	1990	NA	NA
+Gibraltar	1991	NA	NA
+Gibraltar	1992	NA	NA
+Gibraltar	1993	NA	NA
+Gibraltar	1994	NA	NA
+Gibraltar	1995	NA	NA
+Gibraltar	1996	NA	NA
+Gibraltar	1997	NA	NA
+Gibraltar	1998	NA	NA
+Gibraltar	1999	NA	NA
+Gibraltar	2000	NA	NA
+Gibraltar	2001	NA	NA
+Gibraltar	2002	NA	NA
+Gibraltar	2003	NA	NA
+Gibraltar	2004	NA	NA
+Gibraltar	2005	NA	NA
+Gibraltar	2006	NA	NA
+Gibraltar	2007	NA	NA
+Gibraltar	2008	NA	NA
+Gibraltar	2009	NA	NA
+Gibraltar	2010	NA	NA
+Gibraltar	2011	NA	NA
+Gibraltar	2012	NA	NA
+Gibraltar	2013	NA	NA
+Greece	1990	96	97
+Greece	1991	96	97
+Greece	1992	97	97
+Greece	1993	97	97
+Greece	1994	97	97
+Greece	1995	98	97
+Greece	1996	98	98
+Greece	1997	98	98
+Greece	1998	98	98
+Greece	1999	99	98
+Greece	2000	99	98
+Greece	2001	99	98
+Greece	2002	99	98
+Greece	2003	100	99
+Greece	2004	100	99
+Greece	2005	100	99
+Greece	2006	100	99
+Greece	2007	100	99
+Greece	2008	100	99
+Greece	2009	100	99
+Greece	2010	100	99
+Greece	2011	100	99
+Greece	2012	NA	NA
+Greece	2013	NA	NA
+Greenland	1990	100	100
+Greenland	1991	100	100
+Greenland	1992	100	100
+Greenland	1993	100	100
+Greenland	1994	100	100
+Greenland	1995	100	100
+Greenland	1996	100	100
+Greenland	1997	100	100
+Greenland	1998	100	100
+Greenland	1999	100	100
+Greenland	2000	100	100
+Greenland	2001	100	100
+Greenland	2002	100	100
+Greenland	2003	100	100
+Greenland	2004	100	100
+Greenland	2005	100	100
+Greenland	2006	100	100
+Greenland	2007	100	100
+Greenland	2008	100	100
+Greenland	2009	100	100
+Greenland	2010	100	100
+Greenland	2011	100	100
+Greenland	2012	NA	NA
+Greenland	2013	NA	NA
+Grenada	1990	NA	NA
+Grenada	1991	NA	NA
+Grenada	1992	NA	NA
+Grenada	1993	NA	NA
+Grenada	1994	NA	99
+Grenada	1995	94	92
+Grenada	1996	94	92
+Grenada	1997	94	92
+Grenada	1998	94	92
+Grenada	1999	94	92
+Grenada	2000	94	92
+Grenada	2001	94	92
+Grenada	2002	94	92
+Grenada	2003	94	92
+Grenada	2004	94	92
+Grenada	2005	94	92
+Grenada	2006	94	92
+Grenada	2007	94	92
+Grenada	2008	NA	NA
+Grenada	2009	NA	NA
+Grenada	2010	NA	NA
+Grenada	2011	NA	NA
+Grenada	2012	NA	NA
+Grenada	2013	NA	NA
+Guadeloupe	1990	98	NA
+Guadeloupe	1991	98	NA
+Guadeloupe	1992	98	NA
+Guadeloupe	1993	98	NA
+Guadeloupe	1994	98	NA
+Guadeloupe	1995	98	NA
+Guadeloupe	1996	98	NA
+Guadeloupe	1997	98	NA
+Guadeloupe	1998	98	NA
+Guadeloupe	1999	98	NA
+Guadeloupe	2000	98	NA
+Guadeloupe	2001	98	NA
+Guadeloupe	2002	98	95
+Guadeloupe	2003	98	95
+Guadeloupe	2004	99	95
+Guadeloupe	2005	99	95
+Guadeloupe	2006	99	96
+Guadeloupe	2007	99	96
+Guadeloupe	2008	99	96
+Guadeloupe	2009	99	97
+Guadeloupe	2010	99	97
+Guadeloupe	2011	99	97
+Guadeloupe	2012	NA	NA
+Guadeloupe	2013	NA	NA
+Guam	1990	100	97
+Guam	1991	100	97
+Guam	1992	100	97
+Guam	1993	100	97
+Guam	1994	100	97
+Guam	1995	100	97
+Guam	1996	100	97
+Guam	1997	100	97
+Guam	1998	99	97
+Guam	1999	99	97
+Guam	2000	99	97
+Guam	2001	99	97
+Guam	2002	99	97
+Guam	2003	99	97
+Guam	2004	99	97
+Guam	2005	99	97
+Guam	2006	99	97
+Guam	2007	99	97
+Guam	2008	99	97
+Guam	2009	99	97
+Guam	2010	99	97
+Guam	2011	99	97
+Guam	2012	NA	NA
+Guam	2013	NA	NA
+Guatemala	1990	81	62
+Guatemala	1991	82	63
+Guatemala	1992	83	64
+Guatemala	1993	83	65
+Guatemala	1994	84	66
+Guatemala	1995	84	67
+Guatemala	1996	85	67
+Guatemala	1997	86	68
+Guatemala	1998	86	69
+Guatemala	1999	87	70
+Guatemala	2000	87	71
+Guatemala	2001	88	72
+Guatemala	2002	89	73
+Guatemala	2003	89	74
+Guatemala	2004	90	74
+Guatemala	2005	90	75
+Guatemala	2006	91	76
+Guatemala	2007	92	77
+Guatemala	2008	92	78
+Guatemala	2009	93	79
+Guatemala	2010	93	79
+Guatemala	2011	94	80
+Guatemala	2012	NA	NA
+Guatemala	2013	NA	NA
+Guinea	1990	51	10
+Guinea	1991	53	10
+Guinea	1992	54	11
+Guinea	1993	55	11
+Guinea	1994	56	12
+Guinea	1995	57	12
+Guinea	1996	59	12
+Guinea	1997	60	13
+Guinea	1998	61	13
+Guinea	1999	62	14
+Guinea	2000	63	14
+Guinea	2001	64	15
+Guinea	2002	65	15
+Guinea	2003	67	15
+Guinea	2004	68	16
+Guinea	2005	69	16
+Guinea	2006	70	17
+Guinea	2007	71	17
+Guinea	2008	72	18
+Guinea	2009	73	18
+Guinea	2010	74	18
+Guinea	2011	74	18
+Guinea	2012	NA	NA
+Guinea	2013	NA	NA
+Guinea-Bissau	1990	36	NA
+Guinea-Bissau	1991	37	NA
+Guinea-Bissau	1992	39	NA
+Guinea-Bissau	1993	40	NA
+Guinea-Bissau	1994	42	10
+Guinea-Bissau	1995	44	11
+Guinea-Bissau	1996	45	11
+Guinea-Bissau	1997	47	11
+Guinea-Bissau	1998	49	11
+Guinea-Bissau	1999	50	12
+Guinea-Bissau	2000	52	12
+Guinea-Bissau	2001	54	13
+Guinea-Bissau	2002	55	13
+Guinea-Bissau	2003	57	14
+Guinea-Bissau	2004	59	15
+Guinea-Bissau	2005	61	15
+Guinea-Bissau	2006	62	16
+Guinea-Bissau	2007	64	17
+Guinea-Bissau	2008	66	17
+Guinea-Bissau	2009	68	18
+Guinea-Bissau	2010	70	18
+Guinea-Bissau	2011	72	19
+Guinea-Bissau	2012	NA	NA
+Guinea-Bissau	2013	NA	NA
+Guyana	1990	NA	NA
+Guyana	1991	NA	NA
+Guyana	1992	NA	NA
+Guyana	1993	NA	NA
+Guyana	1994	88	78
+Guyana	1995	88	78
+Guyana	1996	88	78
+Guyana	1997	88	78
+Guyana	1998	88	78
+Guyana	1999	88	79
+Guyana	2000	89	79
+Guyana	2001	89	79
+Guyana	2002	90	80
+Guyana	2003	90	80
+Guyana	2004	91	81
+Guyana	2005	91	81
+Guyana	2006	92	82
+Guyana	2007	92	82
+Guyana	2008	93	83
+Guyana	2009	94	83
+Guyana	2010	94	83
+Guyana	2011	95	84
+Guyana	2012	NA	NA
+Guyana	2013	NA	NA
+Haiti	1990	61	21
+Haiti	1991	62	21
+Haiti	1992	62	21
+Haiti	1993	62	22
+Haiti	1994	62	22
+Haiti	1995	62	22
+Haiti	1996	62	22
+Haiti	1997	62	22
+Haiti	1998	62	22
+Haiti	1999	62	23
+Haiti	2000	62	23
+Haiti	2001	62	23
+Haiti	2002	62	24
+Haiti	2003	63	24
+Haiti	2004	63	24
+Haiti	2005	63	25
+Haiti	2006	63	25
+Haiti	2007	64	25
+Haiti	2008	64	25
+Haiti	2009	64	26
+Haiti	2010	64	26
+Haiti	2011	64	26
+Haiti	2012	NA	NA
+Haiti	2013	NA	NA
+Honduras	1990	73	49
+Honduras	1991	74	50
+Honduras	1992	74	52
+Honduras	1993	75	54
+Honduras	1994	76	55
+Honduras	1995	77	57
+Honduras	1996	78	58
+Honduras	1997	78	60
+Honduras	1998	79	61
+Honduras	1999	80	63
+Honduras	2000	81	65
+Honduras	2001	82	66
+Honduras	2002	82	68
+Honduras	2003	83	69
+Honduras	2004	84	71
+Honduras	2005	85	72
+Honduras	2006	85	74
+Honduras	2007	86	75
+Honduras	2008	87	76
+Honduras	2009	88	78
+Honduras	2010	88	79
+Honduras	2011	89	81
+Honduras	2012	NA	NA
+Honduras	2013	NA	NA
+Hungary	1990	96	100
+Hungary	1991	96	100
+Hungary	1992	96	100
+Hungary	1993	97	100
+Hungary	1994	97	100
+Hungary	1995	97	100
+Hungary	1996	98	100
+Hungary	1997	98	100
+Hungary	1998	98	100
+Hungary	1999	99	100
+Hungary	2000	99	100
+Hungary	2001	99	100
+Hungary	2002	100	100
+Hungary	2003	100	100
+Hungary	2004	100	100
+Hungary	2005	100	100
+Hungary	2006	100	100
+Hungary	2007	100	100
+Hungary	2008	100	100
+Hungary	2009	100	100
+Hungary	2010	100	100
+Hungary	2011	100	100
+Hungary	2012	NA	NA
+Hungary	2013	NA	NA
+Iceland	1990	100	100
+Iceland	1991	100	100
+Iceland	1992	100	100
+Iceland	1993	100	100
+Iceland	1994	100	100
+Iceland	1995	100	100
+Iceland	1996	100	100
+Iceland	1997	100	100
+Iceland	1998	100	100
+Iceland	1999	100	100
+Iceland	2000	100	100
+Iceland	2001	100	100
+Iceland	2002	100	100
+Iceland	2003	100	100
+Iceland	2004	100	100
+Iceland	2005	100	100
+Iceland	2006	100	100
+Iceland	2007	100	100
+Iceland	2008	100	100
+Iceland	2009	100	100
+Iceland	2010	100	100
+Iceland	2011	100	100
+Iceland	2012	NA	NA
+Iceland	2013	NA	NA
+India	1990	70	18
+India	1991	71	18
+India	1992	72	19
+India	1993	73	20
+India	1994	74	20
+India	1995	76	21
+India	1996	77	22
+India	1997	78	23
+India	1998	79	24
+India	1999	80	25
+India	2000	81	25
+India	2001	82	26
+India	2002	83	27
+India	2003	84	28
+India	2004	85	29
+India	2005	86	30
+India	2006	87	31
+India	2007	88	32
+India	2008	89	32
+India	2009	90	33
+India	2010	91	34
+India	2011	92	35
+India	2012	NA	NA
+India	2013	NA	NA
+Indonesia	1990	70	35
+Indonesia	1991	71	36
+Indonesia	1992	71	38
+Indonesia	1993	72	39
+Indonesia	1994	73	40
+Indonesia	1995	74	41
+Indonesia	1996	75	42
+Indonesia	1997	75	44
+Indonesia	1998	76	45
+Indonesia	1999	77	46
+Indonesia	2000	78	47
+Indonesia	2001	78	48
+Indonesia	2002	79	49
+Indonesia	2003	80	51
+Indonesia	2004	80	52
+Indonesia	2005	81	53
+Indonesia	2006	81	54
+Indonesia	2007	82	55
+Indonesia	2008	83	56
+Indonesia	2009	83	57
+Indonesia	2010	84	58
+Indonesia	2011	84	59
+Indonesia	2012	NA	NA
+Indonesia	2013	NA	NA
+Iran (Islamic Republic of)	1990	91	81
+Iran (Islamic Republic of)	1991	91	81
+Iran (Islamic Republic of)	1992	91	81
+Iran (Islamic Republic of)	1993	91	81
+Iran (Islamic Republic of)	1994	91	82
+Iran (Islamic Republic of)	1995	92	83
+Iran (Islamic Republic of)	1996	92	84
+Iran (Islamic Republic of)	1997	92	85
+Iran (Islamic Republic of)	1998	93	86
+Iran (Islamic Republic of)	1999	93	87
+Iran (Islamic Republic of)	2000	93	89
+Iran (Islamic Republic of)	2001	93	90
+Iran (Islamic Republic of)	2002	94	91
+Iran (Islamic Republic of)	2003	94	92
+Iran (Islamic Republic of)	2004	94	93
+Iran (Islamic Republic of)	2005	94	94
+Iran (Islamic Republic of)	2006	94	95
+Iran (Islamic Republic of)	2007	95	96
+Iran (Islamic Republic of)	2008	95	97
+Iran (Islamic Republic of)	2009	95	98
+Iran (Islamic Republic of)	2010	95	99
+Iran (Islamic Republic of)	2011	95	100
+Iran (Islamic Republic of)	2012	NA	NA
+Iran (Islamic Republic of)	2013	NA	NA
+Iraq	1990	78	NA
+Iraq	1991	78	72
+Iraq	1992	78	72
+Iraq	1993	78	72
+Iraq	1994	78	72
+Iraq	1995	78	72
+Iraq	1996	79	72
+Iraq	1997	79	73
+Iraq	1998	79	74
+Iraq	1999	80	74
+Iraq	2000	80	75
+Iraq	2001	80	76
+Iraq	2002	81	77
+Iraq	2003	81	77
+Iraq	2004	82	78
+Iraq	2005	82	79
+Iraq	2006	83	80
+Iraq	2007	83	81
+Iraq	2008	83	81
+Iraq	2009	84	82
+Iraq	2010	84	83
+Iraq	2011	85	84
+Iraq	2012	NA	NA
+Iraq	2013	NA	NA
+Ireland	1990	100	99
+Ireland	1991	100	99
+Ireland	1992	100	99
+Ireland	1993	100	99
+Ireland	1994	100	99
+Ireland	1995	100	99
+Ireland	1996	100	99
+Ireland	1997	100	99
+Ireland	1998	100	99
+Ireland	1999	100	99
+Ireland	2000	100	99
+Ireland	2001	100	99
+Ireland	2002	100	99
+Ireland	2003	100	99
+Ireland	2004	100	99
+Ireland	2005	100	99
+Ireland	2006	100	99
+Ireland	2007	100	99
+Ireland	2008	100	99
+Ireland	2009	100	99
+Ireland	2010	100	99
+Ireland	2011	100	99
+Ireland	2012	NA	NA
+Ireland	2013	NA	NA
+Israel	1990	100	100
+Israel	1991	100	100
+Israel	1992	100	100
+Israel	1993	100	100
+Israel	1994	100	100
+Israel	1995	100	100
+Israel	1996	100	100
+Israel	1997	100	100
+Israel	1998	100	100
+Israel	1999	100	100
+Israel	2000	100	100
+Israel	2001	100	100
+Israel	2002	100	100
+Israel	2003	100	100
+Israel	2004	100	100
+Israel	2005	100	100
+Israel	2006	100	100
+Israel	2007	100	100
+Israel	2008	100	100
+Israel	2009	100	100
+Israel	2010	100	100
+Israel	2011	100	100
+Israel	2012	NA	NA
+Israel	2013	NA	NA
+Italy	1990	100	NA
+Italy	1991	100	NA
+Italy	1992	100	NA
+Italy	1993	100	NA
+Italy	1994	100	NA
+Italy	1995	100	NA
+Italy	1996	100	NA
+Italy	1997	100	NA
+Italy	1998	100	NA
+Italy	1999	100	NA
+Italy	2000	100	NA
+Italy	2001	100	NA
+Italy	2002	100	NA
+Italy	2003	100	NA
+Italy	2004	100	NA
+Italy	2005	100	NA
+Italy	2006	100	NA
+Italy	2007	100	NA
+Italy	2008	100	NA
+Italy	2009	100	NA
+Italy	2010	100	NA
+Italy	2011	100	NA
+Italy	2012	NA	NA
+Italy	2013	NA	NA
+Jamaica	1990	93	79
+Jamaica	1991	93	79
+Jamaica	1992	93	80
+Jamaica	1993	93	80
+Jamaica	1994	93	80
+Jamaica	1995	93	80
+Jamaica	1996	93	80
+Jamaica	1997	93	80
+Jamaica	1998	93	80
+Jamaica	1999	93	80
+Jamaica	2000	93	80
+Jamaica	2001	93	80
+Jamaica	2002	93	80
+Jamaica	2003	93	80
+Jamaica	2004	93	80
+Jamaica	2005	93	80
+Jamaica	2006	93	80
+Jamaica	2007	93	80
+Jamaica	2008	93	80
+Jamaica	2009	93	80
+Jamaica	2010	93	80
+Jamaica	2011	93	80
+Jamaica	2012	NA	NA
+Jamaica	2013	NA	NA
+Japan	1990	100	100
+Japan	1991	100	100
+Japan	1992	100	100
+Japan	1993	100	100
+Japan	1994	100	100
+Japan	1995	100	100
+Japan	1996	100	100
+Japan	1997	100	100
+Japan	1998	100	100
+Japan	1999	100	100
+Japan	2000	100	100
+Japan	2001	100	100
+Japan	2002	100	100
+Japan	2003	100	100
+Japan	2004	100	100
+Japan	2005	100	100
+Japan	2006	100	100
+Japan	2007	100	100
+Japan	2008	100	100
+Japan	2009	100	100
+Japan	2010	100	100
+Japan	2011	100	100
+Japan	2012	NA	NA
+Japan	2013	NA	NA
+Jordan	1990	97	97
+Jordan	1991	97	97
+Jordan	1992	97	97
+Jordan	1993	97	97
+Jordan	1994	97	97
+Jordan	1995	97	97
+Jordan	1996	97	97
+Jordan	1997	97	97
+Jordan	1998	97	97
+Jordan	1999	97	97
+Jordan	2000	97	98
+Jordan	2001	97	98
+Jordan	2002	97	98
+Jordan	2003	97	98
+Jordan	2004	96	98
+Jordan	2005	96	98
+Jordan	2006	96	98
+Jordan	2007	96	98
+Jordan	2008	96	98
+Jordan	2009	96	98
+Jordan	2010	96	98
+Jordan	2011	96	98
+Jordan	2012	NA	NA
+Jordan	2013	NA	NA
+Kazakhstan	1990	96	96
+Kazakhstan	1991	96	96
+Kazakhstan	1992	96	96
+Kazakhstan	1993	96	96
+Kazakhstan	1994	96	96
+Kazakhstan	1995	96	97
+Kazakhstan	1996	96	97
+Kazakhstan	1997	96	97
+Kazakhstan	1998	96	97
+Kazakhstan	1999	96	97
+Kazakhstan	2000	96	97
+Kazakhstan	2001	96	97
+Kazakhstan	2002	95	97
+Kazakhstan	2003	95	97
+Kazakhstan	2004	95	97
+Kazakhstan	2005	95	97
+Kazakhstan	2006	95	97
+Kazakhstan	2007	95	97
+Kazakhstan	2008	95	97
+Kazakhstan	2009	95	97
+Kazakhstan	2010	95	97
+Kazakhstan	2011	95	97
+Kazakhstan	2012	NA	NA
+Kazakhstan	2013	NA	NA
+Kenya	1990	43	25
+Kenya	1991	44	25
+Kenya	1992	45	25
+Kenya	1993	46	25
+Kenya	1994	46	26
+Kenya	1995	47	26
+Kenya	1996	48	26
+Kenya	1997	49	26
+Kenya	1998	50	26
+Kenya	1999	51	27
+Kenya	2000	52	27
+Kenya	2001	53	27
+Kenya	2002	54	27
+Kenya	2003	54	28
+Kenya	2004	55	28
+Kenya	2005	56	28
+Kenya	2006	57	28
+Kenya	2007	58	28
+Kenya	2008	59	29
+Kenya	2009	59	29
+Kenya	2010	60	29
+Kenya	2011	61	29
+Kenya	2012	NA	NA
+Kenya	2013	NA	NA
+Kiribati	1990	50	28
+Kiribati	1991	50	28
+Kiribati	1992	51	29
+Kiribati	1993	52	30
+Kiribati	1994	53	30
+Kiribati	1995	53	31
+Kiribati	1996	54	31
+Kiribati	1997	55	32
+Kiribati	1998	57	33
+Kiribati	1999	58	33
+Kiribati	2000	59	34
+Kiribati	2001	60	35
+Kiribati	2002	60	35
+Kiribati	2003	61	36
+Kiribati	2004	62	36
+Kiribati	2005	62	37
+Kiribati	2006	63	37
+Kiribati	2007	63	37
+Kiribati	2008	64	38
+Kiribati	2009	65	38
+Kiribati	2010	65	39
+Kiribati	2011	66	39
+Kiribati	2012	NA	NA
+Kiribati	2013	NA	NA
+Korea, Democratic People's Republic of	1990	100	NA
+Korea, Democratic People's Republic of	1991	100	NA
+Korea, Democratic People's Republic of	1992	100	53
+Korea, Democratic People's Republic of	1993	100	53
+Korea, Democratic People's Republic of	1994	100	53
+Korea, Democratic People's Republic of	1995	100	53
+Korea, Democratic People's Republic of	1996	100	53
+Korea, Democratic People's Republic of	1997	100	55
+Korea, Democratic People's Republic of	1998	100	57
+Korea, Democratic People's Republic of	1999	100	59
+Korea, Democratic People's Republic of	2000	100	61
+Korea, Democratic People's Republic of	2001	100	63
+Korea, Democratic People's Republic of	2002	99	65
+Korea, Democratic People's Republic of	2003	99	67
+Korea, Democratic People's Republic of	2004	99	68
+Korea, Democratic People's Republic of	2005	99	70
+Korea, Democratic People's Republic of	2006	99	72
+Korea, Democratic People's Republic of	2007	99	74
+Korea, Democratic People's Republic of	2008	99	76
+Korea, Democratic People's Republic of	2009	98	78
+Korea, Democratic People's Republic of	2010	98	80
+Korea, Democratic People's Republic of	2011	98	82
+Korea, Democratic People's Republic of	2012	NA	NA
+Korea, Democratic People's Republic of	2013	NA	NA
+Korea, Republic of	1990	NA	100
+Korea, Republic of	1991	90	100
+Korea, Republic of	1992	90	100
+Korea, Republic of	1993	90	100
+Korea, Republic of	1994	90	100
+Korea, Republic of	1995	91	100
+Korea, Republic of	1996	91	100
+Korea, Republic of	1997	92	100
+Korea, Republic of	1998	92	100
+Korea, Republic of	1999	93	100
+Korea, Republic of	2000	93	100
+Korea, Republic of	2001	94	100
+Korea, Republic of	2002	95	100
+Korea, Republic of	2003	95	100
+Korea, Republic of	2004	96	100
+Korea, Republic of	2005	96	100
+Korea, Republic of	2006	97	100
+Korea, Republic of	2007	97	100
+Korea, Republic of	2008	98	100
+Korea, Republic of	2009	98	100
+Korea, Republic of	2010	98	100
+Korea, Republic of	2011	98	100
+Korea, Republic of	2012	NA	NA
+Korea, Republic of	2013	NA	NA
+Kuwait	1990	99	100
+Kuwait	1991	99	100
+Kuwait	1992	99	100
+Kuwait	1993	99	100
+Kuwait	1994	99	100
+Kuwait	1995	99	100
+Kuwait	1996	99	100
+Kuwait	1997	99	100
+Kuwait	1998	99	100
+Kuwait	1999	99	100
+Kuwait	2000	99	100
+Kuwait	2001	99	100
+Kuwait	2002	99	100
+Kuwait	2003	99	100
+Kuwait	2004	99	100
+Kuwait	2005	99	100
+Kuwait	2006	99	100
+Kuwait	2007	99	100
+Kuwait	2008	99	100
+Kuwait	2009	99	100
+Kuwait	2010	99	100
+Kuwait	2011	99	100
+Kuwait	2012	NA	NA
+Kuwait	2013	NA	NA
+Kyrgyzstan	1990	NA	NA
+Kyrgyzstan	1991	77	93
+Kyrgyzstan	1992	77	93
+Kyrgyzstan	1993	77	93
+Kyrgyzstan	1994	77	93
+Kyrgyzstan	1995	77	93
+Kyrgyzstan	1996	78	93
+Kyrgyzstan	1997	79	93
+Kyrgyzstan	1998	80	93
+Kyrgyzstan	1999	80	93
+Kyrgyzstan	2000	81	93
+Kyrgyzstan	2001	82	93
+Kyrgyzstan	2002	83	93
+Kyrgyzstan	2003	84	93
+Kyrgyzstan	2004	85	93
+Kyrgyzstan	2005	86	93
+Kyrgyzstan	2006	87	93
+Kyrgyzstan	2007	88	93
+Kyrgyzstan	2008	89	93
+Kyrgyzstan	2009	89	93
+Kyrgyzstan	2010	89	93
+Kyrgyzstan	2011	89	93
+Kyrgyzstan	2012	NA	NA
+Kyrgyzstan	2013	NA	NA
+Lao People's Democratic Republic	1990	NA	NA
+Lao People's Democratic Republic	1991	NA	NA
+Lao People's Democratic Republic	1992	NA	NA
+Lao People's Democratic Republic	1993	NA	NA
+Lao People's Democratic Republic	1994	40	20
+Lao People's Democratic Republic	1995	40	20
+Lao People's Democratic Republic	1996	40	21
+Lao People's Democratic Republic	1997	40	21
+Lao People's Democratic Republic	1998	41	22
+Lao People's Democratic Republic	1999	43	25
+Lao People's Democratic Republic	2000	45	28
+Lao People's Democratic Republic	2001	48	31
+Lao People's Democratic Republic	2002	50	34
+Lao People's Democratic Republic	2003	52	37
+Lao People's Democratic Republic	2004	55	40
+Lao People's Democratic Republic	2005	57	43
+Lao People's Democratic Republic	2006	59	46
+Lao People's Democratic Republic	2007	61	49
+Lao People's Democratic Republic	2008	63	53
+Lao People's Democratic Republic	2009	65	56
+Lao People's Democratic Republic	2010	68	59
+Lao People's Democratic Republic	2011	70	62
+Lao People's Democratic Republic	2012	NA	NA
+Lao People's Democratic Republic	2013	NA	NA
+Latvia	1990	98	NA
+Latvia	1991	98	NA
+Latvia	1992	98	NA
+Latvia	1993	98	NA
+Latvia	1994	98	NA
+Latvia	1995	98	NA
+Latvia	1996	98	NA
+Latvia	1997	98	79
+Latvia	1998	98	79
+Latvia	1999	98	79
+Latvia	2000	98	79
+Latvia	2001	98	79
+Latvia	2002	98	79
+Latvia	2003	98	79
+Latvia	2004	98	79
+Latvia	2005	98	79
+Latvia	2006	98	79
+Latvia	2007	98	79
+Latvia	2008	98	79
+Latvia	2009	98	79
+Latvia	2010	98	NA
+Latvia	2011	98	NA
+Latvia	2012	NA	NA
+Latvia	2013	NA	NA
+Lebanon	1990	100	NA
+Lebanon	1991	100	NA
+Lebanon	1992	100	NA
+Lebanon	1993	100	98
+Lebanon	1994	100	98
+Lebanon	1995	100	98
+Lebanon	1996	100	98
+Lebanon	1997	100	98
+Lebanon	1998	100	98
+Lebanon	1999	100	98
+Lebanon	2000	100	98
+Lebanon	2001	100	98
+Lebanon	2002	100	98
+Lebanon	2003	100	98
+Lebanon	2004	100	98
+Lebanon	2005	100	98
+Lebanon	2006	100	NA
+Lebanon	2007	100	NA
+Lebanon	2008	100	NA
+Lebanon	2009	100	NA
+Lebanon	2010	100	NA
+Lebanon	2011	100	NA
+Lebanon	2012	NA	NA
+Lebanon	2013	NA	NA
+Lesotho	1990	80	NA
+Lesotho	1991	80	NA
+Lesotho	1992	80	NA
+Lesotho	1993	80	NA
+Lesotho	1994	81	24
+Lesotho	1995	80	24
+Lesotho	1996	80	24
+Lesotho	1997	80	24
+Lesotho	1998	80	25
+Lesotho	1999	80	25
+Lesotho	2000	79	25
+Lesotho	2001	79	25
+Lesotho	2002	79	25
+Lesotho	2003	79	25
+Lesotho	2004	79	26
+Lesotho	2005	79	26
+Lesotho	2006	78	26
+Lesotho	2007	78	26
+Lesotho	2008	78	26
+Lesotho	2009	78	26
+Lesotho	2010	78	26
+Lesotho	2011	78	26
+Lesotho	2012	NA	NA
+Lesotho	2013	NA	NA
+Liberia	1990	NA	NA
+Liberia	1991	NA	NA
+Liberia	1992	NA	NA
+Liberia	1993	NA	NA
+Liberia	1994	58	10
+Liberia	1995	58	10
+Liberia	1996	60	12
+Liberia	1997	59	11
+Liberia	1998	58	10
+Liberia	1999	59	11
+Liberia	2000	61	12
+Liberia	2001	62	12
+Liberia	2002	63	13
+Liberia	2003	65	14
+Liberia	2004	67	15
+Liberia	2005	67	15
+Liberia	2006	68	15
+Liberia	2007	69	16
+Liberia	2008	71	16
+Liberia	2009	72	17
+Liberia	2010	73	18
+Liberia	2011	74	18
+Liberia	2012	NA	NA
+Liberia	2013	NA	NA
+Libyan Arab Jamahiriya	1990	54	97
+Libyan Arab Jamahiriya	1991	54	97
+Libyan Arab Jamahiriya	1992	54	97
+Libyan Arab Jamahiriya	1993	54	97
+Libyan Arab Jamahiriya	1994	54	97
+Libyan Arab Jamahiriya	1995	54	97
+Libyan Arab Jamahiriya	1996	54	97
+Libyan Arab Jamahiriya	1997	54	97
+Libyan Arab Jamahiriya	1998	54	97
+Libyan Arab Jamahiriya	1999	54	97
+Libyan Arab Jamahiriya	2000	54	97
+Libyan Arab Jamahiriya	2001	54	97
+Libyan Arab Jamahiriya	2002	NA	97
+Libyan Arab Jamahiriya	2003	NA	97
+Libyan Arab Jamahiriya	2004	NA	97
+Libyan Arab Jamahiriya	2005	NA	97
+Libyan Arab Jamahiriya	2006	NA	97
+Libyan Arab Jamahiriya	2007	NA	97
+Libyan Arab Jamahiriya	2008	NA	97
+Libyan Arab Jamahiriya	2009	NA	97
+Libyan Arab Jamahiriya	2010	NA	97
+Libyan Arab Jamahiriya	2011	NA	97
+Libyan Arab Jamahiriya	2012	NA	NA
+Libyan Arab Jamahiriya	2013	NA	NA
+Liechtenstein	1990	NA	NA
+Liechtenstein	1991	NA	NA
+Liechtenstein	1992	NA	NA
+Liechtenstein	1993	NA	NA
+Liechtenstein	1994	NA	NA
+Liechtenstein	1995	NA	NA
+Liechtenstein	1996	NA	NA
+Liechtenstein	1997	NA	NA
+Liechtenstein	1998	NA	NA
+Liechtenstein	1999	NA	NA
+Liechtenstein	2000	NA	NA
+Liechtenstein	2001	NA	NA
+Liechtenstein	2002	NA	NA
+Liechtenstein	2003	NA	NA
+Liechtenstein	2004	NA	NA
+Liechtenstein	2005	NA	NA
+Liechtenstein	2006	NA	NA
+Liechtenstein	2007	NA	NA
+Liechtenstein	2008	NA	NA
+Liechtenstein	2009	NA	NA
+Liechtenstein	2010	NA	NA
+Liechtenstein	2011	NA	NA
+Liechtenstein	2012	NA	NA
+Liechtenstein	2013	NA	NA
+Lithuania	1990	NA	NA
+Lithuania	1991	NA	NA
+Lithuania	1992	NA	NA
+Lithuania	1993	NA	NA
+Lithuania	1994	NA	NA
+Lithuania	1995	NA	NA
+Lithuania	1996	NA	NA
+Lithuania	1997	92	87
+Lithuania	1998	92	87
+Lithuania	1999	92	87
+Lithuania	2000	92	87
+Lithuania	2001	92	87
+Lithuania	2002	92	87
+Lithuania	2003	92	87
+Lithuania	2004	92	87
+Lithuania	2005	92	87
+Lithuania	2006	92	87
+Lithuania	2007	92	87
+Lithuania	2008	92	87
+Lithuania	2009	92	87
+Lithuania	2010	NA	NA
+Lithuania	2011	NA	NA
+Lithuania	2012	NA	NA
+Lithuania	2013	NA	NA
+Luxembourg	1990	100	100
+Luxembourg	1991	100	100
+Luxembourg	1992	100	100
+Luxembourg	1993	100	100
+Luxembourg	1994	100	100
+Luxembourg	1995	100	100
+Luxembourg	1996	100	100
+Luxembourg	1997	100	100
+Luxembourg	1998	100	100
+Luxembourg	1999	100	100
+Luxembourg	2000	100	100
+Luxembourg	2001	100	100
+Luxembourg	2002	100	100
+Luxembourg	2003	100	100
+Luxembourg	2004	100	100
+Luxembourg	2005	100	100
+Luxembourg	2006	100	100
+Luxembourg	2007	100	100
+Luxembourg	2008	100	100
+Luxembourg	2009	100	100
+Luxembourg	2010	100	100
+Luxembourg	2011	100	100
+Luxembourg	2012	NA	NA
+Luxembourg	2013	NA	NA
+Madagascar	1990	29	8
+Madagascar	1991	30	8
+Madagascar	1992	31	8
+Madagascar	1993	32	9
+Madagascar	1994	33	9
+Madagascar	1995	34	9
+Madagascar	1996	34	10
+Madagascar	1997	35	10
+Madagascar	1998	36	10
+Madagascar	1999	37	10
+Madagascar	2000	38	11
+Madagascar	2001	39	11
+Madagascar	2002	40	11
+Madagascar	2003	40	11
+Madagascar	2004	41	12
+Madagascar	2005	42	12
+Madagascar	2006	43	12
+Madagascar	2007	44	12
+Madagascar	2008	45	13
+Madagascar	2009	46	13
+Madagascar	2010	47	13
+Madagascar	2011	48	14
+Madagascar	2012	NA	NA
+Madagascar	2013	NA	NA
+Malawi	1990	42	39
+Malawi	1991	44	39
+Malawi	1992	46	40
+Malawi	1993	48	41
+Malawi	1994	50	41
+Malawi	1995	52	42
+Malawi	1996	54	43
+Malawi	1997	57	43
+Malawi	1998	59	44
+Malawi	1999	61	45
+Malawi	2000	63	46
+Malawi	2001	64	46
+Malawi	2002	66	47
+Malawi	2003	68	48
+Malawi	2004	70	48
+Malawi	2005	72	49
+Malawi	2006	74	50
+Malawi	2007	76	50
+Malawi	2008	78	51
+Malawi	2009	80	52
+Malawi	2010	82	52
+Malawi	2011	84	53
+Malawi	2012	NA	NA
+Malawi	2013	NA	NA
+Malaysia	1990	88	84
+Malaysia	1991	89	85
+Malaysia	1992	90	86
+Malaysia	1993	91	87
+Malaysia	1994	92	88
+Malaysia	1995	92	88
+Malaysia	1996	93	89
+Malaysia	1997	94	90
+Malaysia	1998	95	91
+Malaysia	1999	96	92
+Malaysia	2000	96	92
+Malaysia	2001	97	93
+Malaysia	2002	98	94
+Malaysia	2003	99	94
+Malaysia	2004	99	95
+Malaysia	2005	100	96
+Malaysia	2006	100	96
+Malaysia	2007	100	96
+Malaysia	2008	100	96
+Malaysia	2009	100	96
+Malaysia	2010	100	96
+Malaysia	2011	100	96
+Malaysia	2012	NA	NA
+Malaysia	2013	NA	NA
+Maldives	1990	93	68
+Maldives	1991	93	68
+Maldives	1992	93	68
+Maldives	1993	93	68
+Maldives	1994	93	68
+Maldives	1995	94	70
+Maldives	1996	94	72
+Maldives	1997	94	74
+Maldives	1998	95	76
+Maldives	1999	95	77
+Maldives	2000	95	79
+Maldives	2001	96	81
+Maldives	2002	96	83
+Maldives	2003	96	85
+Maldives	2004	97	87
+Maldives	2005	97	89
+Maldives	2006	97	91
+Maldives	2007	97	93
+Maldives	2008	98	94
+Maldives	2009	98	96
+Maldives	2010	98	97
+Maldives	2011	99	98
+Maldives	2012	NA	NA
+Maldives	2013	NA	NA
+Mali	1990	28	15
+Mali	1991	30	16
+Mali	1992	32	16
+Mali	1993	33	16
+Mali	1994	35	16
+Mali	1995	37	17
+Mali	1996	38	17
+Mali	1997	40	17
+Mali	1998	42	18
+Mali	1999	44	18
+Mali	2000	45	18
+Mali	2001	47	18
+Mali	2002	49	19
+Mali	2003	51	19
+Mali	2004	53	19
+Mali	2005	54	20
+Mali	2006	56	20
+Mali	2007	58	20
+Mali	2008	60	21
+Mali	2009	62	21
+Mali	2010	64	21
+Mali	2011	65	22
+Mali	2012	NA	NA
+Mali	2013	NA	NA
+Malta	1990	100	100
+Malta	1991	100	100
+Malta	1992	100	100
+Malta	1993	100	100
+Malta	1994	100	100
+Malta	1995	100	100
+Malta	1996	100	100
+Malta	1997	100	100
+Malta	1998	100	100
+Malta	1999	100	100
+Malta	2000	100	100
+Malta	2001	100	100
+Malta	2002	100	100
+Malta	2003	100	100
+Malta	2004	100	100
+Malta	2005	100	100
+Malta	2006	100	100
+Malta	2007	100	100
+Malta	2008	100	100
+Malta	2009	100	100
+Malta	2010	100	100
+Malta	2011	100	100
+Malta	2012	NA	NA
+Malta	2013	NA	NA
+Marshall Islands	1990	92	65
+Marshall Islands	1991	92	65
+Marshall Islands	1992	92	66
+Marshall Islands	1993	92	66
+Marshall Islands	1994	92	67
+Marshall Islands	1995	93	67
+Marshall Islands	1996	93	68
+Marshall Islands	1997	93	68
+Marshall Islands	1998	93	69
+Marshall Islands	1999	93	70
+Marshall Islands	2000	93	70
+Marshall Islands	2001	93	71
+Marshall Islands	2002	93	71
+Marshall Islands	2003	93	72
+Marshall Islands	2004	94	72
+Marshall Islands	2005	94	73
+Marshall Islands	2006	94	73
+Marshall Islands	2007	94	74
+Marshall Islands	2008	94	74
+Marshall Islands	2009	94	75
+Marshall Islands	2010	94	75
+Marshall Islands	2011	94	76
+Marshall Islands	2012	NA	NA
+Marshall Islands	2013	NA	NA
+Martinique	1990	NA	NA
+Martinique	1991	NA	NA
+Martinique	1992	82	NA
+Martinique	1993	82	NA
+Martinique	1994	82	NA
+Martinique	1995	82	NA
+Martinique	1996	81	NA
+Martinique	1997	83	NA
+Martinique	1998	85	NA
+Martinique	1999	86	NA
+Martinique	2000	88	NA
+Martinique	2001	89	NA
+Martinique	2002	91	92
+Martinique	2003	93	92
+Martinique	2004	94	92
+Martinique	2005	96	92
+Martinique	2006	98	92
+Martinique	2007	99	92
+Martinique	2008	100	92
+Martinique	2009	100	92
+Martinique	2010	100	92
+Martinique	2011	100	92
+Martinique	2012	NA	NA
+Martinique	2013	NA	NA
+Mauritania	1990	30	16
+Mauritania	1991	31	16
+Mauritania	1992	32	16
+Mauritania	1993	33	16
+Mauritania	1994	34	17
+Mauritania	1995	35	18
+Mauritania	1996	36	18
+Mauritania	1997	37	19
+Mauritania	1998	38	19
+Mauritania	1999	39	20
+Mauritania	2000	40	21
+Mauritania	2001	41	21
+Mauritania	2002	42	22
+Mauritania	2003	43	22
+Mauritania	2004	44	23
+Mauritania	2005	46	24
+Mauritania	2006	47	24
+Mauritania	2007	48	25
+Mauritania	2008	49	26
+Mauritania	2009	50	26
+Mauritania	2010	50	26
+Mauritania	2011	50	27
+Mauritania	2012	NA	NA
+Mauritania	2013	NA	NA
+Mauritius	1990	99	89
+Mauritius	1991	99	89
+Mauritius	1992	99	89
+Mauritius	1993	99	89
+Mauritius	1994	99	89
+Mauritius	1995	99	89
+Mauritius	1996	99	89
+Mauritius	1997	99	89
+Mauritius	1998	99	89
+Mauritius	1999	99	89
+Mauritius	2000	99	89
+Mauritius	2001	99	89
+Mauritius	2002	99	89
+Mauritius	2003	99	90
+Mauritius	2004	99	90
+Mauritius	2005	99	90
+Mauritius	2006	100	90
+Mauritius	2007	100	90
+Mauritius	2008	100	90
+Mauritius	2009	100	90
+Mauritius	2010	100	90
+Mauritius	2011	100	91
+Mauritius	2012	NA	NA
+Mauritius	2013	NA	NA
+Mayotte	1990	NA	NA
+Mayotte	1991	NA	NA
+Mayotte	1992	NA	NA
+Mayotte	1993	NA	NA
+Mayotte	1994	NA	NA
+Mayotte	1995	NA	NA
+Mayotte	1996	NA	NA
+Mayotte	1997	NA	NA
+Mayotte	1998	NA	NA
+Mayotte	1999	NA	NA
+Mayotte	2000	NA	NA
+Mayotte	2001	NA	NA
+Mayotte	2002	NA	NA
+Mayotte	2003	NA	NA
+Mayotte	2004	NA	NA
+Mayotte	2005	NA	NA
+Mayotte	2006	NA	NA
+Mayotte	2007	NA	NA
+Mayotte	2008	NA	NA
+Mayotte	2009	NA	NA
+Mayotte	2010	NA	NA
+Mayotte	2011	NA	NA
+Mayotte	2012	NA	NA
+Mayotte	2013	NA	NA
+Mexico	1990	82	66
+Mexico	1991	83	67
+Mexico	1992	84	68
+Mexico	1993	84	69
+Mexico	1994	85	70
+Mexico	1995	86	71
+Mexico	1996	86	72
+Mexico	1997	87	73
+Mexico	1998	87	74
+Mexico	1999	88	75
+Mexico	2000	89	75
+Mexico	2001	89	76
+Mexico	2002	90	77
+Mexico	2003	90	78
+Mexico	2004	91	79
+Mexico	2005	91	80
+Mexico	2006	92	81
+Mexico	2007	92	81
+Mexico	2008	93	82
+Mexico	2009	93	83
+Mexico	2010	94	84
+Mexico	2011	94	85
+Mexico	2012	NA	NA
+Mexico	2013	NA	NA
+Micronesia, Federated States of	1990	91	19
+Micronesia, Federated States of	1991	91	19
+Micronesia, Federated States of	1992	91	19
+Micronesia, Federated States of	1993	91	21
+Micronesia, Federated States of	1994	91	23
+Micronesia, Federated States of	1995	91	25
+Micronesia, Federated States of	1996	91	27
+Micronesia, Federated States of	1997	90	28
+Micronesia, Federated States of	1998	90	30
+Micronesia, Federated States of	1999	90	32
+Micronesia, Federated States of	2000	90	34
+Micronesia, Federated States of	2001	90	36
+Micronesia, Federated States of	2002	90	38
+Micronesia, Federated States of	2003	90	39
+Micronesia, Federated States of	2004	90	41
+Micronesia, Federated States of	2005	90	43
+Micronesia, Federated States of	2006	90	45
+Micronesia, Federated States of	2007	89	47
+Micronesia, Federated States of	2008	89	49
+Micronesia, Federated States of	2009	89	51
+Micronesia, Federated States of	2010	89	53
+Micronesia, Federated States of	2011	89	55
+Micronesia, Federated States of	2012	NA	NA
+Micronesia, Federated States of	2013	NA	NA
+Monaco	1990	100	100
+Monaco	1991	100	100
+Monaco	1992	100	100
+Monaco	1993	100	100
+Monaco	1994	100	100
+Monaco	1995	100	100
+Monaco	1996	100	100
+Monaco	1997	100	100
+Monaco	1998	100	100
+Monaco	1999	100	100
+Monaco	2000	100	100
+Monaco	2001	100	100
+Monaco	2002	100	100
+Monaco	2003	100	100
+Monaco	2004	100	100
+Monaco	2005	100	100
+Monaco	2006	100	100
+Monaco	2007	100	100
+Monaco	2008	100	100
+Monaco	2009	100	100
+Monaco	2010	100	100
+Monaco	2011	100	100
+Monaco	2012	NA	NA
+Monaco	2013	NA	NA
+Mongolia	1990	54	NA
+Mongolia	1991	54	NA
+Mongolia	1992	54	NA
+Mongolia	1993	54	NA
+Mongolia	1994	54	50
+Mongolia	1995	56	50
+Mongolia	1996	57	50
+Mongolia	1997	59	49
+Mongolia	1998	61	49
+Mongolia	1999	63	49
+Mongolia	2000	65	49
+Mongolia	2001	67	50
+Mongolia	2002	70	50
+Mongolia	2003	72	50
+Mongolia	2004	74	51
+Mongolia	2005	77	51
+Mongolia	2006	79	51
+Mongolia	2007	81	52
+Mongolia	2008	83	52
+Mongolia	2009	84	52
+Mongolia	2010	85	53
+Mongolia	2011	85	53
+Mongolia	2012	NA	NA
+Mongolia	2013	NA	NA
+Montenegro	1990	97	NA
+Montenegro	1991	97	NA
+Montenegro	1992	97	NA
+Montenegro	1993	98	NA
+Montenegro	1994	98	NA
+Montenegro	1995	98	NA
+Montenegro	1996	98	NA
+Montenegro	1997	98	NA
+Montenegro	1998	98	90
+Montenegro	1999	98	90
+Montenegro	2000	98	90
+Montenegro	2001	98	90
+Montenegro	2002	98	90
+Montenegro	2003	98	90
+Montenegro	2004	98	90
+Montenegro	2005	98	90
+Montenegro	2006	98	90
+Montenegro	2007	98	90
+Montenegro	2008	98	90
+Montenegro	2009	98	90
+Montenegro	2010	98	90
+Montenegro	2011	98	90
+Montenegro	2012	NA	NA
+Montenegro	2013	NA	NA
+Montserrat	1990	97	70
+Montserrat	1991	97	71
+Montserrat	1992	97	72
+Montserrat	1993	98	73
+Montserrat	1994	98	74
+Montserrat	1995	98	75
+Montserrat	1996	98	76
+Montserrat	1997	98	77
+Montserrat	1998	98	78
+Montserrat	1999	98	79
+Montserrat	2000	99	80
+Montserrat	2001	99	81
+Montserrat	2002	99	82
+Montserrat	2003	99	83
+Montserrat	2004	99	83
+Montserrat	2005	99	83
+Montserrat	2006	99	83
+Montserrat	2007	99	83
+Montserrat	2008	99	NA
+Montserrat	2009	99	NA
+Montserrat	2010	99	NA
+Montserrat	2011	99	NA
+Montserrat	2012	NA	NA
+Montserrat	2013	NA	NA
+Morocco	1990	73	53
+Morocco	1991	74	54
+Morocco	1992	74	55
+Morocco	1993	75	57
+Morocco	1994	75	58
+Morocco	1995	76	59
+Morocco	1996	76	60
+Morocco	1997	77	61
+Morocco	1998	77	62
+Morocco	1999	78	63
+Morocco	2000	78	64
+Morocco	2001	78	65
+Morocco	2002	79	66
+Morocco	2003	79	67
+Morocco	2004	80	67
+Morocco	2005	80	68
+Morocco	2006	81	69
+Morocco	2007	81	69
+Morocco	2008	81	69
+Morocco	2009	82	70
+Morocco	2010	82	70
+Morocco	2011	82	70
+Morocco	2012	NA	NA
+Morocco	2013	NA	NA
+Mozambique	1990	34	9
+Mozambique	1991	35	9
+Mozambique	1992	35	10
+Mozambique	1993	36	10
+Mozambique	1994	36	10
+Mozambique	1995	37	11
+Mozambique	1996	38	12
+Mozambique	1997	39	13
+Mozambique	1998	40	13
+Mozambique	1999	41	14
+Mozambique	2000	41	14
+Mozambique	2001	42	15
+Mozambique	2002	42	15
+Mozambique	2003	43	15
+Mozambique	2004	43	16
+Mozambique	2005	44	16
+Mozambique	2006	44	17
+Mozambique	2007	45	17
+Mozambique	2008	45	18
+Mozambique	2009	46	18
+Mozambique	2010	47	19
+Mozambique	2011	47	19
+Mozambique	2012	NA	NA
+Mozambique	2013	NA	NA
+Myanmar	1990	56	NA
+Myanmar	1991	56	55
+Myanmar	1992	56	55
+Myanmar	1993	56	55
+Myanmar	1994	57	55
+Myanmar	1995	59	55
+Myanmar	1996	61	56
+Myanmar	1997	62	58
+Myanmar	1998	64	59
+Myanmar	1999	65	61
+Myanmar	2000	67	62
+Myanmar	2001	68	63
+Myanmar	2002	70	65
+Myanmar	2003	72	66
+Myanmar	2004	73	68
+Myanmar	2005	75	69
+Myanmar	2006	76	70
+Myanmar	2007	78	72
+Myanmar	2008	80	73
+Myanmar	2009	81	75
+Myanmar	2010	83	76
+Myanmar	2011	84	77
+Myanmar	2012	NA	NA
+Myanmar	2013	NA	NA
+Namibia	1990	64	24
+Namibia	1991	66	24
+Namibia	1992	68	25
+Namibia	1993	69	25
+Namibia	1994	71	26
+Namibia	1995	73	26
+Namibia	1996	74	26
+Namibia	1997	76	27
+Namibia	1998	77	27
+Namibia	1999	79	28
+Namibia	2000	80	28
+Namibia	2001	82	29
+Namibia	2002	83	29
+Namibia	2003	85	29
+Namibia	2004	86	30
+Namibia	2005	88	30
+Namibia	2006	89	31
+Namibia	2007	91	31
+Namibia	2008	92	31
+Namibia	2009	93	32
+Namibia	2010	93	32
+Namibia	2011	93	32
+Namibia	2012	NA	NA
+Namibia	2013	NA	NA
+Nauru	1990	NA	66
+Nauru	1991	NA	66
+Nauru	1992	NA	66
+Nauru	1993	NA	66
+Nauru	1994	NA	66
+Nauru	1995	NA	66
+Nauru	1996	93	66
+Nauru	1997	93	66
+Nauru	1998	93	66
+Nauru	1999	93	66
+Nauru	2000	93	66
+Nauru	2001	93	66
+Nauru	2002	94	66
+Nauru	2003	94	66
+Nauru	2004	94	66
+Nauru	2005	94	66
+Nauru	2006	95	66
+Nauru	2007	95	66
+Nauru	2008	95	66
+Nauru	2009	95	66
+Nauru	2010	96	66
+Nauru	2011	96	66
+Nauru	2012	NA	NA
+Nauru	2013	NA	NA
+Nepal	1990	67	7
+Nepal	1991	68	8
+Nepal	1992	69	10
+Nepal	1993	70	11
+Nepal	1994	71	12
+Nepal	1995	72	14
+Nepal	1996	73	15
+Nepal	1997	74	17
+Nepal	1998	75	18
+Nepal	1999	76	19
+Nepal	2000	77	21
+Nepal	2001	78	22
+Nepal	2002	79	24
+Nepal	2003	80	25
+Nepal	2004	81	26
+Nepal	2005	82	28
+Nepal	2006	83	29
+Nepal	2007	84	30
+Nepal	2008	85	32
+Nepal	2009	86	33
+Nepal	2010	87	34
+Nepal	2011	88	35
+Nepal	2012	NA	NA
+Nepal	2013	NA	NA
+Netherlands	1990	100	100
+Netherlands	1991	100	100
+Netherlands	1992	100	100
+Netherlands	1993	100	100
+Netherlands	1994	100	100
+Netherlands	1995	100	100
+Netherlands	1996	100	100
+Netherlands	1997	100	100
+Netherlands	1998	100	100
+Netherlands	1999	100	100
+Netherlands	2000	100	100
+Netherlands	2001	100	100
+Netherlands	2002	100	100
+Netherlands	2003	100	100
+Netherlands	2004	100	100
+Netherlands	2005	100	100
+Netherlands	2006	100	100
+Netherlands	2007	100	100
+Netherlands	2008	100	100
+Netherlands	2009	100	100
+Netherlands	2010	100	100
+Netherlands	2011	100	100
+Netherlands	2012	NA	NA
+Netherlands	2013	NA	NA
+Netherlands Antilles	1990	NA	NA
+Netherlands Antilles	1991	NA	NA
+Netherlands Antilles	1992	NA	NA
+Netherlands Antilles	1993	NA	NA
+Netherlands Antilles	1994	NA	NA
+Netherlands Antilles	1995	NA	NA
+Netherlands Antilles	1996	NA	NA
+Netherlands Antilles	1997	NA	NA
+Netherlands Antilles	1998	NA	NA
+Netherlands Antilles	1999	NA	NA
+Netherlands Antilles	2000	NA	NA
+Netherlands Antilles	2001	NA	NA
+Netherlands Antilles	2002	NA	NA
+Netherlands Antilles	2003	NA	NA
+Netherlands Antilles	2004	NA	NA
+Netherlands Antilles	2005	NA	NA
+Netherlands Antilles	2006	NA	NA
+Netherlands Antilles	2007	NA	NA
+Netherlands Antilles	2008	NA	NA
+Netherlands Antilles	2009	NA	NA
+Netherlands Antilles	2010	NA	NA
+Netherlands Antilles	2011	NA	NA
+Netherlands Antilles	2012	NA	NA
+Netherlands Antilles	2013	NA	NA
+New Caledonia	1990	NA	100
+New Caledonia	1991	NA	100
+New Caledonia	1992	NA	100
+New Caledonia	1993	NA	100
+New Caledonia	1994	NA	100
+New Caledonia	1995	NA	100
+New Caledonia	1996	NA	100
+New Caledonia	1997	NA	100
+New Caledonia	1998	94	100
+New Caledonia	1999	94	100
+New Caledonia	2000	94	100
+New Caledonia	2001	94	100
+New Caledonia	2002	94	100
+New Caledonia	2003	95	100
+New Caledonia	2004	95	100
+New Caledonia	2005	95	100
+New Caledonia	2006	96	100
+New Caledonia	2007	96	100
+New Caledonia	2008	97	100
+New Caledonia	2009	97	100
+New Caledonia	2010	98	100
+New Caledonia	2011	98	100
+New Caledonia	2012	NA	NA
+New Caledonia	2013	NA	NA
+New Zealand	1990	100	NA
+New Zealand	1991	100	NA
+New Zealand	1992	100	NA
+New Zealand	1993	100	NA
+New Zealand	1994	100	NA
+New Zealand	1995	100	NA
+New Zealand	1996	100	NA
+New Zealand	1997	100	NA
+New Zealand	1998	100	NA
+New Zealand	1999	100	NA
+New Zealand	2000	100	NA
+New Zealand	2001	100	NA
+New Zealand	2002	100	NA
+New Zealand	2003	100	NA
+New Zealand	2004	100	NA
+New Zealand	2005	100	NA
+New Zealand	2006	100	NA
+New Zealand	2007	100	NA
+New Zealand	2008	100	NA
+New Zealand	2009	100	NA
+New Zealand	2010	100	NA
+New Zealand	2011	100	NA
+New Zealand	2012	NA	NA
+New Zealand	2013	NA	NA
+Nicaragua	1990	74	43
+Nicaragua	1991	74	44
+Nicaragua	1992	75	44
+Nicaragua	1993	76	45
+Nicaragua	1994	76	45
+Nicaragua	1995	77	46
+Nicaragua	1996	78	46
+Nicaragua	1997	78	47
+Nicaragua	1998	79	47
+Nicaragua	1999	79	48
+Nicaragua	2000	80	48
+Nicaragua	2001	81	48
+Nicaragua	2002	81	49
+Nicaragua	2003	82	49
+Nicaragua	2004	82	50
+Nicaragua	2005	83	50
+Nicaragua	2006	84	51
+Nicaragua	2007	84	51
+Nicaragua	2008	85	52
+Nicaragua	2009	85	52
+Nicaragua	2010	85	52
+Nicaragua	2011	85	52
+Nicaragua	2012	NA	NA
+Nicaragua	2013	NA	NA
+Niger	1990	35	4
+Niger	1991	35	5
+Niger	1992	36	5
+Niger	1993	37	5
+Niger	1994	38	5
+Niger	1995	38	6
+Niger	1996	39	6
+Niger	1997	40	6
+Niger	1998	41	6
+Niger	1999	41	7
+Niger	2000	42	7
+Niger	2001	43	7
+Niger	2002	44	8
+Niger	2003	44	8
+Niger	2004	45	8
+Niger	2005	46	8
+Niger	2006	47	9
+Niger	2007	48	9
+Niger	2008	48	9
+Niger	2009	49	9
+Niger	2010	50	10
+Niger	2011	50	10
+Niger	2012	NA	NA
+Niger	2013	NA	NA
+Nigeria	1990	47	38
+Nigeria	1991	48	38
+Nigeria	1992	49	37
+Nigeria	1993	50	37
+Nigeria	1994	50	37
+Nigeria	1995	51	36
+Nigeria	1996	52	36
+Nigeria	1997	53	36
+Nigeria	1998	53	35
+Nigeria	1999	54	35
+Nigeria	2000	55	34
+Nigeria	2001	55	34
+Nigeria	2002	56	34
+Nigeria	2003	57	33
+Nigeria	2004	57	33
+Nigeria	2005	58	33
+Nigeria	2006	58	32
+Nigeria	2007	59	32
+Nigeria	2008	60	32
+Nigeria	2009	60	31
+Nigeria	2010	61	31
+Nigeria	2011	61	31
+Nigeria	2012	NA	NA
+Nigeria	2013	NA	NA
+Niue	1990	99	NA
+Niue	1991	99	69
+Niue	1992	99	69
+Niue	1993	99	69
+Niue	1994	99	69
+Niue	1995	99	69
+Niue	1996	99	71
+Niue	1997	99	73
+Niue	1998	99	75
+Niue	1999	99	77
+Niue	2000	99	79
+Niue	2001	99	81
+Niue	2002	99	84
+Niue	2003	99	86
+Niue	2004	99	88
+Niue	2005	99	90
+Niue	2006	99	92
+Niue	2007	99	94
+Niue	2008	99	96
+Niue	2009	99	99
+Niue	2010	99	100
+Niue	2011	99	100
+Niue	2012	NA	NA
+Niue	2013	NA	NA
+Northern Mariana Islands	1990	94	84
+Northern Mariana Islands	1991	94	85
+Northern Mariana Islands	1992	94	86
+Northern Mariana Islands	1993	95	86
+Northern Mariana Islands	1994	95	87
+Northern Mariana Islands	1995	95	88
+Northern Mariana Islands	1996	95	89
+Northern Mariana Islands	1997	95	90
+Northern Mariana Islands	1998	95	91
+Northern Mariana Islands	1999	95	91
+Northern Mariana Islands	2000	95	92
+Northern Mariana Islands	2001	95	93
+Northern Mariana Islands	2002	96	94
+Northern Mariana Islands	2003	96	95
+Northern Mariana Islands	2004	96	95
+Northern Mariana Islands	2005	96	96
+Northern Mariana Islands	2006	96	97
+Northern Mariana Islands	2007	96	98
+Northern Mariana Islands	2008	96	98
+Northern Mariana Islands	2009	96	98
+Northern Mariana Islands	2010	96	98
+Northern Mariana Islands	2011	97	98
+Northern Mariana Islands	2012	NA	NA
+Northern Mariana Islands	2013	NA	NA
+Norway	1990	100	100
+Norway	1991	100	100
+Norway	1992	100	100
+Norway	1993	100	100
+Norway	1994	100	100
+Norway	1995	100	100
+Norway	1996	100	100
+Norway	1997	100	100
+Norway	1998	100	100
+Norway	1999	100	100
+Norway	2000	100	100
+Norway	2001	100	100
+Norway	2002	100	100
+Norway	2003	100	100
+Norway	2004	100	100
+Norway	2005	100	100
+Norway	2006	100	100
+Norway	2007	100	100
+Norway	2008	100	100
+Norway	2009	100	100
+Norway	2010	100	100
+Norway	2011	100	100
+Norway	2012	NA	NA
+Norway	2013	NA	NA
+Oman	1990	79	82
+Oman	1991	79	82
+Oman	1992	79	83
+Oman	1993	80	84
+Oman	1994	80	84
+Oman	1995	80	85
+Oman	1996	81	86
+Oman	1997	82	86
+Oman	1998	83	87
+Oman	1999	83	88
+Oman	2000	84	89
+Oman	2001	85	90
+Oman	2002	85	91
+Oman	2003	86	92
+Oman	2004	87	92
+Oman	2005	88	93
+Oman	2006	88	94
+Oman	2007	89	95
+Oman	2008	90	96
+Oman	2009	91	97
+Oman	2010	92	97
+Oman	2011	92	97
+Oman	2012	NA	NA
+Oman	2013	NA	NA
+Pakistan	1990	85	27
+Pakistan	1991	86	28
+Pakistan	1992	86	29
+Pakistan	1993	86	30
+Pakistan	1994	87	31
+Pakistan	1995	87	32
+Pakistan	1996	87	33
+Pakistan	1997	87	34
+Pakistan	1998	88	35
+Pakistan	1999	88	36
+Pakistan	2000	88	37
+Pakistan	2001	89	38
+Pakistan	2002	89	39
+Pakistan	2003	89	40
+Pakistan	2004	89	41
+Pakistan	2005	90	42
+Pakistan	2006	90	43
+Pakistan	2007	90	44
+Pakistan	2008	91	45
+Pakistan	2009	91	46
+Pakistan	2010	91	47
+Pakistan	2011	91	47
+Pakistan	2012	NA	NA
+Pakistan	2013	NA	NA
+Palau	1990	90	46
+Palau	1991	90	50
+Palau	1992	91	54
+Palau	1993	91	57
+Palau	1994	91	61
+Palau	1995	91	64
+Palau	1996	92	68
+Palau	1997	92	71
+Palau	1998	92	74
+Palau	1999	92	78
+Palau	2000	92	81
+Palau	2001	93	85
+Palau	2002	93	89
+Palau	2003	94	92
+Palau	2004	94	96
+Palau	2005	94	98
+Palau	2006	95	99
+Palau	2007	95	100
+Palau	2008	95	100
+Palau	2009	95	100
+Palau	2010	95	100
+Palau	2011	95	100
+Palau	2012	NA	NA
+Palau	2013	NA	NA
+Panama	1990	84	58
+Panama	1991	85	59
+Panama	1992	85	59
+Panama	1993	86	60
+Panama	1994	87	61
+Panama	1995	87	62
+Panama	1996	88	62
+Panama	1997	89	63
+Panama	1998	89	64
+Panama	1999	90	65
+Panama	2000	90	65
+Panama	2001	91	66
+Panama	2002	91	67
+Panama	2003	92	67
+Panama	2004	92	68
+Panama	2005	93	68
+Panama	2006	93	69
+Panama	2007	93	70
+Panama	2008	94	70
+Panama	2009	94	71
+Panama	2010	94	71
+Panama	2011	94	71
+Panama	2012	NA	NA
+Panama	2013	NA	NA
+Papua New Guinea	1990	33	20
+Papua New Guinea	1991	33	20
+Papua New Guinea	1992	33	20
+Papua New Guinea	1993	33	20
+Papua New Guinea	1994	33	20
+Papua New Guinea	1995	33	20
+Papua New Guinea	1996	34	20
+Papua New Guinea	1997	34	19
+Papua New Guinea	1998	34	19
+Papua New Guinea	1999	35	19
+Papua New Guinea	2000	35	19
+Papua New Guinea	2001	36	19
+Papua New Guinea	2002	36	19
+Papua New Guinea	2003	36	19
+Papua New Guinea	2004	37	19
+Papua New Guinea	2005	37	19
+Papua New Guinea	2006	38	19
+Papua New Guinea	2007	38	19
+Papua New Guinea	2008	39	19
+Papua New Guinea	2009	39	19
+Papua New Guinea	2010	40	19
+Papua New Guinea	2011	40	19
+Papua New Guinea	2012	NA	NA
+Papua New Guinea	2013	NA	NA
+Paraguay	1990	52	38
+Paraguay	1991	54	40
+Paraguay	1992	57	42
+Paraguay	1993	59	44
+Paraguay	1994	61	46
+Paraguay	1995	63	48
+Paraguay	1996	65	50
+Paraguay	1997	67	52
+Paraguay	1998	70	54
+Paraguay	1999	72	56
+Paraguay	2000	74	58
+Paraguay	2001	76	60
+Paraguay	2002	78	62
+Paraguay	2003	80	64
+Paraguay	2004	82	66
+Paraguay	2005	84	68
+Paraguay	2006	86	70
+Paraguay	2007	86	70
+Paraguay	2008	86	70
+Paraguay	2009	86	71
+Paraguay	2010	86	71
+Paraguay	2011	NA	NA
+Paraguay	2012	NA	NA
+Paraguay	2013	NA	NA
+Peru	1990	75	54
+Peru	1991	75	55
+Peru	1992	76	56
+Peru	1993	77	57
+Peru	1994	77	58
+Peru	1995	78	59
+Peru	1996	78	60
+Peru	1997	79	60
+Peru	1998	79	61
+Peru	1999	80	62
+Peru	2000	80	63
+Peru	2001	81	64
+Peru	2002	81	65
+Peru	2003	82	65
+Peru	2004	82	66
+Peru	2005	83	67
+Peru	2006	83	68
+Peru	2007	84	68
+Peru	2008	84	69
+Peru	2009	84	70
+Peru	2010	85	71
+Peru	2011	85	72
+Peru	2012	NA	NA
+Peru	2013	NA	NA
+Philippines	1990	85	57
+Philippines	1991	85	58
+Philippines	1992	86	59
+Philippines	1993	86	59
+Philippines	1994	86	60
+Philippines	1995	87	61
+Philippines	1996	87	62
+Philippines	1997	87	63
+Philippines	1998	88	64
+Philippines	1999	88	65
+Philippines	2000	89	65
+Philippines	2001	89	66
+Philippines	2002	89	67
+Philippines	2003	90	68
+Philippines	2004	90	69
+Philippines	2005	90	70
+Philippines	2006	91	71
+Philippines	2007	91	71
+Philippines	2008	92	72
+Philippines	2009	92	73
+Philippines	2010	92	74
+Philippines	2011	92	74
+Philippines	2012	NA	NA
+Philippines	2013	NA	NA
+Poland	1990	NA	NA
+Poland	1991	NA	NA
+Poland	1992	NA	NA
+Poland	1993	NA	NA
+Poland	1994	NA	NA
+Poland	1995	NA	NA
+Poland	1996	NA	89
+Poland	1997	NA	89
+Poland	1998	NA	89
+Poland	1999	NA	89
+Poland	2000	NA	89
+Poland	2001	NA	89
+Poland	2002	NA	89
+Poland	2003	NA	89
+Poland	2004	NA	89
+Poland	2005	NA	89
+Poland	2006	NA	89
+Poland	2007	NA	89
+Poland	2008	NA	89
+Poland	2009	NA	NA
+Poland	2010	NA	NA
+Poland	2011	NA	NA
+Poland	2012	NA	NA
+Poland	2013	NA	NA
+Portugal	1990	96	94
+Portugal	1991	96	94
+Portugal	1992	97	95
+Portugal	1993	97	95
+Portugal	1994	97	95
+Portugal	1995	97	96
+Portugal	1996	97	96
+Portugal	1997	97	97
+Portugal	1998	98	97
+Portugal	1999	98	97
+Portugal	2000	98	98
+Portugal	2001	98	98
+Portugal	2002	98	98
+Portugal	2003	98	99
+Portugal	2004	99	99
+Portugal	2005	99	99
+Portugal	2006	99	100
+Portugal	2007	99	100
+Portugal	2008	99	100
+Portugal	2009	99	100
+Portugal	2010	100	100
+Portugal	2011	100	100
+Portugal	2012	NA	NA
+Portugal	2013	NA	NA
+Puerto Rico	1990	94	99
+Puerto Rico	1991	94	99
+Puerto Rico	1992	94	99
+Puerto Rico	1993	94	99
+Puerto Rico	1994	94	99
+Puerto Rico	1995	94	99
+Puerto Rico	1996	94	99
+Puerto Rico	1997	94	99
+Puerto Rico	1998	94	99
+Puerto Rico	1999	94	99
+Puerto Rico	2000	94	99
+Puerto Rico	2001	94	99
+Puerto Rico	2002	NA	99
+Puerto Rico	2003	NA	99
+Puerto Rico	2004	NA	99
+Puerto Rico	2005	NA	99
+Puerto Rico	2006	NA	99
+Puerto Rico	2007	NA	99
+Puerto Rico	2008	NA	99
+Puerto Rico	2009	NA	99
+Puerto Rico	2010	NA	99
+Puerto Rico	2011	NA	99
+Puerto Rico	2012	NA	NA
+Puerto Rico	2013	NA	NA
+Qatar	1990	100	100
+Qatar	1991	100	100
+Qatar	1992	100	100
+Qatar	1993	100	100
+Qatar	1994	100	100
+Qatar	1995	100	100
+Qatar	1996	100	100
+Qatar	1997	100	100
+Qatar	1998	100	100
+Qatar	1999	100	100
+Qatar	2000	100	100
+Qatar	2001	100	100
+Qatar	2002	100	100
+Qatar	2003	100	100
+Qatar	2004	100	100
+Qatar	2005	100	100
+Qatar	2006	100	100
+Qatar	2007	100	100
+Qatar	2008	100	100
+Qatar	2009	100	100
+Qatar	2010	100	100
+Qatar	2011	100	100
+Qatar	2012	NA	NA
+Qatar	2013	NA	NA
+Republic of Moldova	1990	NA	NA
+Republic of Moldova	1991	NA	NA
+Republic of Moldova	1992	93	76
+Republic of Moldova	1993	93	76
+Republic of Moldova	1994	93	76
+Republic of Moldova	1995	93	76
+Republic of Moldova	1996	93	76
+Republic of Moldova	1997	93	77
+Republic of Moldova	1998	93	77
+Republic of Moldova	1999	93	78
+Republic of Moldova	2000	93	79
+Republic of Moldova	2001	94	79
+Republic of Moldova	2002	94	80
+Republic of Moldova	2003	94	80
+Republic of Moldova	2004	94	81
+Republic of Moldova	2005	94	82
+Republic of Moldova	2006	95	82
+Republic of Moldova	2007	95	83
+Republic of Moldova	2008	95	84
+Republic of Moldova	2009	96	85
+Republic of Moldova	2010	96	85
+Republic of Moldova	2011	96	86
+Republic of Moldova	2012	NA	NA
+Republic of Moldova	2013	NA	NA
+Reunion	1990	99	98
+Reunion	1991	99	98
+Reunion	1992	99	98
+Reunion	1993	99	98
+Reunion	1994	99	98
+Reunion	1995	99	98
+Reunion	1996	99	98
+Reunion	1997	99	98
+Reunion	1998	99	98
+Reunion	1999	99	98
+Reunion	2000	99	98
+Reunion	2001	99	98
+Reunion	2002	99	98
+Reunion	2003	99	98
+Reunion	2004	99	98
+Reunion	2005	99	98
+Reunion	2006	99	98
+Reunion	2007	99	98
+Reunion	2008	99	98
+Reunion	2009	99	98
+Reunion	2010	99	98
+Reunion	2011	99	98
+Reunion	2012	NA	NA
+Reunion	2013	NA	NA
+Romania	1990	75	71
+Romania	1991	76	71
+Romania	1992	77	72
+Romania	1993	78	72
+Romania	1994	79	72
+Romania	1995	80	72
+Romania	1996	81	72
+Romania	1997	82	72
+Romania	1998	82	72
+Romania	1999	83	72
+Romania	2000	84	72
+Romania	2001	85	72
+Romania	2002	86	72
+Romania	2003	87	72
+Romania	2004	88	72
+Romania	2005	88	72
+Romania	2006	88	72
+Romania	2007	88	72
+Romania	2008	88	72
+Romania	2009	NA	NA
+Romania	2010	NA	NA
+Romania	2011	NA	NA
+Romania	2012	NA	NA
+Romania	2013	NA	NA
+Russian Federation	1990	93	74
+Russian Federation	1991	93	74
+Russian Federation	1992	94	73
+Russian Federation	1993	94	73
+Russian Federation	1994	94	73
+Russian Federation	1995	94	73
+Russian Federation	1996	94	73
+Russian Federation	1997	94	73
+Russian Federation	1998	95	72
+Russian Federation	1999	95	72
+Russian Federation	2000	95	72
+Russian Federation	2001	95	72
+Russian Federation	2002	95	72
+Russian Federation	2003	96	72
+Russian Federation	2004	96	71
+Russian Federation	2005	96	71
+Russian Federation	2006	96	71
+Russian Federation	2007	96	71
+Russian Federation	2008	97	71
+Russian Federation	2009	97	71
+Russian Federation	2010	97	70
+Russian Federation	2011	97	70
+Russian Federation	2012	NA	NA
+Russian Federation	2013	NA	NA
+Rwanda	1990	62	32
+Rwanda	1991	62	33
+Rwanda	1992	62	35
+Rwanda	1993	63	36
+Rwanda	1994	63	38
+Rwanda	1995	64	39
+Rwanda	1996	64	41
+Rwanda	1997	65	43
+Rwanda	1998	65	44
+Rwanda	1999	66	46
+Rwanda	2000	66	47
+Rwanda	2001	67	49
+Rwanda	2002	67	50
+Rwanda	2003	67	51
+Rwanda	2004	68	53
+Rwanda	2005	68	54
+Rwanda	2006	68	55
+Rwanda	2007	68	56
+Rwanda	2008	68	58
+Rwanda	2009	69	59
+Rwanda	2010	69	60
+Rwanda	2011	69	61
+Rwanda	2012	NA	NA
+Rwanda	2013	NA	NA
+Saint Helena	1990	NA	NA
+Saint Helena	1991	NA	NA
+Saint Helena	1992	NA	NA
+Saint Helena	1993	NA	NA
+Saint Helena	1994	NA	NA
+Saint Helena	1995	NA	NA
+Saint Helena	1996	NA	NA
+Saint Helena	1997	NA	NA
+Saint Helena	1998	NA	NA
+Saint Helena	1999	NA	NA
+Saint Helena	2000	NA	NA
+Saint Helena	2001	NA	NA
+Saint Helena	2002	NA	NA
+Saint Helena	2003	NA	NA
+Saint Helena	2004	NA	NA
+Saint Helena	2005	NA	NA
+Saint Helena	2006	NA	NA
+Saint Helena	2007	NA	NA
+Saint Helena	2008	NA	NA
+Saint Helena	2009	NA	NA
+Saint Helena	2010	NA	NA
+Saint Helena	2011	NA	NA
+Saint Helena	2012	NA	NA
+Saint Helena	2013	NA	NA
+Saint Kitts and Nevis	1990	NA	NA
+Saint Kitts and Nevis	1991	NA	NA
+Saint Kitts and Nevis	1992	NA	NA
+Saint Kitts and Nevis	1993	NA	NA
+Saint Kitts and Nevis	1994	98	NA
+Saint Kitts and Nevis	1995	98	87
+Saint Kitts and Nevis	1996	98	87
+Saint Kitts and Nevis	1997	98	87
+Saint Kitts and Nevis	1998	98	87
+Saint Kitts and Nevis	1999	98	87
+Saint Kitts and Nevis	2000	98	87
+Saint Kitts and Nevis	2001	98	87
+Saint Kitts and Nevis	2002	98	87
+Saint Kitts and Nevis	2003	98	87
+Saint Kitts and Nevis	2004	98	87
+Saint Kitts and Nevis	2005	98	87
+Saint Kitts and Nevis	2006	98	87
+Saint Kitts and Nevis	2007	98	87
+Saint Kitts and Nevis	2008	98	NA
+Saint Kitts and Nevis	2009	98	NA
+Saint Kitts and Nevis	2010	98	NA
+Saint Kitts and Nevis	2011	98	NA
+Saint Kitts and Nevis	2012	NA	NA
+Saint Kitts and Nevis	2013	NA	NA
+Saint Lucia	1990	93	58
+Saint Lucia	1991	93	58
+Saint Lucia	1992	93	59
+Saint Lucia	1993	93	59
+Saint Lucia	1994	94	60
+Saint Lucia	1995	94	60
+Saint Lucia	1996	94	61
+Saint Lucia	1997	94	61
+Saint Lucia	1998	94	61
+Saint Lucia	1999	94	62
+Saint Lucia	2000	94	62
+Saint Lucia	2001	94	63
+Saint Lucia	2002	94	63
+Saint Lucia	2003	94	64
+Saint Lucia	2004	94	64
+Saint Lucia	2005	94	65
+Saint Lucia	2006	94	65
+Saint Lucia	2007	94	65
+Saint Lucia	2008	94	65
+Saint Lucia	2009	94	65
+Saint Lucia	2010	94	65
+Saint Lucia	2011	94	65
+Saint Lucia	2012	NA	NA
+Saint Lucia	2013	NA	NA
+Saint Pierre and Miquelon	1990	NA	NA
+Saint Pierre and Miquelon	1991	NA	NA
+Saint Pierre and Miquelon	1992	NA	NA
+Saint Pierre and Miquelon	1993	NA	NA
+Saint Pierre and Miquelon	1994	NA	NA
+Saint Pierre and Miquelon	1995	NA	NA
+Saint Pierre and Miquelon	1996	NA	NA
+Saint Pierre and Miquelon	1997	NA	NA
+Saint Pierre and Miquelon	1998	NA	NA
+Saint Pierre and Miquelon	1999	NA	NA
+Saint Pierre and Miquelon	2000	NA	NA
+Saint Pierre and Miquelon	2001	NA	NA
+Saint Pierre and Miquelon	2002	NA	NA
+Saint Pierre and Miquelon	2003	NA	NA
+Saint Pierre and Miquelon	2004	NA	NA
+Saint Pierre and Miquelon	2005	NA	NA
+Saint Pierre and Miquelon	2006	NA	NA
+Saint Pierre and Miquelon	2007	NA	NA
+Saint Pierre and Miquelon	2008	NA	NA
+Saint Pierre and Miquelon	2009	NA	NA
+Saint Pierre and Miquelon	2010	NA	NA
+Saint Pierre and Miquelon	2011	NA	NA
+Saint Pierre and Miquelon	2012	NA	NA
+Saint Pierre and Miquelon	2013	NA	NA
+Saint Vincent and the Grenadines	1990	88	63
+Saint Vincent and the Grenadines	1991	89	64
+Saint Vincent and the Grenadines	1992	89	65
+Saint Vincent and the Grenadines	1993	90	66
+Saint Vincent and the Grenadines	1994	90	67
+Saint Vincent and the Grenadines	1995	91	68
+Saint Vincent and the Grenadines	1996	91	69
+Saint Vincent and the Grenadines	1997	92	70
+Saint Vincent and the Grenadines	1998	92	71
+Saint Vincent and the Grenadines	1999	93	72
+Saint Vincent and the Grenadines	2000	93	73
+Saint Vincent and the Grenadines	2001	94	74
+Saint Vincent and the Grenadines	2002	95	75
+Saint Vincent and the Grenadines	2003	95	76
+Saint Vincent and the Grenadines	2004	95	76
+Saint Vincent and the Grenadines	2005	95	76
+Saint Vincent and the Grenadines	2006	95	76
+Saint Vincent and the Grenadines	2007	95	76
+Saint Vincent and the Grenadines	2008	95	NA
+Saint Vincent and the Grenadines	2009	95	NA
+Saint Vincent and the Grenadines	2010	95	NA
+Saint Vincent and the Grenadines	2011	95	NA
+Saint Vincent and the Grenadines	2012	NA	NA
+Saint Vincent and the Grenadines	2013	NA	NA
+Samoa	1990	89	93
+Samoa	1991	89	93
+Samoa	1992	90	93
+Samoa	1993	90	93
+Samoa	1994	91	93
+Samoa	1995	91	92
+Samoa	1996	92	92
+Samoa	1997	92	92
+Samoa	1998	92	92
+Samoa	1999	93	92
+Samoa	2000	93	92
+Samoa	2001	94	92
+Samoa	2002	94	92
+Samoa	2003	95	92
+Samoa	2004	95	92
+Samoa	2005	95	92
+Samoa	2006	96	92
+Samoa	2007	96	92
+Samoa	2008	97	92
+Samoa	2009	97	92
+Samoa	2010	98	92
+Samoa	2011	98	92
+Samoa	2012	NA	NA
+Samoa	2013	NA	NA
+San Marino	1990	NA	NA
+San Marino	1991	NA	NA
+San Marino	1992	NA	NA
+San Marino	1993	NA	NA
+San Marino	1994	NA	NA
+San Marino	1995	NA	NA
+San Marino	1996	NA	NA
+San Marino	1997	NA	NA
+San Marino	1998	NA	NA
+San Marino	1999	NA	NA
+San Marino	2000	NA	NA
+San Marino	2001	NA	NA
+San Marino	2002	NA	NA
+San Marino	2003	NA	NA
+San Marino	2004	NA	NA
+San Marino	2005	NA	NA
+San Marino	2006	NA	NA
+San Marino	2007	NA	NA
+San Marino	2008	NA	NA
+San Marino	2009	NA	NA
+San Marino	2010	NA	NA
+San Marino	2011	NA	NA
+San Marino	2012	NA	NA
+San Marino	2013	NA	NA
+Sao Tome and Principe	1990	NA	NA
+Sao Tome and Principe	1991	NA	NA
+Sao Tome and Principe	1992	NA	NA
+Sao Tome and Principe	1993	NA	NA
+Sao Tome and Principe	1994	74	18
+Sao Tome and Principe	1995	74	18
+Sao Tome and Principe	1996	74	18
+Sao Tome and Principe	1997	74	18
+Sao Tome and Principe	1998	75	19
+Sao Tome and Principe	1999	76	20
+Sao Tome and Principe	2000	78	21
+Sao Tome and Principe	2001	80	22
+Sao Tome and Principe	2002	82	23
+Sao Tome and Principe	2003	84	24
+Sao Tome and Principe	2004	85	26
+Sao Tome and Principe	2005	87	27
+Sao Tome and Principe	2006	89	28
+Sao Tome and Principe	2007	90	29
+Sao Tome and Principe	2008	92	31
+Sao Tome and Principe	2009	94	32
+Sao Tome and Principe	2010	95	33
+Sao Tome and Principe	2011	97	34
+Sao Tome and Principe	2012	NA	NA
+Sao Tome and Principe	2013	NA	NA
+Saudi Arabia	1990	92	92
+Saudi Arabia	1991	92	92
+Saudi Arabia	1992	92	92
+Saudi Arabia	1993	93	93
+Saudi Arabia	1994	93	93
+Saudi Arabia	1995	93	94
+Saudi Arabia	1996	94	94
+Saudi Arabia	1997	94	95
+Saudi Arabia	1998	94	96
+Saudi Arabia	1999	95	96
+Saudi Arabia	2000	95	97
+Saudi Arabia	2001	95	97
+Saudi Arabia	2002	96	98
+Saudi Arabia	2003	96	98
+Saudi Arabia	2004	96	99
+Saudi Arabia	2005	97	100
+Saudi Arabia	2006	97	100
+Saudi Arabia	2007	97	100
+Saudi Arabia	2008	97	100
+Saudi Arabia	2009	97	100
+Saudi Arabia	2010	97	100
+Saudi Arabia	2011	97	100
+Saudi Arabia	2012	NA	NA
+Saudi Arabia	2013	NA	NA
+Senegal	1990	60	36
+Senegal	1991	60	37
+Senegal	1992	61	37
+Senegal	1993	62	38
+Senegal	1994	62	39
+Senegal	1995	63	40
+Senegal	1996	64	40
+Senegal	1997	64	41
+Senegal	1998	65	42
+Senegal	1999	66	42
+Senegal	2000	66	43
+Senegal	2001	67	44
+Senegal	2002	67	45
+Senegal	2003	68	45
+Senegal	2004	69	46
+Senegal	2005	69	47
+Senegal	2006	70	48
+Senegal	2007	71	48
+Senegal	2008	71	49
+Senegal	2009	72	50
+Senegal	2010	73	51
+Senegal	2011	73	51
+Senegal	2012	NA	NA
+Senegal	2013	NA	NA
+Serbia	1990	99	96
+Serbia	1991	99	96
+Serbia	1992	99	96
+Serbia	1993	99	96
+Serbia	1994	99	96
+Serbia	1995	99	96
+Serbia	1996	99	96
+Serbia	1997	99	96
+Serbia	1998	99	96
+Serbia	1999	99	96
+Serbia	2000	100	96
+Serbia	2001	99	96
+Serbia	2002	99	96
+Serbia	2003	99	96
+Serbia	2004	99	96
+Serbia	2005	99	97
+Serbia	2006	99	97
+Serbia	2007	99	97
+Serbia	2008	99	97
+Serbia	2009	99	97
+Serbia	2010	99	97
+Serbia	2011	99	97
+Serbia	2012	NA	NA
+Serbia	2013	NA	NA
+Serbia and Montenegro	1990	NA	NA
+Serbia and Montenegro	1991	NA	NA
+Serbia and Montenegro	1992	NA	NA
+Serbia and Montenegro	1993	NA	NA
+Serbia and Montenegro	1994	NA	NA
+Serbia and Montenegro	1995	NA	NA
+Serbia and Montenegro	1996	NA	NA
+Serbia and Montenegro	1997	NA	NA
+Serbia and Montenegro	1998	NA	NA
+Serbia and Montenegro	1999	NA	NA
+Serbia and Montenegro	2000	NA	NA
+Serbia and Montenegro	2001	NA	NA
+Serbia and Montenegro	2002	NA	NA
+Serbia and Montenegro	2003	NA	NA
+Serbia and Montenegro	2004	NA	NA
+Serbia and Montenegro	2005	NA	NA
+Serbia and Montenegro	2006	NA	NA
+Serbia and Montenegro	2007	NA	NA
+Serbia and Montenegro	2008	NA	NA
+Serbia and Montenegro	2009	NA	NA
+Serbia and Montenegro	2010	NA	NA
+Serbia and Montenegro	2011	NA	NA
+Serbia and Montenegro	2012	NA	NA
+Serbia and Montenegro	2013	NA	NA
+Seychelles	1990	96	97
+Seychelles	1991	96	97
+Seychelles	1992	96	97
+Seychelles	1993	96	97
+Seychelles	1994	96	97
+Seychelles	1995	96	97
+Seychelles	1996	96	97
+Seychelles	1997	96	97
+Seychelles	1998	96	97
+Seychelles	1999	96	97
+Seychelles	2000	96	97
+Seychelles	2001	96	97
+Seychelles	2002	96	97
+Seychelles	2003	96	97
+Seychelles	2004	96	97
+Seychelles	2005	96	97
+Seychelles	2006	96	97
+Seychelles	2007	96	97
+Seychelles	2008	96	97
+Seychelles	2009	96	97
+Seychelles	2010	96	97
+Seychelles	2011	96	97
+Seychelles	2012	NA	NA
+Seychelles	2013	NA	NA
+Sierra Leone	1990	37	11
+Sierra Leone	1991	38	11
+Sierra Leone	1992	39	11
+Sierra Leone	1993	40	11
+Sierra Leone	1994	41	11
+Sierra Leone	1995	42	11
+Sierra Leone	1996	43	12
+Sierra Leone	1997	44	12
+Sierra Leone	1998	45	12
+Sierra Leone	1999	46	12
+Sierra Leone	2000	47	12
+Sierra Leone	2001	48	12
+Sierra Leone	2002	49	12
+Sierra Leone	2003	50	12
+Sierra Leone	2004	51	12
+Sierra Leone	2005	52	12
+Sierra Leone	2006	53	12
+Sierra Leone	2007	54	13
+Sierra Leone	2008	55	13
+Sierra Leone	2009	55	13
+Sierra Leone	2010	56	13
+Sierra Leone	2011	57	13
+Sierra Leone	2012	NA	NA
+Sierra Leone	2013	NA	NA
+Singapore	1990	100	99
+Singapore	1991	100	99
+Singapore	1992	100	99
+Singapore	1993	100	99
+Singapore	1994	100	99
+Singapore	1995	100	99
+Singapore	1996	100	99
+Singapore	1997	100	100
+Singapore	1998	100	100
+Singapore	1999	100	100
+Singapore	2000	100	100
+Singapore	2001	100	100
+Singapore	2002	100	100
+Singapore	2003	100	100
+Singapore	2004	100	100
+Singapore	2005	100	100
+Singapore	2006	100	100
+Singapore	2007	100	100
+Singapore	2008	100	100
+Singapore	2009	100	100
+Singapore	2010	100	100
+Singapore	2011	100	100
+Singapore	2012	NA	NA
+Singapore	2013	NA	NA
+Slovakia	1990	100	100
+Slovakia	1991	100	100
+Slovakia	1992	100	100
+Slovakia	1993	100	100
+Slovakia	1994	100	100
+Slovakia	1995	100	100
+Slovakia	1996	100	100
+Slovakia	1997	100	100
+Slovakia	1998	100	100
+Slovakia	1999	100	100
+Slovakia	2000	100	100
+Slovakia	2001	100	100
+Slovakia	2002	100	100
+Slovakia	2003	100	100
+Slovakia	2004	100	100
+Slovakia	2005	100	100
+Slovakia	2006	100	100
+Slovakia	2007	100	100
+Slovakia	2008	100	100
+Slovakia	2009	100	100
+Slovakia	2010	100	100
+Slovakia	2011	100	100
+Slovakia	2012	NA	NA
+Slovakia	2013	NA	NA
+Slovenia	1990	100	100
+Slovenia	1991	100	100
+Slovenia	1992	100	100
+Slovenia	1993	100	100
+Slovenia	1994	100	100
+Slovenia	1995	100	100
+Slovenia	1996	100	100
+Slovenia	1997	100	100
+Slovenia	1998	100	100
+Slovenia	1999	100	100
+Slovenia	2000	100	100
+Slovenia	2001	100	100
+Slovenia	2002	100	100
+Slovenia	2003	100	100
+Slovenia	2004	100	100
+Slovenia	2005	100	100
+Slovenia	2006	100	100
+Slovenia	2007	100	100
+Slovenia	2008	100	100
+Slovenia	2009	100	100
+Slovenia	2010	100	100
+Slovenia	2011	100	100
+Slovenia	2012	NA	NA
+Slovenia	2013	NA	NA
+Solomon Islands	1990	NA	NA
+Solomon Islands	1991	NA	NA
+Solomon Islands	1992	NA	NA
+Solomon Islands	1993	NA	NA
+Solomon Islands	1994	NA	NA
+Solomon Islands	1995	NA	NA
+Solomon Islands	1996	NA	NA
+Solomon Islands	1997	NA	NA
+Solomon Islands	1998	NA	NA
+Solomon Islands	1999	NA	NA
+Solomon Islands	2000	78	25
+Solomon Islands	2001	79	26
+Solomon Islands	2002	79	26
+Solomon Islands	2003	79	26
+Solomon Islands	2004	79	27
+Solomon Islands	2005	79	27
+Solomon Islands	2006	79	27
+Solomon Islands	2007	79	27
+Solomon Islands	2008	79	28
+Solomon Islands	2009	79	28
+Solomon Islands	2010	79	28
+Solomon Islands	2011	79	29
+Solomon Islands	2012	NA	NA
+Solomon Islands	2013	NA	NA
+Somalia	1990	NA	NA
+Somalia	1991	NA	NA
+Somalia	1992	NA	NA
+Somalia	1993	19	21
+Somalia	1994	19	21
+Somalia	1995	19	21
+Somalia	1996	19	22
+Somalia	1997	19	22
+Somalia	1998	20	22
+Somalia	1999	21	22
+Somalia	2000	21	22
+Somalia	2001	22	22
+Somalia	2002	23	22
+Somalia	2003	24	22
+Somalia	2004	25	22
+Somalia	2005	26	22
+Somalia	2006	27	23
+Somalia	2007	29	23
+Somalia	2008	29	23
+Somalia	2009	29	23
+Somalia	2010	29	23
+Somalia	2011	30	24
+Somalia	2012	NA	NA
+Somalia	2013	NA	NA
+South Africa	1990	83	NA
+South Africa	1991	83	NA
+South Africa	1992	83	NA
+South Africa	1993	83	NA
+South Africa	1994	83	NA
+South Africa	1995	84	NA
+South Africa	1996	84	NA
+South Africa	1997	85	NA
+South Africa	1998	85	NA
+South Africa	1999	86	NA
+South Africa	2000	87	NA
+South Africa	2001	87	NA
+South Africa	2002	88	NA
+South Africa	2003	88	NA
+South Africa	2004	89	NA
+South Africa	2005	89	NA
+South Africa	2006	90	NA
+South Africa	2007	90	NA
+South Africa	2008	90	NA
+South Africa	2009	91	NA
+South Africa	2010	91	NA
+South Africa	2011	91	74
+South Africa	2012	NA	NA
+South Africa	2013	NA	NA
+South Sudan	1990	NA	NA
+South Sudan	1991	NA	NA
+South Sudan	1992	NA	NA
+South Sudan	1993	NA	NA
+South Sudan	1994	NA	NA
+South Sudan	1995	NA	NA
+South Sudan	1996	NA	NA
+South Sudan	1997	NA	NA
+South Sudan	1998	NA	NA
+South Sudan	1999	NA	NA
+South Sudan	2000	NA	NA
+South Sudan	2001	NA	NA
+South Sudan	2002	NA	NA
+South Sudan	2003	NA	NA
+South Sudan	2004	NA	NA
+South Sudan	2005	NA	NA
+South Sudan	2006	NA	NA
+South Sudan	2007	NA	NA
+South Sudan	2008	NA	NA
+South Sudan	2009	NA	NA
+South Sudan	2010	NA	NA
+South Sudan	2011	NA	NA
+South Sudan	2012	NA	NA
+South Sudan	2013	NA	NA
+Spain	1990	100	100
+Spain	1991	100	100
+Spain	1992	100	100
+Spain	1993	100	100
+Spain	1994	100	100
+Spain	1995	100	100
+Spain	1996	100	100
+Spain	1997	100	100
+Spain	1998	100	100
+Spain	1999	100	100
+Spain	2000	100	100
+Spain	2001	100	100
+Spain	2002	100	100
+Spain	2003	100	100
+Spain	2004	100	100
+Spain	2005	100	100
+Spain	2006	100	100
+Spain	2007	100	100
+Spain	2008	100	100
+Spain	2009	100	100
+Spain	2010	100	100
+Spain	2011	100	100
+Spain	2012	NA	NA
+Spain	2013	NA	NA
+Sri Lanka	1990	68	68
+Sri Lanka	1991	69	69
+Sri Lanka	1992	70	70
+Sri Lanka	1993	71	71
+Sri Lanka	1994	72	72
+Sri Lanka	1995	73	73
+Sri Lanka	1996	75	74
+Sri Lanka	1997	76	75
+Sri Lanka	1998	77	76
+Sri Lanka	1999	78	78
+Sri Lanka	2000	79	79
+Sri Lanka	2001	80	80
+Sri Lanka	2002	82	81
+Sri Lanka	2003	83	82
+Sri Lanka	2004	84	83
+Sri Lanka	2005	85	84
+Sri Lanka	2006	86	85
+Sri Lanka	2007	88	87
+Sri Lanka	2008	89	88
+Sri Lanka	2009	90	89
+Sri Lanka	2010	91	90
+Sri Lanka	2011	93	91
+Sri Lanka	2012	NA	NA
+Sri Lanka	2013	NA	NA
+State of Palestine	1990	NA	NA
+State of Palestine	1991	96	86
+State of Palestine	1992	97	87
+State of Palestine	1993	97	87
+State of Palestine	1994	97	87
+State of Palestine	1995	97	87
+State of Palestine	1996	97	87
+State of Palestine	1997	96	88
+State of Palestine	1998	94	89
+State of Palestine	1999	93	89
+State of Palestine	2000	92	90
+State of Palestine	2001	91	91
+State of Palestine	2002	90	91
+State of Palestine	2003	88	92
+State of Palestine	2004	87	93
+State of Palestine	2005	86	93
+State of Palestine	2006	84	94
+State of Palestine	2007	83	94
+State of Palestine	2008	82	94
+State of Palestine	2009	82	94
+State of Palestine	2010	82	94
+State of Palestine	2011	82	94
+State of Palestine	2012	NA	NA
+State of Palestine	2013	NA	NA
+Sudan	1990	NA	NA
+Sudan	1991	NA	NA
+Sudan	1992	NA	NA
+Sudan	1993	NA	NA
+Sudan	1994	NA	NA
+Sudan	1995	NA	NA
+Sudan	1996	NA	NA
+Sudan	1997	NA	NA
+Sudan	1998	NA	NA
+Sudan	1999	NA	NA
+Sudan	2000	NA	NA
+Sudan	2001	NA	NA
+Sudan	2002	NA	NA
+Sudan	2003	NA	NA
+Sudan	2004	NA	NA
+Sudan	2005	NA	NA
+Sudan	2006	NA	NA
+Sudan	2007	NA	NA
+Sudan	2008	NA	NA
+Sudan	2009	NA	NA
+Sudan	2010	NA	NA
+Sudan	2011	NA	NA
+Sudan	2012	NA	NA
+Sudan	2013	NA	NA
+Sudan (former)	1990	67	27
+Sudan (former)	1991	68	27
+Sudan (former)	1992	67	27
+Sudan (former)	1993	67	27
+Sudan (former)	1994	66	27
+Sudan (former)	1995	66	27
+Sudan (former)	1996	65	27
+Sudan (former)	1997	64	26
+Sudan (former)	1998	63	26
+Sudan (former)	1999	63	26
+Sudan (former)	2000	62	25
+Sudan (former)	2001	61	25
+Sudan (former)	2002	61	25
+Sudan (former)	2003	60	25
+Sudan (former)	2004	59	24
+Sudan (former)	2005	58	24
+Sudan (former)	2006	58	24
+Sudan (former)	2007	57	23
+Sudan (former)	2008	56	23
+Sudan (former)	2009	56	23
+Sudan (former)	2010	55	22
+Sudan (former)	2011	55	24
+Sudan (former)	2012	NA	NA
+Sudan (former)	2013	NA	NA
+Suriname	1990	NA	NA
+Suriname	1991	NA	NA
+Suriname	1992	NA	NA
+Suriname	1993	NA	NA
+Suriname	1994	88	80
+Suriname	1995	88	80
+Suriname	1996	88	80
+Suriname	1997	89	81
+Suriname	1998	89	81
+Suriname	1999	89	81
+Suriname	2000	89	81
+Suriname	2001	90	81
+Suriname	2002	90	81
+Suriname	2003	90	82
+Suriname	2004	91	82
+Suriname	2005	91	82
+Suriname	2006	91	82
+Suriname	2007	91	82
+Suriname	2008	92	83
+Suriname	2009	92	83
+Suriname	2010	92	83
+Suriname	2011	92	83
+Suriname	2012	NA	NA
+Suriname	2013	NA	NA
+Swaziland	1990	39	49
+Swaziland	1991	39	49
+Swaziland	1992	39	49
+Swaziland	1993	39	49
+Swaziland	1994	41	49
+Swaziland	1995	43	49
+Swaziland	1996	45	50
+Swaziland	1997	46	50
+Swaziland	1998	48	51
+Swaziland	1999	50	51
+Swaziland	2000	52	52
+Swaziland	2001	54	52
+Swaziland	2002	56	53
+Swaziland	2003	57	53
+Swaziland	2004	59	54
+Swaziland	2005	61	54
+Swaziland	2006	63	55
+Swaziland	2007	65	55
+Swaziland	2008	67	56
+Swaziland	2009	68	56
+Swaziland	2010	70	56
+Swaziland	2011	72	57
+Swaziland	2012	NA	NA
+Swaziland	2013	NA	NA
+Sweden	1990	100	100
+Sweden	1991	100	100
+Sweden	1992	100	100
+Sweden	1993	100	100
+Sweden	1994	100	100
+Sweden	1995	100	100
+Sweden	1996	100	100
+Sweden	1997	100	100
+Sweden	1998	100	100
+Sweden	1999	100	100
+Sweden	2000	100	100
+Sweden	2001	100	100
+Sweden	2002	100	100
+Sweden	2003	100	100
+Sweden	2004	100	100
+Sweden	2005	100	100
+Sweden	2006	100	100
+Sweden	2007	100	100
+Sweden	2008	100	100
+Sweden	2009	100	100
+Sweden	2010	100	100
+Sweden	2011	100	100
+Sweden	2012	NA	NA
+Sweden	2013	NA	NA
+Switzerland	1990	100	100
+Switzerland	1991	100	100
+Switzerland	1992	100	100
+Switzerland	1993	100	100
+Switzerland	1994	100	100
+Switzerland	1995	100	100
+Switzerland	1996	100	100
+Switzerland	1997	100	100
+Switzerland	1998	100	100
+Switzerland	1999	100	100
+Switzerland	2000	100	100
+Switzerland	2001	100	100
+Switzerland	2002	100	100
+Switzerland	2003	100	100
+Switzerland	2004	100	100
+Switzerland	2005	100	100
+Switzerland	2006	100	100
+Switzerland	2007	100	100
+Switzerland	2008	100	100
+Switzerland	2009	100	100
+Switzerland	2010	100	100
+Switzerland	2011	100	100
+Switzerland	2012	NA	NA
+Switzerland	2013	NA	NA
+Syrian Arab Republic	1990	86	85
+Syrian Arab Republic	1991	86	85
+Syrian Arab Republic	1992	86	85
+Syrian Arab Republic	1993	86	85
+Syrian Arab Republic	1994	86	85
+Syrian Arab Republic	1995	86	85
+Syrian Arab Republic	1996	86	86
+Syrian Arab Republic	1997	87	87
+Syrian Arab Republic	1998	87	87
+Syrian Arab Republic	1999	87	88
+Syrian Arab Republic	2000	88	89
+Syrian Arab Republic	2001	88	89
+Syrian Arab Republic	2002	88	90
+Syrian Arab Republic	2003	88	91
+Syrian Arab Republic	2004	88	91
+Syrian Arab Republic	2005	89	92
+Syrian Arab Republic	2006	89	92
+Syrian Arab Republic	2007	89	93
+Syrian Arab Republic	2008	89	93
+Syrian Arab Republic	2009	90	94
+Syrian Arab Republic	2010	90	95
+Syrian Arab Republic	2011	90	95
+Syrian Arab Republic	2012	NA	NA
+Syrian Arab Republic	2013	NA	NA
+Tajikistan	1990	NA	NA
+Tajikistan	1991	NA	NA
+Tajikistan	1992	NA	NA
+Tajikistan	1993	61	89
+Tajikistan	1994	61	89
+Tajikistan	1995	60	89
+Tajikistan	1996	60	89
+Tajikistan	1997	60	88
+Tajikistan	1998	60	89
+Tajikistan	1999	60	89
+Tajikistan	2000	61	90
+Tajikistan	2001	61	91
+Tajikistan	2002	62	91
+Tajikistan	2003	62	92
+Tajikistan	2004	63	92
+Tajikistan	2005	63	93
+Tajikistan	2006	64	93
+Tajikistan	2007	64	94
+Tajikistan	2008	64	94
+Tajikistan	2009	65	95
+Tajikistan	2010	65	95
+Tajikistan	2011	66	95
+Tajikistan	2012	NA	NA
+Tajikistan	2013	NA	NA
+Thailand	1990	86	82
+Thailand	1991	87	83
+Thailand	1992	87	84
+Thailand	1993	88	85
+Thailand	1994	89	86
+Thailand	1995	89	87
+Thailand	1996	90	88
+Thailand	1997	90	88
+Thailand	1998	91	89
+Thailand	1999	91	90
+Thailand	2000	92	91
+Thailand	2001	92	92
+Thailand	2002	93	93
+Thailand	2003	93	94
+Thailand	2004	94	94
+Thailand	2005	94	94
+Thailand	2006	95	94
+Thailand	2007	95	94
+Thailand	2008	96	94
+Thailand	2009	96	93
+Thailand	2010	96	93
+Thailand	2011	96	93
+Thailand	2012	NA	NA
+Thailand	2013	NA	NA
+The former Yugoslav Republic of Macedonia	1990	99	NA
+The former Yugoslav Republic of Macedonia	1991	99	NA
+The former Yugoslav Republic of Macedonia	1992	99	NA
+The former Yugoslav Republic of Macedonia	1993	99	NA
+The former Yugoslav Republic of Macedonia	1994	99	NA
+The former Yugoslav Republic of Macedonia	1995	99	NA
+The former Yugoslav Republic of Macedonia	1996	99	NA
+The former Yugoslav Republic of Macedonia	1997	99	NA
+The former Yugoslav Republic of Macedonia	1998	99	NA
+The former Yugoslav Republic of Macedonia	1999	99	NA
+The former Yugoslav Republic of Macedonia	2000	99	90
+The former Yugoslav Republic of Macedonia	2001	99	90
+The former Yugoslav Republic of Macedonia	2002	99	90
+The former Yugoslav Republic of Macedonia	2003	99	90
+The former Yugoslav Republic of Macedonia	2004	99	90
+The former Yugoslav Republic of Macedonia	2005	99	90
+The former Yugoslav Republic of Macedonia	2006	99	90
+The former Yugoslav Republic of Macedonia	2007	99	90
+The former Yugoslav Republic of Macedonia	2008	99	91
+The former Yugoslav Republic of Macedonia	2009	99	91
+The former Yugoslav Republic of Macedonia	2010	100	91
+The former Yugoslav Republic of Macedonia	2011	100	91
+The former Yugoslav Republic of Macedonia	2012	NA	NA
+The former Yugoslav Republic of Macedonia	2013	NA	NA
+Timor-Leste	1990	NA	NA
+Timor-Leste	1991	NA	NA
+Timor-Leste	1992	NA	NA
+Timor-Leste	1993	NA	NA
+Timor-Leste	1994	NA	NA
+Timor-Leste	1995	53	37
+Timor-Leste	1996	53	37
+Timor-Leste	1997	53	37
+Timor-Leste	1998	53	37
+Timor-Leste	1999	53	37
+Timor-Leste	2000	54	37
+Timor-Leste	2001	56	37
+Timor-Leste	2002	57	37
+Timor-Leste	2003	58	38
+Timor-Leste	2004	60	38
+Timor-Leste	2005	61	38
+Timor-Leste	2006	62	38
+Timor-Leste	2007	64	38
+Timor-Leste	2008	65	38
+Timor-Leste	2009	66	38
+Timor-Leste	2010	68	39
+Timor-Leste	2011	69	39
+Timor-Leste	2012	NA	NA
+Timor-Leste	2013	NA	NA
+Togo	1990	48	13
+Togo	1991	49	13
+Togo	1992	49	13
+Togo	1993	50	13
+Togo	1994	50	13
+Togo	1995	51	13
+Togo	1996	51	13
+Togo	1997	52	12
+Togo	1998	52	12
+Togo	1999	53	12
+Togo	2000	53	12
+Togo	2001	54	12
+Togo	2002	54	12
+Togo	2003	55	12
+Togo	2004	55	12
+Togo	2005	56	12
+Togo	2006	56	12
+Togo	2007	57	12
+Togo	2008	57	12
+Togo	2009	58	12
+Togo	2010	58	11
+Togo	2011	59	11
+Togo	2012	NA	NA
+Togo	2013	NA	NA
+Tokelau	1990	90	41
+Tokelau	1991	90	41
+Tokelau	1992	90	41
+Tokelau	1993	90	41
+Tokelau	1994	90	41
+Tokelau	1995	91	45
+Tokelau	1996	91	49
+Tokelau	1997	92	52
+Tokelau	1998	92	56
+Tokelau	1999	93	60
+Tokelau	2000	93	63
+Tokelau	2001	94	67
+Tokelau	2002	94	71
+Tokelau	2003	95	75
+Tokelau	2004	95	78
+Tokelau	2005	96	82
+Tokelau	2006	96	86
+Tokelau	2007	97	89
+Tokelau	2008	97	93
+Tokelau	2009	97	93
+Tokelau	2010	97	93
+Tokelau	2011	97	93
+Tokelau	2012	NA	NA
+Tokelau	2013	NA	NA
+Tonga	1990	99	95
+Tonga	1991	99	95
+Tonga	1992	99	95
+Tonga	1993	99	95
+Tonga	1994	99	95
+Tonga	1995	99	94
+Tonga	1996	99	94
+Tonga	1997	99	94
+Tonga	1998	99	94
+Tonga	1999	99	94
+Tonga	2000	99	94
+Tonga	2001	99	93
+Tonga	2002	99	93
+Tonga	2003	99	93
+Tonga	2004	99	93
+Tonga	2005	99	93
+Tonga	2006	99	92
+Tonga	2007	99	92
+Tonga	2008	99	92
+Tonga	2009	99	92
+Tonga	2010	99	92
+Tonga	2011	99	92
+Tonga	2012	NA	NA
+Tonga	2013	NA	NA
+Trinidad and Tobago	1990	89	93
+Trinidad and Tobago	1991	89	93
+Trinidad and Tobago	1992	89	93
+Trinidad and Tobago	1993	90	93
+Trinidad and Tobago	1994	90	93
+Trinidad and Tobago	1995	90	92
+Trinidad and Tobago	1996	90	92
+Trinidad and Tobago	1997	91	92
+Trinidad and Tobago	1998	91	92
+Trinidad and Tobago	1999	91	92
+Trinidad and Tobago	2000	92	92
+Trinidad and Tobago	2001	92	92
+Trinidad and Tobago	2002	92	92
+Trinidad and Tobago	2003	93	92
+Trinidad and Tobago	2004	93	92
+Trinidad and Tobago	2005	93	92
+Trinidad and Tobago	2006	94	92
+Trinidad and Tobago	2007	94	92
+Trinidad and Tobago	2008	94	92
+Trinidad and Tobago	2009	94	92
+Trinidad and Tobago	2010	94	92
+Trinidad and Tobago	2011	94	92
+Trinidad and Tobago	2012	NA	NA
+Trinidad and Tobago	2013	NA	NA
+Tunisia	1990	82	73
+Tunisia	1991	82	74
+Tunisia	1992	83	75
+Tunisia	1993	84	76
+Tunisia	1994	85	77
+Tunisia	1995	86	78
+Tunisia	1996	87	79
+Tunisia	1997	87	79
+Tunisia	1998	88	80
+Tunisia	1999	89	81
+Tunisia	2000	89	82
+Tunisia	2001	90	83
+Tunisia	2002	91	84
+Tunisia	2003	91	84
+Tunisia	2004	92	85
+Tunisia	2005	93	86
+Tunisia	2006	93	86
+Tunisia	2007	94	87
+Tunisia	2008	95	88
+Tunisia	2009	95	88
+Tunisia	2010	96	89
+Tunisia	2011	96	90
+Tunisia	2012	NA	NA
+Tunisia	2013	NA	NA
+Turkey	1990	85	84
+Turkey	1991	86	84
+Turkey	1992	86	84
+Turkey	1993	87	85
+Turkey	1994	88	85
+Turkey	1995	89	85
+Turkey	1996	90	86
+Turkey	1997	91	86
+Turkey	1998	91	86
+Turkey	1999	92	87
+Turkey	2000	93	87
+Turkey	2001	94	88
+Turkey	2002	94	88
+Turkey	2003	95	88
+Turkey	2004	96	89
+Turkey	2005	97	89
+Turkey	2006	97	89
+Turkey	2007	98	89
+Turkey	2008	99	90
+Turkey	2009	99	90
+Turkey	2010	100	91
+Turkey	2011	100	91
+Turkey	2012	NA	NA
+Turkey	2013	NA	NA
+Turkmenistan	1990	NA	98
+Turkmenistan	1991	NA	98
+Turkmenistan	1992	NA	98
+Turkmenistan	1993	NA	98
+Turkmenistan	1994	86	98
+Turkmenistan	1995	86	98
+Turkmenistan	1996	86	98
+Turkmenistan	1997	87	98
+Turkmenistan	1998	87	98
+Turkmenistan	1999	85	98
+Turkmenistan	2000	83	98
+Turkmenistan	2001	82	98
+Turkmenistan	2002	80	98
+Turkmenistan	2003	79	99
+Turkmenistan	2004	77	99
+Turkmenistan	2005	75	99
+Turkmenistan	2006	74	99
+Turkmenistan	2007	72	99
+Turkmenistan	2008	71	99
+Turkmenistan	2009	71	99
+Turkmenistan	2010	71	99
+Turkmenistan	2011	71	99
+Turkmenistan	2012	NA	NA
+Turkmenistan	2013	NA	NA
+Turks and Caicos Islands	1990	NA	NA
+Turks and Caicos Islands	1991	NA	NA
+Turks and Caicos Islands	1992	NA	NA
+Turks and Caicos Islands	1993	NA	NA
+Turks and Caicos Islands	1994	NA	NA
+Turks and Caicos Islands	1995	87	81
+Turks and Caicos Islands	1996	87	81
+Turks and Caicos Islands	1997	87	81
+Turks and Caicos Islands	1998	87	81
+Turks and Caicos Islands	1999	87	81
+Turks and Caicos Islands	2000	87	81
+Turks and Caicos Islands	2001	87	81
+Turks and Caicos Islands	2002	87	81
+Turks and Caicos Islands	2003	87	81
+Turks and Caicos Islands	2004	87	81
+Turks and Caicos Islands	2005	87	81
+Turks and Caicos Islands	2006	87	81
+Turks and Caicos Islands	2007	87	81
+Turks and Caicos Islands	2008	NA	NA
+Turks and Caicos Islands	2009	NA	NA
+Turks and Caicos Islands	2010	NA	NA
+Turks and Caicos Islands	2011	NA	NA
+Turks and Caicos Islands	2012	NA	NA
+Turks and Caicos Islands	2013	NA	NA
+Tuvalu	1990	90	73
+Tuvalu	1991	90	74
+Tuvalu	1992	91	74
+Tuvalu	1993	91	75
+Tuvalu	1994	92	75
+Tuvalu	1995	92	76
+Tuvalu	1996	92	76
+Tuvalu	1997	93	77
+Tuvalu	1998	93	77
+Tuvalu	1999	94	78
+Tuvalu	2000	94	78
+Tuvalu	2001	94	79
+Tuvalu	2002	95	79
+Tuvalu	2003	95	80
+Tuvalu	2004	96	81
+Tuvalu	2005	96	81
+Tuvalu	2006	96	82
+Tuvalu	2007	97	82
+Tuvalu	2008	97	83
+Tuvalu	2009	98	83
+Tuvalu	2010	98	83
+Tuvalu	2011	98	83
+Tuvalu	2012	NA	NA
+Tuvalu	2013	NA	NA
+Uganda	1990	41	27
+Uganda	1991	42	28
+Uganda	1992	44	28
+Uganda	1993	46	28
+Uganda	1994	47	29
+Uganda	1995	49	29
+Uganda	1996	50	29
+Uganda	1997	52	30
+Uganda	1998	54	30
+Uganda	1999	55	31
+Uganda	2000	57	31
+Uganda	2001	58	31
+Uganda	2002	60	32
+Uganda	2003	62	32
+Uganda	2004	63	32
+Uganda	2005	65	33
+Uganda	2006	67	33
+Uganda	2007	68	34
+Uganda	2008	70	34
+Uganda	2009	72	34
+Uganda	2010	73	35
+Uganda	2011	75	35
+Uganda	2012	NA	NA
+Uganda	2013	NA	NA
+Ukraine	1990	NA	NA
+Ukraine	1991	NA	NA
+Ukraine	1992	NA	NA
+Ukraine	1993	NA	NA
+Ukraine	1994	97	97
+Ukraine	1995	97	97
+Ukraine	1996	97	97
+Ukraine	1997	97	97
+Ukraine	1998	97	97
+Ukraine	1999	97	97
+Ukraine	2000	97	95
+Ukraine	2001	97	95
+Ukraine	2002	97	95
+Ukraine	2003	97	95
+Ukraine	2004	97	95
+Ukraine	2005	98	95
+Ukraine	2006	98	95
+Ukraine	2007	98	94
+Ukraine	2008	98	94
+Ukraine	2009	98	94
+Ukraine	2010	98	94
+Ukraine	2011	98	94
+Ukraine	2012	NA	NA
+Ukraine	2013	NA	NA
+Union of Soviet Socialist Republics [former]	1990	NA	NA
+Union of Soviet Socialist Republics [former]	1991	NA	NA
+Union of Soviet Socialist Republics [former]	1992	NA	NA
+Union of Soviet Socialist Republics [former]	1993	NA	NA
+Union of Soviet Socialist Republics [former]	1994	NA	NA
+Union of Soviet Socialist Republics [former]	1995	NA	NA
+Union of Soviet Socialist Republics [former]	1996	NA	NA
+Union of Soviet Socialist Republics [former]	1997	NA	NA
+Union of Soviet Socialist Republics [former]	1998	NA	NA
+Union of Soviet Socialist Republics [former]	1999	NA	NA
+Union of Soviet Socialist Republics [former]	2000	NA	NA
+Union of Soviet Socialist Republics [former]	2001	NA	NA
+Union of Soviet Socialist Republics [former]	2002	NA	NA
+Union of Soviet Socialist Republics [former]	2003	NA	NA
+Union of Soviet Socialist Republics [former]	2004	NA	NA
+Union of Soviet Socialist Republics [former]	2005	NA	NA
+Union of Soviet Socialist Republics [former]	2006	NA	NA
+Union of Soviet Socialist Republics [former]	2007	NA	NA
+Union of Soviet Socialist Republics [former]	2008	NA	NA
+Union of Soviet Socialist Republics [former]	2009	NA	NA
+Union of Soviet Socialist Republics [former]	2010	NA	NA
+Union of Soviet Socialist Republics [former]	2011	NA	NA
+Union of Soviet Socialist Republics [former]	2012	NA	NA
+Union of Soviet Socialist Republics [former]	2013	NA	NA
+United Arab Emirates	1990	100	97
+United Arab Emirates	1991	100	97
+United Arab Emirates	1992	100	97
+United Arab Emirates	1993	100	97
+United Arab Emirates	1994	100	97
+United Arab Emirates	1995	100	97
+United Arab Emirates	1996	100	97
+United Arab Emirates	1997	100	97
+United Arab Emirates	1998	100	97
+United Arab Emirates	1999	100	97
+United Arab Emirates	2000	100	97
+United Arab Emirates	2001	100	97
+United Arab Emirates	2002	100	98
+United Arab Emirates	2003	100	98
+United Arab Emirates	2004	100	98
+United Arab Emirates	2005	100	97
+United Arab Emirates	2006	100	97
+United Arab Emirates	2007	100	97
+United Arab Emirates	2008	100	98
+United Arab Emirates	2009	100	98
+United Arab Emirates	2010	100	98
+United Arab Emirates	2011	100	98
+United Arab Emirates	2012	NA	NA
+United Arab Emirates	2013	NA	NA
+United Kingdom	1990	100	100
+United Kingdom	1991	100	100
+United Kingdom	1992	100	100
+United Kingdom	1993	100	100
+United Kingdom	1994	100	100
+United Kingdom	1995	100	100
+United Kingdom	1996	100	100
+United Kingdom	1997	100	100
+United Kingdom	1998	100	100
+United Kingdom	1999	100	100
+United Kingdom	2000	100	100
+United Kingdom	2001	100	100
+United Kingdom	2002	100	100
+United Kingdom	2003	100	100
+United Kingdom	2004	100	100
+United Kingdom	2005	100	100
+United Kingdom	2006	100	100
+United Kingdom	2007	100	100
+United Kingdom	2008	100	100
+United Kingdom	2009	100	100
+United Kingdom	2010	100	100
+United Kingdom	2011	100	100
+United Kingdom	2012	NA	NA
+United Kingdom	2013	NA	NA
+United Republic of Tanzania	1990	55	7
+United Republic of Tanzania	1991	55	7
+United Republic of Tanzania	1992	55	7
+United Republic of Tanzania	1993	55	7
+United Republic of Tanzania	1994	55	7
+United Republic of Tanzania	1995	55	8
+United Republic of Tanzania	1996	55	8
+United Republic of Tanzania	1997	55	8
+United Republic of Tanzania	1998	54	8
+United Republic of Tanzania	1999	54	9
+United Republic of Tanzania	2000	54	9
+United Republic of Tanzania	2001	54	9
+United Republic of Tanzania	2002	54	9
+United Republic of Tanzania	2003	54	10
+United Republic of Tanzania	2004	54	10
+United Republic of Tanzania	2005	54	10
+United Republic of Tanzania	2006	54	10
+United Republic of Tanzania	2007	54	11
+United Republic of Tanzania	2008	54	11
+United Republic of Tanzania	2009	54	11
+United Republic of Tanzania	2010	53	12
+United Republic of Tanzania	2011	53	12
+United Republic of Tanzania	2012	NA	NA
+United Republic of Tanzania	2013	NA	NA
+United States	1990	98	100
+United States	1991	98	100
+United States	1992	98	100
+United States	1993	98	100
+United States	1994	98	100
+United States	1995	98	100
+United States	1996	98	100
+United States	1997	99	100
+United States	1998	99	100
+United States	1999	99	100
+United States	2000	99	100
+United States	2001	99	100
+United States	2002	99	100
+United States	2003	99	100
+United States	2004	99	100
+United States	2005	99	100
+United States	2006	99	100
+United States	2007	99	100
+United States	2008	99	100
+United States	2009	99	100
+United States	2010	99	100
+United States	2011	99	100
+United States	2012	NA	NA
+United States	2013	NA	NA
+United States Virgin Islands	1990	100	96
+United States Virgin Islands	1991	100	96
+United States Virgin Islands	1992	100	96
+United States Virgin Islands	1993	100	96
+United States Virgin Islands	1994	100	96
+United States Virgin Islands	1995	100	96
+United States Virgin Islands	1996	100	96
+United States Virgin Islands	1997	100	96
+United States Virgin Islands	1998	100	96
+United States Virgin Islands	1999	100	96
+United States Virgin Islands	2000	100	96
+United States Virgin Islands	2001	100	96
+United States Virgin Islands	2002	100	96
+United States Virgin Islands	2003	100	96
+United States Virgin Islands	2004	100	96
+United States Virgin Islands	2005	100	96
+United States Virgin Islands	2006	100	96
+United States Virgin Islands	2007	100	96
+United States Virgin Islands	2008	100	96
+United States Virgin Islands	2009	100	96
+United States Virgin Islands	2010	100	96
+United States Virgin Islands	2011	100	96
+United States Virgin Islands	2012	NA	NA
+United States Virgin Islands	2013	NA	NA
+Uruguay	1990	96	95
+Uruguay	1991	97	95
+Uruguay	1992	97	95
+Uruguay	1993	97	95
+Uruguay	1994	97	95
+Uruguay	1995	97	96
+Uruguay	1996	97	96
+Uruguay	1997	97	96
+Uruguay	1998	98	96
+Uruguay	1999	98	96
+Uruguay	2000	98	97
+Uruguay	2001	98	97
+Uruguay	2002	98	97
+Uruguay	2003	98	97
+Uruguay	2004	99	97
+Uruguay	2005	99	98
+Uruguay	2006	99	98
+Uruguay	2007	99	98
+Uruguay	2008	99	98
+Uruguay	2009	100	98
+Uruguay	2010	100	99
+Uruguay	2011	100	99
+Uruguay	2012	NA	NA
+Uruguay	2013	NA	NA
+Uzbekistan	1990	90	84
+Uzbekistan	1991	90	84
+Uzbekistan	1992	90	84
+Uzbekistan	1993	90	84
+Uzbekistan	1994	90	83
+Uzbekistan	1995	90	85
+Uzbekistan	1996	89	86
+Uzbekistan	1997	89	87
+Uzbekistan	1998	89	88
+Uzbekistan	1999	89	90
+Uzbekistan	2000	89	91
+Uzbekistan	2001	89	92
+Uzbekistan	2002	88	93
+Uzbekistan	2003	88	95
+Uzbekistan	2004	88	96
+Uzbekistan	2005	88	97
+Uzbekistan	2006	88	99
+Uzbekistan	2007	87	100
+Uzbekistan	2008	87	100
+Uzbekistan	2009	87	100
+Uzbekistan	2010	87	100
+Uzbekistan	2011	87	100
+Uzbekistan	2012	NA	NA
+Uzbekistan	2013	NA	NA
+Vanuatu	1990	62	NA
+Vanuatu	1991	63	NA
+Vanuatu	1992	65	35
+Vanuatu	1993	66	35
+Vanuatu	1994	68	36
+Vanuatu	1995	69	36
+Vanuatu	1996	70	36
+Vanuatu	1997	72	37
+Vanuatu	1998	73	39
+Vanuatu	1999	75	40
+Vanuatu	2000	76	42
+Vanuatu	2001	77	43
+Vanuatu	2002	79	45
+Vanuatu	2003	80	46
+Vanuatu	2004	81	48
+Vanuatu	2005	83	49
+Vanuatu	2006	84	51
+Vanuatu	2007	85	52
+Vanuatu	2008	87	53
+Vanuatu	2009	88	55
+Vanuatu	2010	89	56
+Vanuatu	2011	91	58
+Vanuatu	2012	NA	NA
+Vanuatu	2013	NA	NA
+Venezuela	1990	90	82
+Venezuela	1991	90	83
+Venezuela	1992	90	83
+Venezuela	1993	91	84
+Venezuela	1994	91	85
+Venezuela	1995	91	86
+Venezuela	1996	91	86
+Venezuela	1997	92	87
+Venezuela	1998	92	87
+Venezuela	1999	92	88
+Venezuela	2000	92	89
+Venezuela	2001	92	89
+Venezuela	2002	92	90
+Venezuela	2003	93	90
+Venezuela	2004	93	91
+Venezuela	2005	93	91
+Venezuela	2006	93	91
+Venezuela	2007	93	91
+Venezuela	2008	NA	NA
+Venezuela	2009	NA	NA
+Venezuela	2010	NA	NA
+Venezuela	2011	NA	NA
+Venezuela	2012	NA	NA
+Venezuela	2013	NA	NA
+Viet Nam	1990	58	37
+Viet Nam	1991	60	39
+Viet Nam	1992	62	41
+Viet Nam	1993	64	42
+Viet Nam	1994	66	44
+Viet Nam	1995	67	46
+Viet Nam	1996	69	48
+Viet Nam	1997	71	50
+Viet Nam	1998	73	51
+Viet Nam	1999	75	53
+Viet Nam	2000	77	55
+Viet Nam	2001	78	57
+Viet Nam	2002	80	59
+Viet Nam	2003	82	60
+Viet Nam	2004	84	62
+Viet Nam	2005	85	64
+Viet Nam	2006	87	66
+Viet Nam	2007	89	68
+Viet Nam	2008	91	69
+Viet Nam	2009	92	71
+Viet Nam	2010	94	73
+Viet Nam	2011	96	75
+Viet Nam	2012	NA	NA
+Viet Nam	2013	NA	NA
+Wallis and Futuna Islands	1990	NA	NA
+Wallis and Futuna Islands	1991	NA	NA
+Wallis and Futuna Islands	1992	NA	NA
+Wallis and Futuna Islands	1993	NA	NA
+Wallis and Futuna Islands	1994	NA	NA
+Wallis and Futuna Islands	1995	NA	NA
+Wallis and Futuna Islands	1996	NA	NA
+Wallis and Futuna Islands	1997	NA	NA
+Wallis and Futuna Islands	1998	NA	NA
+Wallis and Futuna Islands	1999	NA	NA
+Wallis and Futuna Islands	2000	NA	NA
+Wallis and Futuna Islands	2001	NA	NA
+Wallis and Futuna Islands	2002	NA	NA
+Wallis and Futuna Islands	2003	NA	NA
+Wallis and Futuna Islands	2004	NA	NA
+Wallis and Futuna Islands	2005	NA	NA
+Wallis and Futuna Islands	2006	NA	NA
+Wallis and Futuna Islands	2007	NA	NA
+Wallis and Futuna Islands	2008	NA	NA
+Wallis and Futuna Islands	2009	NA	NA
+Wallis and Futuna Islands	2010	NA	NA
+Wallis and Futuna Islands	2011	NA	NA
+Wallis and Futuna Islands	2012	NA	NA
+Wallis and Futuna Islands	2013	NA	NA
+Western Sahara	1990	NA	NA
+Western Sahara	1991	NA	NA
+Western Sahara	1992	NA	NA
+Western Sahara	1993	NA	NA
+Western Sahara	1994	NA	NA
+Western Sahara	1995	NA	NA
+Western Sahara	1996	NA	NA
+Western Sahara	1997	NA	NA
+Western Sahara	1998	NA	NA
+Western Sahara	1999	NA	NA
+Western Sahara	2000	NA	NA
+Western Sahara	2001	NA	NA
+Western Sahara	2002	NA	NA
+Western Sahara	2003	NA	NA
+Western Sahara	2004	NA	NA
+Western Sahara	2005	NA	NA
+Western Sahara	2006	NA	NA
+Western Sahara	2007	NA	NA
+Western Sahara	2008	NA	NA
+Western Sahara	2009	NA	NA
+Western Sahara	2010	NA	NA
+Western Sahara	2011	NA	NA
+Western Sahara	2012	NA	NA
+Western Sahara	2013	NA	NA
+Yemen	1990	66	24
+Yemen	1991	66	25
+Yemen	1992	65	27
+Yemen	1993	64	28
+Yemen	1994	64	30
+Yemen	1995	63	32
+Yemen	1996	63	33
+Yemen	1997	62	35
+Yemen	1998	61	36
+Yemen	1999	61	38
+Yemen	2000	60	39
+Yemen	2001	59	41
+Yemen	2002	59	43
+Yemen	2003	58	44
+Yemen	2004	57	46
+Yemen	2005	56	47
+Yemen	2006	56	49
+Yemen	2007	55	50
+Yemen	2008	54	52
+Yemen	2009	54	52
+Yemen	2010	55	53
+Yemen	2011	55	53
+Yemen	2012	NA	NA
+Yemen	2013	NA	NA
+Yemen Arab Republic [former]	1990	NA	NA
+Yemen Arab Republic [former]	1991	NA	NA
+Yemen Arab Republic [former]	1992	NA	NA
+Yemen Arab Republic [former]	1993	NA	NA
+Yemen Arab Republic [former]	1994	NA	NA
+Yemen Arab Republic [former]	1995	NA	NA
+Yemen Arab Republic [former]	1996	NA	NA
+Yemen Arab Republic [former]	1997	NA	NA
+Yemen Arab Republic [former]	1998	NA	NA
+Yemen Arab Republic [former]	1999	NA	NA
+Yemen Arab Republic [former]	2000	NA	NA
+Yemen Arab Republic [former]	2001	NA	NA
+Yemen Arab Republic [former]	2002	NA	NA
+Yemen Arab Republic [former]	2003	NA	NA
+Yemen Arab Republic [former]	2004	NA	NA
+Yemen Arab Republic [former]	2005	NA	NA
+Yemen Arab Republic [former]	2006	NA	NA
+Yemen Arab Republic [former]	2007	NA	NA
+Yemen Arab Republic [former]	2008	NA	NA
+Yemen Arab Republic [former]	2009	NA	NA
+Yemen Arab Republic [former]	2010	NA	NA
+Yemen Arab Republic [former]	2011	NA	NA
+Yemen Arab Republic [former]	2012	NA	NA
+Yemen Arab Republic [former]	2013	NA	NA
+Yugoslavia [former Socialist Federal Republic]	1990	NA	NA
+Yugoslavia [former Socialist Federal Republic]	1991	NA	NA
+Yugoslavia [former Socialist Federal Republic]	1992	NA	NA
+Yugoslavia [former Socialist Federal Republic]	1993	NA	NA
+Yugoslavia [former Socialist Federal Republic]	1994	NA	NA
+Yugoslavia [former Socialist Federal Republic]	1995	NA	NA
+Yugoslavia [former Socialist Federal Republic]	1996	NA	NA
+Yugoslavia [former Socialist Federal Republic]	1997	NA	NA
+Yugoslavia [former Socialist Federal Republic]	1998	NA	NA
+Yugoslavia [former Socialist Federal Republic]	1999	NA	NA
+Yugoslavia [former Socialist Federal Republic]	2000	NA	NA
+Yugoslavia [former Socialist Federal Republic]	2001	NA	NA
+Yugoslavia [former Socialist Federal Republic]	2002	NA	NA
+Yugoslavia [former Socialist Federal Republic]	2003	NA	NA
+Yugoslavia [former Socialist Federal Republic]	2004	NA	NA
+Yugoslavia [former Socialist Federal Republic]	2005	NA	NA
+Yugoslavia [former Socialist Federal Republic]	2006	NA	NA
+Yugoslavia [former Socialist Federal Republic]	2007	NA	NA
+Yugoslavia [former Socialist Federal Republic]	2008	NA	NA
+Yugoslavia [former Socialist Federal Republic]	2009	NA	NA
+Yugoslavia [former Socialist Federal Republic]	2010	NA	NA
+Yugoslavia [former Socialist Federal Republic]	2011	NA	NA
+Yugoslavia [former Socialist Federal Republic]	2012	NA	NA
+Yugoslavia [former Socialist Federal Republic]	2013	NA	NA
+Zambia	1990	48	42
+Zambia	1991	49	42
+Zambia	1992	49	41
+Zambia	1993	50	41
+Zambia	1994	50	41
+Zambia	1995	51	41
+Zambia	1996	51	41
+Zambia	1997	52	41
+Zambia	1998	52	41
+Zambia	1999	53	41
+Zambia	2000	54	41
+Zambia	2001	54	41
+Zambia	2002	55	41
+Zambia	2003	57	41
+Zambia	2004	57	41
+Zambia	2005	58	41
+Zambia	2006	59	41
+Zambia	2007	60	42
+Zambia	2008	61	42
+Zambia	2009	62	42
+Zambia	2010	63	42
+Zambia	2011	64	42
+Zambia	2012	NA	NA
+Zambia	2013	NA	NA
+Zimbabwe	1990	79	40
+Zimbabwe	1991	79	41
+Zimbabwe	1992	79	41
+Zimbabwe	1993	79	41
+Zimbabwe	1994	79	41
+Zimbabwe	1995	79	40
+Zimbabwe	1996	79	40
+Zimbabwe	1997	80	40
+Zimbabwe	1998	80	40
+Zimbabwe	1999	80	40
+Zimbabwe	2000	80	40
+Zimbabwe	2001	80	40
+Zimbabwe	2002	80	40
+Zimbabwe	2003	80	40
+Zimbabwe	2004	80	40
+Zimbabwe	2005	80	40
+Zimbabwe	2006	80	40
+Zimbabwe	2007	80	40
+Zimbabwe	2008	80	40
+Zimbabwe	2009	80	40
+Zimbabwe	2010	80	40
+Zimbabwe	2011	80	40
+Zimbabwe	2012	NA	NA
+Zimbabwe	2013	NA	NA
