@@ -10,6 +10,7 @@ hitheme     : tomorrow      #
 widgets     : [mathjax, quiz, bootstrap]  # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
+
 ---
 
 ## Project Overview
@@ -55,7 +56,7 @@ $(function() {
 });
 </script>
 
-![image](assets/img/country_Revised.png)
+![image](assets/img/country_revised.png)
 
 ---  .class #id
 
@@ -68,6 +69,8 @@ $(function() {
 </script>
 
 ![image](assets/img/region.png)
+
+
 
 
 
